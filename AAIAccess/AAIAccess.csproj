@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AssemblyName>AAIAccess</AssemblyName>
+    <RootNamespace>AAIAccess</RootNamespace>
+    <LangVersion>latest</LangVersion>
+    <Nullable>disable</Nullable>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
+  </PropertyGroup>
+  <!-- Developer tools (F9-F11, crash and test switches) are only in the developer build: dotnet build -p:DevTools=true -->
+  <PropertyGroup Condition="'$(DevTools)' == 'true'">
+    <DefineConstants>$(DefineConstants);DEVTOOLS</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="../lib/ml/*.dll" Private="false" />
+    <Reference Include="../lib/il2cpp/*.dll" Exclude="../lib/il2cpp/Il2CppGK1.dll;../lib/il2cpp/Il2CppGK2.dll" Private="false" />
+    <!-- The two games share class names (AppCore, ...), so each gets its own alias. -->
+    <Reference Include="../lib/il2cpp/Il2CppGK1.dll" Aliases="GK1" Private="false" />
+    <Reference Include="../lib/il2cpp/Il2CppGK2.dll" Aliases="GK2" Private="false" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ncgnames.txt" LogicalName="ncgnames.txt" />
+    <EmbeddedResource Include="pagetext.txt" LogicalName="pagetext.txt" />
+    <EmbeddedResource Include="closeups.txt" LogicalName="closeups.txt" />
+    <EmbeddedResource Include="gk2names.txt" LogicalName="gk2names.txt" />
+  </ItemGroup>
+</Project>

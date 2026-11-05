@@ -1,0 +1,1528 @@
+# Close-up picture descriptions. name|whole picture, name@x,y,w,h|what is in that box (picture units: 1920px = 341).
+upcut_00_01|Shelves of binders labeled with numbers and letters: 1A to 1H on the top row, 2A to 2H in the middle, and 3A, 3B, 3C, 0A, 0B, 0C, 0D, 0E on the bottom row. Bloody handprints are smeared on some binders. A body in a suit lies on the floor at the right, and a pool of blood spreads across the floor below the shelves, with a bloody handprint at the left.
+upcut_00_01@90,15,150,40|the top row of binders: 1A to 1H
+upcut_00_01@95,40,20,25|a bloody handprint on binder 1A
+upcut_00_01@180,40,25,25|a bloody handprint on binders 1F and 1G
+upcut_00_01@90,65,165,35|the middle row of binders: 2A to 2H
+upcut_00_01@90,100,150,35|the bottom row of binders: 3A, 3B, 3C, 0A, 0B, 0C, 0D, 0E
+upcut_00_01@185,105,55,30|blood on binders 0C, 0D and 0E
+upcut_00_01@200,95,341,97|a body in a suit lying on the floor
+upcut_00_01@90,140,120,40|a pool of blood on the floor
+upcut_00_01@60,150,35,30|a bloody handprint on the floor
+upcut_00_01@0,0,90,140|shelves of binders at the left
+upcut_00_01@255,0,86,95|shelves of binders at the right
+upcut_00_03|Tall dark picture: a body lies on the floor at the bottom right, next to tall bookshelves. Fallen books are piled on the floor above it, and a small flat black object lies on the floor near its hand.
+upcut_00_03@130,230,145,154|a body lying on the floor
+upcut_00_03@140,330,30,40|a hand
+upcut_00_03@80,325,40,40|a small flat black object on the floor
+upcut_00_03@35,130,160,160|fallen books piled on the floor
+upcut_00_03@230,0,111,384|tall bookshelves
+upcut_00_03@0,0,40,100|a dark object at the top left
+upcut_00_08|A large framed portrait of a red coat with a frilled cravat, propped against a wall, with a small hole in the glass at the left. A pink sofa is in front, and a bookcase at the right.
+upcut_00_08@90,10,95,130|a framed portrait of a red coat with a frilled cravat
+upcut_00_08@100,85,20,15|a small hole in the glass
+upcut_00_08@20,130,230,62|a pink sofa
+upcut_00_08@290,45,51,80|a bookcase
+upcut_00_08@295,0,46,40|a plant
+upcut_00_09|A police badge in a black leather holder. Police Department. Name: Buddy Faith. Rank: Detective. Number 1193964. A photo of a young man with a cap, and his signature.
+upcut_00_09@85,10,170,25|Police Department
+upcut_00_09@85,40,75,95|a photo of a young man with a cap
+upcut_00_09@160,40,95,90|Name: Buddy Faith. Rank: Detective.
+upcut_00_09@85,125,50,15|Number 1193964
+upcut_00_09@190,110,65,25|a signature: Buddy Faith
+upcut_00_09@100,160,170,32|a metal badge
+upcut_00_10|Wide, very dark picture: a man with a shaved head stands in the shadows, pointing a revolver forward with both hands. A faint figure is in the background at the right.
+upcut_00_10@140,30,90,162|a man with a shaved head in the shadows
+upcut_00_10@195,115,50,40|a revolver held in both hands
+upcut_00_10@370,40,59,120|a faint figure in the background
+upcut_00_11|Shelves of binders, rearranged: the top row has 0A, 0B, 0C, 0D, 0E, 1A, 1B, 1C; the middle row 1D, 1E, 1F, 1G, 1H, 2A, 2B, 2C; the bottom row 2D, 2E, 2F, 2G, 2H, 3A, 3B, 3C. Bloody handprints are smeared below the top row. A body in a suit lies on the floor at the right, and a pool of blood spreads across the floor.
+upcut_00_11@90,15,150,40|the top row of binders: 0A, 0B, 0C, 0D, 0E, 1A, 1B, 1C
+upcut_00_11@135,20,50,30|blood on binders 0C, 0D and 0E
+upcut_00_11@95,40,25,25|a bloody handprint
+upcut_00_11@180,40,25,25|a bloody handprint
+upcut_00_11@90,65,165,35|the middle row of binders: 1D, 1E, 1F, 1G, 1H, 2A, 2B, 2C
+upcut_00_11@90,100,150,35|the bottom row of binders: 2D, 2E, 2F, 2G, 2H, 3A, 3B, 3C
+upcut_00_11@200,95,341,97|a body in a suit lying on the floor
+upcut_00_11@90,140,120,40|a pool of blood on the floor
+upcut_00_11@60,150,35,30|a bloody handprint on the floor
+upcut_00_12|The rearranged binder shelves with a faceless figure in a brown suit sitting slumped in front, as if to show how the body sat. Binders 0F, 0G, 0I and 0J at the bottom right have red marks on them, and a gap is between 0G and 0I.
+upcut_00_12@90,15,150,40|the top row of binders: 0A to 1C
+upcut_00_12@105,70,100,122|a faceless figure in a brown suit, slumped
+upcut_00_12@255,100,86,35|binders 0F, 0G, 0I and 0J with red marks
+upcut_00_12@290,100,20,35|a gap between binders 0G and 0I
+upcut_00_12@60,150,35,30|a bloody handprint on the floor
+upcut_00_12@185,145,35,25|blood on the floor
+upcut_00_13|Close-up of binders: the top row 2B to 2H, and the bottom row 3B, 3C, 0A, 0B, 0C, 0D, 0E. Blood is smeared on 0C, 0D and 0E, and binder 0D has a small dark hole. A hand in a suit sleeve rests at the right.
+upcut_00_13@0,0,260,60|the top row of binders: 2B to 2H
+upcut_00_13@0,75,70,60|binders 3B and 3C
+upcut_00_13@70,75,75,60|binders 0A and 0B
+upcut_00_13@145,75,40,60|binder 0C, with blood
+upcut_00_13@185,75,40,60|binder 0D, with blood and a small dark hole
+upcut_00_13@200,105,15,15|a small dark hole in binder 0D
+upcut_00_13@225,75,30,60|binder 0E, with blood
+upcut_00_13@245,95,96,97|a hand in a suit sleeve
+upcut_00_13@0,165,240,27|blood on the floor
+upcut_00_18|Black-and-white picture: a young woman in a police uniform with glasses and a cap stands at an office door, holding its handle. A man with spiky hair and a white jacket thrown over his shoulder stands with his back to the viewer at the right.
+upcut_00_18@95,40,80,152|a young woman in a police uniform with glasses and a cap
+upcut_00_18@150,125,25,20|her hand on the door handle
+upcut_00_18@90,20,85,172|an office door
+upcut_00_18@160,0,120,192|a man with spiky hair and a white jacket over his shoulder, seen from behind
+upcut_00_19|Black-and-white picture of a security window with sliding glass panels. A small key with a tag lies on the counter in front. Under the counter, drawers at the left, a tool and a first aid kit.
+upcut_00_19@75,0,215,115|sliding glass panels of a security window
+upcut_00_19@190,120,50,15|a small key with a tag on the counter
+upcut_00_19@55,135,75,57|drawers under the counter
+upcut_00_19@130,155,50,37|a tool
+upcut_00_19@195,170,55,22|a first aid kit
+upcut_00_20|Black-and-white picture: the young policewoman with glasses gasps, her hand at her mouth, beside a view of the security window and the counter below it.
+upcut_00_20@25,0,145,192|a young policewoman with glasses, gasping
+upcut_00_20@180,0,161,130|the security window
+upcut_00_20@130,155,50,37|a tool under the counter
+upcut_00_20@195,170,55,22|a first aid kit
+upcut_00_21|Tall picture: a man with a headband and spiky hair, in a white and purple sports shirt with a gold medal on a ribbon, holds out a pistol toward the viewer. A dark room behind him.
+upcut_00_21@100,0,150,120|his face, with a headband and spiky hair
+upcut_00_21@200,220,45,60|a gold medal on a ribbon
+upcut_00_21@55,100,215,200|a white and purple sports shirt
+upcut_00_21@120,255,130,129|a pistol held out toward the viewer
+upcut_00_21@240,40,101,150|something hanging in the dark background
+upcut_00_22|A long beige padded bench with buttoned cushions against a purple wall. Something metal is tucked under the bench at the right.
+upcut_00_22@0,70,270,100|a long padded bench
+upcut_00_22@195,130,60,30|something metal under the bench
+upcut_00_23|A wooden office door with the number plate 1202, a brass doorknob with a keyhole at the right, and a hinge at the top left.
+upcut_00_23@155,85,30,15|the number plate: 1202
+upcut_00_23@220,125,15,30|a brass doorknob with a keyhole
+upcut_00_23@100,30,10,35|a hinge
+upcut_00_23@90,30,150,162|a wooden office door
+upcut_00_24|Black-and-white picture of the security window: a young man in a cap, suit and tie leans through the open glass panel and reaches for a small key on the counter.
+upcut_00_24@205,0,90,120|a young man in a cap, suit and tie
+upcut_00_24@195,110,50,30|his hand reaching for a small key on the counter
+upcut_00_24@75,0,130,115|the sliding glass panels
+upcut_00_24@55,135,75,57|drawers under the counter
+upcut_00_24@195,170,55,22|a first aid kit
+upcut_00_25|Black-and-white picture of the security window: a hand in a dark sleeve reaches through the open glass panel toward a small key on the counter.
+upcut_00_25@200,0,95,120|an arm in a dark sleeve
+upcut_00_25@195,110,50,30|a hand reaching for a small key on the counter
+upcut_00_25@75,0,130,115|the sliding glass panels
+upcut_00_25@55,135,75,57|drawers under the counter
+upcut_00_25@195,170,55,22|a first aid kit
+upcut_00_02@0,0,90,192|the victim's arm and leg
+upcut_00_02@50,130,50,50|the victim's bloody hand on the floor
+upcut_00_02@145,35,30,60|binder 0F, with red marks
+upcut_00_02@170,35,30,60|binder 0G, with red marks
+upcut_00_02@200,35,30,60|a gap where a binder is missing
+upcut_00_02@228,50,30,60|binder 0I, with red marks
+upcut_00_02@255,55,30,60|binder 0J, with red marks
+upcut_00_02@285,60,30,60|binder 0K
+upcut_00_02@315,60,26,65|binder 0L
+upcut_00_02@70,25,50,60|binders 3B and 3C
+upcut_00_02@145,0,196,30|binders on the shelf above
+upcut_00_04@50,0,140,90|a pile of fallen files
+upcut_00_04@125,30,155,160|the victim lying on his side
+upcut_00_04@195,65,25,30|a blood stain on his shirt
+upcut_00_04@140,135,30,35|his bloody right hand
+upcut_00_04@80,125,40,30|a black, flat object on the floor
+upcut_00_04@240,0,101,192|the bookcase
+upcut_00_07@100,35,135,90|a small safe set into the wall
+upcut_00_07@190,55,25,40|a number keypad with a small screen
+upcut_00_07@100,50,35,60|the safe's hinges
+upcut_00_07@225,55,15,45|the safe's handle
+upcut_00_07@180,70,45,30|smudges on the door around the keypad
+upcut_00_16@90,30,150,230|a wooden office door
+upcut_00_16@150,85,30,15|the number plate: 1203
+upcut_00_16@215,125,15,30|a brass doorknob with a keyhole
+upcut_00_16@190,255,25,10|a small piece of white paper sticking out from under the door
+upcut_00_16@255,0,86,290|a basketball hoop on a pole
+upcut_00_16@35,290,40,45|a basketball on the carpet
+upcut_00_27@90,30,150,162|a wooden office door
+upcut_00_27@150,85,30,15|the number plate: 1203
+upcut_00_27@215,125,15,30|a brass doorknob with a keyhole
+upcut_00_27@255,0,86,192|a basketball hoop on a pole
+upcut_ov_01|An open ring-bound notebook with handwritten notes and sketches on lined pages.
+upcut_ov_03|The ring-bound notebook closing, its pages turning.
+upcut_ov_05|A closed notebook with a dark red leather cover.
+upcut_01_02|Black-and-white picture inside the plane: an elderly woman with curly hair and a striped hat sits in the front left, beside a large vase with a leaf pattern. In the background a man with white hair, seen from behind, presses a button by an elevator door. A movie poster on the wall, a bottle and glasses on a cart at the bottom right.
+upcut_01_02@0,0,40,100|an airplane window
+upcut_01_02@20,40,80,152|an elderly woman with curly hair and a striped hat
+upcut_01_02@75,120,105,72|a large vase with a leaf pattern
+upcut_01_02@100,5,50,75|a movie poster: License to Love, Laugh, Maim, and Murder
+upcut_01_02@165,5,85,170|a man with white hair, seen from behind, pressing the elevator button
+upcut_01_02@240,25,25,35|a panel with buttons beside the elevator
+upcut_01_02@255,105,86,87|a cart with a bottle, glasses and a plate
+upcut_01_03|The elevator in the plane's lounge. A man with blond hair and glasses sits slumped in the open elevator, with banknotes and a small yellow figure on the floor. Edgeworth stands to the right, looking at a puddle of dark red liquid with broken glass. A flight attendant stands in the front left, and a green statue is on the left.
+upcut_01_03@0,0,60,192|a green statue on a pedestal
+upcut_01_03@15,125,25,30|a small metal tool on the floor
+upcut_01_03@35,55,145,137|a flight attendant with a striped scarf, seen from behind
+upcut_01_03@115,25,95,85|a man with blond hair slumped in the elevator
+upcut_01_03@175,85,40,25|a small yellow figure on a gold block, and banknotes on the floor
+upcut_01_03@195,5,85,170|Edgeworth, seen from behind
+upcut_01_03@200,95,141,45|a puddle of dark red liquid with broken glass
+upcut_01_04@0,0,65,192|the edge of the elevator doors and a green statue
+upcut_01_04@35,35,20,35|the elevator's call button panel
+upcut_01_04@170,15,90,95|the victim's head and chest, with glasses and a yellow lanyard
+upcut_01_04@110,90,140,90|the victim's legs
+upcut_01_04@235,125,30,25|the victim's right hand on the floor
+upcut_01_04@60,115,135,77|banknotes and coins scattered on the floor
+upcut_01_04@210,145,55,35|a small yellow figure standing on a gold block
+upcut_01_04@195,160,30,25|a cash card or credit card on the floor
+upcut_01_04@115,155,30,25|a card on the floor
+upcut_01_09@20,0,160,70|the base of the green statue
+upcut_01_09@60,70,25,15|a small shard of glass
+upcut_01_09@90,55,45,30|a broken green bottle
+upcut_01_09@175,30,45,25|a tipped-over wine glass
+upcut_01_09@0,40,200,130|a large pool of dark red liquid
+upcut_01_09@170,60,170,50|smaller red stains leading to the right
+upcut_01_09@260,0,81,70|railings at the top right
+upcut_01_14|A dark wooden display case in the shop. On the left shelves: glass ornaments, golden statuettes and small figurines in suits. In the middle, behind a cracked glass door, two necklaces at the top and a few books lower down. On the right: framed pictures, handbags and rows of books.
+upcut_01_14@0,10,90,50|a glass swan and a pink coral ornament
+upcut_01_14@10,65,70,55|two golden statuettes
+upcut_01_14@0,125,85,45|small figurines of men in suits
+upcut_01_14@125,5,55,50|a necklace with pendants
+upcut_01_14@170,5,55,50|a pearl necklace
+upcut_01_14@125,20,105,165|cracked glass in the case door
+upcut_01_14@130,135,100,35|books lying on the shelf
+upcut_01_14@225,95,30,70|the brass door handles of the case
+upcut_01_14@255,20,80,40|two framed pictures
+upcut_01_14@255,65,86,50|handbags
+upcut_01_14@255,125,86,45|a row of books
+upcut_01_14@300,170,41,22|a small red toy car
+upcut_01_15|A corner of the shop. A big poster saying SALE hangs at the top. Two identical yellow GoYou suitcases with green spots and pink straps stand side by side. On the left a white side table with a vase, and purple flowers lie on the floor. On the right a dark display case with figurines.
+upcut_01_15@0,0,30,30|an airplane window
+upcut_01_15@30,0,70,140|a white side table with a decorated vase
+upcut_01_15@40,145,60,40|purple flowers lying on the floor
+upcut_01_15@130,0,80,30|a poster saying SALE
+upcut_01_15@95,35,70,125|the left yellow GoYou suitcase
+upcut_01_15@160,35,70,125|the right yellow GoYou suitcase
+upcut_01_15@230,0,111,140|a dark display case with small figurines
+upcut_01_16|A yellow GoYou suitcase with a luggage tag, standing behind two red fire extinguishers. A cardboard box and a metal frame on the left, a grey wall and a door edge on the right.
+upcut_01_16@0,35,60,157|a cardboard box
+upcut_01_16@45,60,30,132|a metal frame or railing
+upcut_01_16@80,85,100,107|two red fire extinguishers
+upcut_01_16@125,35,140,157|a yellow GoYou suitcase
+upcut_01_16@175,85,35,40|a luggage tag with a barcode
+upcut_01_16@190,0,151,95|a grey wall and door
+upcut_01_17|Tall picture in the cargo hold. A huge stone statue of a face with glowing eyes stands in a glass case on a metal pallet. A golden-brown cloth hangs on the left, tied with a rope, with a black letter and the word -ress printed on it. Yellow GoYou suitcases are stacked at the right. An orange marking is painted on the floor.
+upcut_01_17@0,0,80,330|a golden-brown cloth hanging at the left, with printed lettering
+upcut_01_17@30,0,45,360|a rope
+upcut_01_17@80,15,185,295|a stone statue of a face with glowing eyes, inside a glass case
+upcut_01_17@75,295,190,40|the metal pallet under the glass case
+upcut_01_17@270,190,71,130|stacked yellow GoYou suitcases
+upcut_01_17@60,325,180,59|an orange marking painted on the floor
+upcut_01_19|A passport. Republic of Borginia, Passport. Passport number 122750921K. Type: P. Surname: Hicks. Given names: Akbey. Nationality: Republic of Borginia. Sex: M. A signature. Photo of a man with blond hair and glasses, wearing a red tie. At the bottom: Republic of Borginia Passport Agency.
+upcut_01_19@40,15,110,30|the title: Republic of Borginia, Passport
+upcut_01_19@50,50,75,105|the photo: a man with blond hair and glasses
+upcut_01_19@130,40,130,105|the details: Hicks, Akbey, Republic of Borginia, sex M
+upcut_01_19@200,30,141,20|the passport number 122750921K
+upcut_01_19@190,125,110,35|a signature
+upcut_01_19@20,155,300,30|the machine-readable code lines and the passport agency's name
+upcut_01_21|Picture in red light, in the cargo hold: a draped cloth at the left with a rope, red suitcases at the top right, and a patch of blue glow on the floor in the middle.
+upcut_01_21@0,0,130,160|a cloth draped over something, and a rope
+upcut_01_21@110,45,110,80|a patch of blue glow on the floor
+upcut_01_21@240,0,101,125|suitcases
+upcut_01_21@0,130,190,62|markings on the floor
+upcut_01_24|A closed elevator door seen straight on, framed by red curtains held by green statue hands. The call button is on the left.
+upcut_01_24@0,0,60,60|a green statue hand holding the red curtain, left
+upcut_01_24@280,0,61,60|a green statue hand holding the red curtain, right
+upcut_01_24@40,110,25,50|the elevator call button
+upcut_01_24@75,30,195,162|the closed elevator doors
+upcut_01_25|The same elevator door, just opening, with bright light coming through the gap in the middle.
+upcut_01_25@0,0,60,60|a green statue hand holding the red curtain, left
+upcut_01_25@280,0,61,60|a green statue hand holding the red curtain, right
+upcut_01_25@40,110,25,50|the elevator call button
+upcut_01_25@150,20,40,172|light through the gap between the doors
+upcut_01_25@75,30,195,162|the elevator doors
+upcut_01_26|The same elevator, its doors half open, with bright white light inside.
+upcut_01_26@0,0,60,60|a green statue hand holding the red curtain, left
+upcut_01_26@280,0,61,60|a green statue hand holding the red curtain, right
+upcut_01_26@40,110,25,50|the elevator call button
+upcut_01_26@130,25,75,167|bright light inside the elevator
+upcut_01_26@70,30,265,162|the elevator doors, half open
+upcut_01_27|The same elevator with its doors wide open, filled with white light.
+upcut_01_27@0,0,60,60|a green statue hand holding the red curtain, left
+upcut_01_27@280,0,61,60|a green statue hand holding the red curtain, right
+upcut_01_27@40,110,25,50|the elevator call button
+upcut_01_27@85,25,170,167|bright light filling the open elevator
+upcut_01_28|Tall picture: Edgeworth stands in his red suit with a frilled cravat, looking at the watch on his left wrist. In his right hand, at his hip, he holds a red wallet, and two small red drops fall from it. A flight attendant in a white uniform with a striped scarf stands at the bottom right, hands folded.
+upcut_01_28@100,10,75,60|Edgeworth's face
+upcut_01_28@100,70,80,60|his frilled white cravat
+upcut_01_28@120,135,80,45|his hands, checking the watch on his wrist
+upcut_01_28@30,80,200,180|Edgeworth's red suit
+upcut_01_28@70,210,80,70|a red wallet in his hand, with two small red drops falling from it
+upcut_01_28@50,260,180,124|his legs
+upcut_01_28@210,215,90,169|a flight attendant in a white uniform with a striped scarf
+upcut_01_28@0,0,50,384|the dark red background at the left
+upcut_01_28@290,0,51,215|the dark red background at the right
+upcut_01_29|Black-and-white action picture: a man with white hair and glasses falls toward the viewer with a red cell phone on a lanyard flying up, while a woman behind him on a railing raises her arms. A sign at the top.
+upcut_01_29@50,90,250,102|a man with white hair and glasses falling forward
+upcut_01_29@130,30,45,50|a cell phone on a lanyard
+upcut_01_29@165,0,70,70|a woman with long hair raising her arms
+upcut_01_29@0,40,341,50|a railing
+upcut_01_29@110,0,60,20|a sign
+upcut_01_31|A photo of the cargo hold seen from above: boxes labeled Bedsheets and wooden crates tied down with chains, an orange marking on the floor, a metal railing across the bottom right, and the tops of yellow suitcases at the bottom left.
+upcut_01_31@60,20,140,90|boxes labeled Bedsheets and wooden crates
+upcut_01_31@190,20,105,120|boxes labeled Fragile, tied down with chains
+upcut_01_31@55,85,100,60|an orange marking on the floor
+upcut_01_31@50,135,55,35|the tops of yellow suitcases
+upcut_01_31@110,80,185,90|a metal railing
+upcut_01_32|Tall picture: the blond man with glasses slumped against the wall, head bowed. A red tie, and a yellow lanyard with a red bead and an empty metal clip hanging at its end. Banknotes are scattered over his legs and the floor.
+upcut_01_32@115,0,140,140|his head, with blond hair and glasses
+upcut_01_32@205,110,50,130|his red tie
+upcut_01_32@210,70,131,210|a yellow lanyard
+upcut_01_32@255,210,40,75|the end of the lanyard: a red bead and an empty metal clip
+upcut_01_32@0,240,190,144|his legs
+upcut_01_32@150,245,190,139|banknotes scattered over his legs and the floor
+upcut_01_32@0,0,115,240|the grey wall behind him
+upcut_01_34|Black-and-white picture: the man with white hair crouches inside an open suitcase lined with a heart pattern, holding his knees. A wallet and banknotes fly out at the top right, and a coin rolls away.
+upcut_01_34@95,20,180,172|the man with white hair crouching inside the open suitcase
+upcut_01_34@195,15,80,35|a wallet flying out
+upcut_01_34@225,15,50,100|banknotes flying out
+upcut_01_34@250,125,20,20|a coin
+upcut_01_34@30,20,290,172|a suitcase lined with a heart pattern
+upcut_01_35|Black-and-white picture in the first class lounge: the elderly woman with curly hair and a striped hat grimaces in the front left, clutching her bead necklace. Behind her, the man with white hair sits at a counter, typing on a small handheld device, with a cup of coffee near him.
+upcut_01_35@0,15,110,177|the elderly woman with curly hair and a striped hat, grimacing
+upcut_01_35@90,155,40,37|her hand clutching a bead necklace
+upcut_01_35@185,35,80,120|the man with white hair, seen from behind
+upcut_01_35@180,70,30,25|a small handheld device in his hands
+upcut_01_35@165,80,25,20|a cup of coffee
+upcut_01_35@90,30,30,40|a lamp
+upcut_01_35@135,5,40,60|an airplane window
+upcut_01_35@215,5,45,50|an airplane window
+upcut_01_35@255,40,86,152|a large armchair
+upcut_01_33@110,0,115,105|a large shape covered with a golden-brown cloth, with a bird logo and the words Zheng Fa Express
+upcut_01_33@225,0,100,170|a second large shape covered with a cloth, tied with ropes
+upcut_01_33@165,105,100,55|a large box labeled Bedsheets, Keep dry, BOR to USA
+upcut_01_33@115,105,55,50|a cardboard box labeled Grape Juice, Fragile
+upcut_01_33@0,75,100,117|wooden crates at the left
+upcut_01_33@70,140,270,52|wooden crates at the bottom
+upcut_01_33@325,85,16,90|the edge of a yellow suitcase
+upcut_01_33@0,0,110,75|the dark wall of the cargo hold
+upcut_01_08@50,25,135,140|a huge dark stone statue of a face with red eyes
+upcut_01_08@185,30,105,140|the victim, a man with blond hair and glasses
+upcut_01_08@225,130,25,40|a red cell phone hanging from his yellow lanyard
+upcut_01_08@50,110,140,60|a railing on the upper floor
+upcut_01_08@55,60,130,100|museum visitors on the floor below
+upcut_02_02|An old-fashioned dining room lit by candles. Edgeworth, seen from behind, holds a cell phone to his ear. A round table is set with candlesticks, glasses, plates and a wine bottle. A fire burns in the fireplace behind, under a portrait. A deer head and a clock hang on the wall at the top left.
+upcut_02_02@40,0,45,55|a mounted deer head
+upcut_02_02@95,0,25,40|a wall clock
+upcut_02_02@140,0,55,40|a portrait in a frame
+upcut_02_02@140,55,60,55|a fireplace with a fire
+upcut_02_02@70,40,30,60|an oil lamp
+upcut_02_02@65,60,105,132|Edgeworth, seen from behind, on the phone
+upcut_02_02@165,80,140,75|a round table set with candles, glasses, plates and cutlery
+upcut_02_02@270,90,25,40|a wine bottle
+upcut_02_02@215,10,90,40|candles on wall sconces
+upcut_02_02@255,125,60,67|a wooden chair
+upcut_02_03|A dim hallway with old paintings and wall lamps. Edgeworth, seen from behind, stands at the right, by an open door. Down the hall, a suit of armor lies fallen to pieces on the floor, and a small blue figure crouches further back.
+upcut_02_03@10,30,60,95|a painting in a gold frame
+upcut_02_03@0,20,15,50|a wall lamp
+upcut_02_03@65,45,20,35|a wall lamp
+upcut_02_03@85,95,55,65|a fallen suit of armor in pieces
+upcut_02_03@130,90,20,20|a small blue figure crouching down the hall
+upcut_02_03@160,130,25,15|something lying on the floor
+upcut_02_03@180,40,110,152|Edgeworth, seen from behind
+upcut_02_03@290,0,51,192|an open door with a brass handle
+upcut_02_04|Through a metal-framed window: a grey room with a blue shipping container on the right, an open hatch in the floor with a ladder, folded chairs leaning against the left wall, and a door at the back.
+upcut_02_04@55,85,45,60|folded chairs leaning against the wall
+upcut_02_04@95,80,70,55|an open hatch in the floor with a ladder
+upcut_02_04@185,45,50,65|a door at the back
+upcut_02_04@205,60,80,90|a blue shipping container
+upcut_02_04@0,0,341,45|the metal window frame
+upcut_02_06|Newspapers. The top one is the Mercurial News: The Yatagarasu Reappears! Corporate dealings exposed! A Speedy Times is below, with a headline starting Great Thief. Another headline begins Three people ar...
+upcut_02_06@60,15,250,100|Mercurial News: The Yatagarasu Reappears! Corporate dealings exposed!
+upcut_02_06@235,60,55,30|a black card with a white bird symbol, printed in the paper
+upcut_02_06@50,115,210,77|Speedy Times: Great Thief...
+upcut_02_06@0,110,110,82|a headline: Three people ar...
+upcut_02_06@250,110,50,50|a pie chart
+upcut_02_08|Sandy ground in front of wooden buildings, covered in many overlapping shoe prints. Wooden barrels stand on a porch at the top left, and a metal drainpipe comes down at the top right.
+upcut_02_08@0,0,75,60|wooden barrels on a porch
+upcut_02_08@210,0,30,95|a metal drainpipe
+upcut_02_08@100,0,240,45|wooden boardwalk and steps
+upcut_02_08@0,45,341,147|sandy ground covered in shoe prints
+upcut_02_17|The dim hallway with old paintings and the fallen suit of armor. Edgeworth now faces the viewer, at the right, beside the open door.
+upcut_02_17@10,30,60,95|a painting in a gold frame
+upcut_02_17@85,95,60,65|a fallen suit of armor in pieces
+upcut_02_17@130,90,20,20|a small blue figure crouching down the hall
+upcut_02_17@150,50,115,142|Edgeworth, facing the viewer
+upcut_02_17@225,40,40,60|a spear and decorations on the wall
+upcut_02_17@290,0,51,192|an open door with a brass handle
+upcut_02_18|The same hallway: behind Edgeworth stands a figure in a blue jester costume with a yellow mask, holding a sword.
+upcut_02_18@10,30,60,95|a painting in a gold frame
+upcut_02_18@85,110,60,50|a fallen suit of armor in pieces
+upcut_02_18@125,65,40,90|a figure in a blue jester costume with a yellow mask, holding a sword
+upcut_02_18@150,50,115,142|Edgeworth, facing the viewer
+upcut_02_18@290,0,51,192|an open door with a brass handle
+upcut_02_19|The same hallway: the figure in the blue jester costume raises a sword high above Edgeworth.
+upcut_02_19@10,30,60,95|a painting in a gold frame
+upcut_02_19@105,15,95,30|a raised sword
+upcut_02_19@115,25,65,145|a figure in a blue jester costume with a yellow mask
+upcut_02_19@150,50,115,142|Edgeworth, facing the viewer
+upcut_02_19@290,0,51,192|an open door with a brass handle
+upcut_02_24|Black-and-white picture in an amusement park: a badger mascot in front, seen from behind, wearing a belt with a book in it and pointing a gun at three other mascots who pose with their arms raised. A Ferris wheel at the top left, tall buildings and a roller coaster behind.
+upcut_02_24@65,20,105,170|a badger mascot seen from behind, with a belt, pointing a gun
+upcut_02_24@140,55,30,30|a gun
+upcut_02_24@160,75,45,90|a badger mascot with a crown-like head, arms raised
+upcut_02_24@205,65,65,100|a badger mascot with a strap across his chest
+upcut_02_24@245,85,45,75|a small badger mascot with a bow
+upcut_02_24@0,0,90,60|a Ferris wheel
+upcut_02_24@230,25,90,60|a roller coaster
+upcut_02_24@100,0,140,70|tall buildings
+upcut_02_24@290,60,51,132|a striped tent and bushes
+upcut_02_25|An empty blue costume of a badger mascot lying on a green floor, with its head missing. It has a brown belt around the waist and a hole in one glove. Folding chairs stand at the top, and a colorful box at the top left.
+upcut_02_25@85,40,155,125|an empty blue badger costume without its head
+upcut_02_25@135,65,60,40|a brown belt on the costume
+upcut_02_25@85,85,25,30|a glove with a hole in it
+upcut_02_25@20,0,65,70|a folding chair
+upcut_02_25@70,0,75,45|a colorful box
+upcut_02_25@145,10,120,30|a gold decoration on the wall
+upcut_02_25@255,0,65,60|folded chairs
+upcut_02_27|A green ground with a blue chalk outline of a body lying face down, arms stretched forward. The wheel and front of a car are at the top.
+upcut_02_27@60,80,185,55|a blue chalk outline of a body
+upcut_02_27@145,0,130,35|the wheel and front of a car
+upcut_02_27@0,0,110,140|a shadow on the ground
+upcut_02_28|A dirt arena floor. A pink truck is parked at the top left, and the curved edge of the stands runs along the top.
+upcut_02_28@0,0,85,65|a pink truck
+upcut_02_28@80,0,261,60|the curved edge of the stands
+upcut_02_28@0,60,341,132|the dirt floor of the arena
+upcut_02_29|The dirt arena floor in pink light, covered in faint shoe prints. A line of glowing orange shoe prints crosses the middle toward the right. A pink truck is at the top left.
+upcut_02_29@0,0,85,65|a pink truck
+upcut_02_29@155,85,186,60|a line of glowing orange shoe prints
+upcut_02_29@0,60,341,132|faint shoe prints all over the floor
+upcut_02_33|A small garage under a sign. A little blue three-wheeled car with a crown on top is parked on the left. Beside it, an old man lies on his back in a parking space, on a painting of a mascot's face. Another mascot face is painted in the next space. A horseshoe hangs above.
+upcut_02_33@50,30,65,100|a small blue three-wheeled car with a crown on top
+upcut_02_33@120,95,60,40|an old man lying on his back
+upcut_02_33@150,105,40,30|a painting of a pink mascot face under the man
+upcut_02_33@205,100,70,30|a painting of a mascot face in the next parking space
+upcut_02_33@160,0,25,25|a horseshoe
+upcut_02_33@90,0,180,12|a sign
+upcut_02_33@0,0,40,165|a wooden post
+upcut_02_33@300,0,41,140|a wooden wall
+upcut_02_36|Black-and-white picture of a metal room: a door at the back with a sword hanging from its handle, an open hatch in the floor with a ladder at the bottom left, and wooden barrels at the bottom right.
+upcut_02_36@145,25,85,115|a metal door
+upcut_02_36@200,60,45,50|a sword hanging from the door handle
+upcut_02_36@0,100,105,75|an open hatch in the floor with a ladder
+upcut_02_36@250,115,80,77|wooden barrels
+upcut_02_38|Close-up of the blue badger mascot costume lying on a tiled floor, its head with big eyes and three yellow balls lying next to the body. A brown belt with buckles is around the body. Something small and silver hangs from the end of one sleeve.
+upcut_02_38@0,60,195,110|the blue costume's body, lying on the floor
+upcut_02_38@5,60,120,85|a brown belt with buckles
+upcut_02_38@130,105,45,35|something small and silver hanging from the sleeve
+upcut_02_38@165,10,170,145|the mascot's head, with big eyes and yellow balls
+upcut_02_38@295,0,30,60|a blue post
+upcut_02_38@0,0,341,45|a stone fountain or wall at the top
+upcut_02_39|A clear plastic charm shaped like a wing, with the name Lauren D. written on it, on a long chain.
+upcut_02_39@80,5,150,145|a wing-shaped plastic charm with the name Lauren D.
+upcut_02_39@125,35,105,150|a long chain
+upcut_02_40|The metal room in color: a door at the back with a handle, an open hatch with a ladder at the bottom left, wooden barrels at the bottom right, and a broken piece of a sword guard and a broken blade lying on the floor in front of the door.
+upcut_02_40@145,25,85,115|a metal door
+upcut_02_40@210,60,20,45|the door handle
+upcut_02_40@190,130,25,25|a broken curved sword guard on the floor
+upcut_02_40@215,140,35,25|a broken piece of blade on the floor
+upcut_02_40@0,100,105,75|an open hatch in the floor with a ladder
+upcut_02_40@250,115,80,77|wooden barrels
+upcut_02_41|Black-and-white action picture: a man with dark hair wrestles with an older man with grey hair, raising a gun high in the air while the older man grabs his arm.
+upcut_02_41@150,0,60,40|a gun held high
+upcut_02_41@90,30,110,162|a man with dark hair, seen from the side
+upcut_02_41@190,55,90,137|an older man with grey hair, grabbing the other man's arm
+upcut_02_42|Black-and-white picture: a young man half inside a mascot costume, sweating, with the costume's head on top of his own, and a young woman with a polka-dot headscarf beside him, looking worried. Paper cups on a small table at the left, a cracked mirror at the right.
+upcut_02_42@85,0,95,192|a young man half inside a mascot costume, sweating
+upcut_02_42@190,30,85,100|a young woman with a polka-dot headscarf
+upcut_02_42@130,110,150,82|a mascot head in the front
+upcut_02_42@25,110,60,82|paper cups on a small table
+upcut_02_42@30,0,50,55|a round fan on the wall
+upcut_02_42@270,40,71,152|a cracked mirror with a decorated frame
+upcut_02_45|A silver emblem of a winged horse, rearing up.
+upcut_02_45@95,5,160,185|a silver winged horse
+upcut_02_46|A break room: a metal table with a coffee maker and paper cups, folding chairs around it, a park map poster on the wall, a key box, and a large Blue Badger Photo Rally sign on the right.
+upcut_02_46@120,20,45,60|a coffee maker
+upcut_02_46@85,50,35,50|stacks of paper cups
+upcut_02_46@155,55,60,40|paper cups of coffee on the table
+upcut_02_46@70,55,175,60|a metal table
+upcut_02_46@160,30,45,30|a small box on the wall with keys
+upcut_02_46@135,0,90,30|a map of the park on the wall
+upcut_02_46@65,100,75,92|a folding chair
+upcut_02_46@155,105,70,87|a folding chair
+upcut_02_46@230,90,60,70|a folding chair
+upcut_02_46@270,0,71,130|a sign: Blue Badger Photo Rally
+upcut_02_46@0,30,40,162|a dark doorway at the left
+upcut_02_47|A dark hallway with a red carpet, scattered with broken glass. Two tall mirrors in gold frames hang on the wall, the left one shattered. Pointed wall lamps between them, a red stain on the wall at the right, a wooden door at the left, and a fallen picture frame on the floor at the bottom left.
+upcut_02_47@0,10,80,115|a wooden door
+upcut_02_47@145,30,60,90|a tall mirror in a gold frame, shattered
+upcut_02_47@255,30,65,90|a tall mirror in a gold frame
+upcut_02_47@90,30,25,55|a pointed wall lamp
+upcut_02_47@220,30,25,55|a pointed wall lamp, dark
+upcut_02_47@325,30,16,55|a pointed wall lamp
+upcut_02_47@310,70,31,40|a red stain on the wall
+upcut_02_47@120,125,150,25|broken glass on the carpet
+upcut_02_47@0,165,85,27|a fallen picture frame on the floor
+upcut_02_48|A room with concrete walls: a sign saying Trading Post at the top left, an animal skull and a round shield on the wall, a table with a coffee maker and cups, folding chairs, the Blue Badger Photo Rally sign, a tall gold-framed mirror with a crack, stacked chairs, an open hatch in the floor, and a blue tub at the bottom.
+upcut_02_48@0,0,50,30|a sign: Trading Post
+upcut_02_48@0,30,20,40|an animal skull
+upcut_02_48@20,25,30,35|a round shield
+upcut_02_48@60,40,55,30|a map of the park on the wall
+upcut_02_48@35,65,85,45|a table with a coffee maker and cups
+upcut_02_48@30,105,90,50|folding chairs
+upcut_02_48@135,50,30,70|the Blue Badger Photo Rally sign
+upcut_02_48@160,30,60,90|a tall gold-framed mirror with a crack
+upcut_02_48@205,75,30,50|stacked folding chairs
+upcut_02_48@240,85,65,70|an open hatch in the floor with a ladder
+upcut_02_48@100,165,125,27|a blue tub
+upcut_02_48@230,175,60,17|barrels
+upcut_02_51|The haunted hallway in green light. A mascot in a jester-like costume with sunglasses stands behind Edgeworth, raising a glowing red stick over his head.
+upcut_02_51@10,30,60,95|a painting in a frame
+upcut_02_51@85,0,100,50|a glowing red stick, raised
+upcut_02_51@80,20,85,172|a mascot in a jester-like costume with sunglasses
+upcut_02_51@150,50,115,142|Edgeworth, facing the viewer
+upcut_02_51@290,0,51,192|an open door
+upcut_02_52|The haunted hallway in green light. The mascot with sunglasses stands behind Edgeworth, raising a sword over his head.
+upcut_02_52@10,30,60,95|a painting in a frame
+upcut_02_52@85,0,95,50|a raised sword
+upcut_02_52@80,20,85,172|a mascot in a jester-like costume with sunglasses
+upcut_02_52@150,50,115,142|Edgeworth, facing the viewer
+upcut_02_52@290,0,51,192|an open door
+upcut_02_54|A green-lit empty room with cracked walls and a window. A figure in a jester costume sits slumped against the wall in the middle, legs stretched out.
+upcut_02_54@110,45,95,110|a figure in a jester costume, slumped against the wall
+upcut_02_54@170,0,95,55|a window
+upcut_02_54@0,0,60,150|the corner of the room
+upcut_02_56|The same green-lit room, now empty: cracked walls, a window at the top and a bare floor.
+upcut_02_56@170,0,90,55|a window
+upcut_02_56@0,0,341,110|cracked walls
+upcut_02_56@0,110,341,82|the bare floor
+upcut_02_57|Sepia picture of an airport lounge: a young Edgeworth with a scarf stands beside a tall man in a long coat, in front of a big window with a GoYou plane outside. A counter on the left, potted palms and a bench on the right, and the word GoYou on the floor.
+upcut_02_57@120,30,30,95|a young Edgeworth with a scarf
+upcut_02_57@165,20,40,95|a tall man in a long coat
+upcut_02_57@120,25,120,55|a GoYou airplane outside the window
+upcut_02_57@0,55,105,137|a counter
+upcut_02_57@250,25,91,75|potted palm trees
+upcut_02_57@205,80,105,30|a bench
+upcut_02_57@90,110,60,82|the word GoYou on the floor
+upcut_02_57@0,0,75,50|a departures board
+upcut_02_60|A floor plan: a long corridor running left to right, a room going up from the corridor at the left, and the Dining Room at the top right, with a double door into the corridor.
+upcut_02_60@95,30,45,55|a room going up from the corridor
+upcut_02_60@190,30,100,55|the Dining Room
+upcut_02_60@225,70,30,15|the double door of the dining room
+upcut_02_60@45,80,296,45|the long corridor
+upcut_02_61|The floor plan with marks: a red circle A and a blue circle E in the corridor in front of the dining room door, and a green circle B at the far left end of the corridor.
+upcut_02_61@190,30,100,55|the Dining Room
+upcut_02_61@205,85,25,25|a red circle marked A, in front of the dining room door
+upcut_02_61@230,85,25,25|a blue circle marked E, in front of the dining room door
+upcut_02_61@50,90,25,30|a green circle marked B, at the left end of the corridor
+upcut_02_61@45,80,296,45|the corridor
+upcut_02_62|The floor plan with marks: the left end of the corridor is shaded and cut off diagonally. A green circle B is in the room going up at the left, and a blue circle E in front of the dining room door.
+upcut_02_62@105,35,30,30|a green circle marked B, in the room at the top left
+upcut_02_62@230,85,25,25|a blue circle marked E, in front of the dining room door
+upcut_02_62@45,80,95,45|a shaded part of the corridor, cut off diagonally
+upcut_02_62@190,30,100,55|the Dining Room
+upcut_02_63|The floor plan with marks: a green circle B and a red circle A in the room going up at the left, and a blue circle E in front of the dining room door.
+upcut_02_63@105,35,30,30|a green circle marked B, in the room at the top left
+upcut_02_63@110,60,30,25|a red circle marked A, in the room at the top left
+upcut_02_63@230,85,25,25|a blue circle marked E, in front of the dining room door
+upcut_02_63@190,30,100,55|the Dining Room
+upcut_02_63@45,80,296,45|the corridor
+upcut_02_65|Black-and-white picture of a round fountain in a plaza, with a sign in lights saying GATEWATER and a sculpture of park rides in the middle. Short posts with ropes stand at both sides, and a mascot peeks in at the far left.
+upcut_02_65@100,40,180,60|a sign in lights: GATEWATER
+upcut_02_65@90,0,170,70|a sculpture of buildings and park rides
+upcut_02_65@50,55,240,65|the round fountain basin
+upcut_02_65@0,55,30,45|a mascot at the edge of the picture
+upcut_02_65@0,65,60,40|short posts
+upcut_02_65@285,65,56,45|short posts and a stand
+upcut_02_65@0,110,341,82|patterned paving stones
+upcut_02_66|Black-and-white picture of a small outdoor stage: a drum kit, a keyboard and two guitars on a raised platform, with large speakers and a metal lighting frame at the left. Steps and a rope barrier on posts at the right.
+upcut_02_66@85,65,65,60|a drum kit
+upcut_02_66@140,40,40,25|a keyboard on a stand
+upcut_02_66@155,45,40,35|two guitars on stands
+upcut_02_66@20,70,60,90|a large speaker
+upcut_02_66@20,0,60,70|a metal lighting frame
+upcut_02_66@90,10,55,60|a banner with a lightning symbol
+upcut_02_66@230,65,111,35|a rope barrier on posts
+upcut_02_66@200,0,141,60|steps
+upcut_02_66@55,130,170,62|the stage's metal supports
+upcut_02_67|Black-and-white picture of the dark hallway with two tall mirrors in ornate frames, the left one shattered, pointed wall lamps, broken glass on the floor, a wooden door at the left and a fallen picture frame at the bottom left.
+upcut_02_67@0,10,80,115|a wooden door
+upcut_02_67@145,30,60,90|a tall mirror in an ornate frame, shattered
+upcut_02_67@255,30,65,90|a tall mirror in an ornate frame
+upcut_02_67@90,30,25,55|a pointed wall lamp
+upcut_02_67@220,30,25,55|a pointed wall lamp, dark
+upcut_02_67@325,30,16,55|a pointed wall lamp
+upcut_02_67@120,125,150,25|broken glass on the floor
+upcut_02_67@0,165,85,27|a fallen picture frame on the floor
+upcut_02_68|Black-and-white picture of a Wild West street: a wooden building at the left with barrels on its porch, a cow skull and a sheriff star above, a drainpipe, and a saloon with swinging doors and a rocking chair at the right. Shoe prints in the sand in front.
+upcut_02_68@60,85,45,30|wooden barrels on the porch
+upcut_02_68@70,25,45,35|a barred window
+upcut_02_68@110,0,25,30|a cow skull
+upcut_02_68@140,0,30,25|a sheriff star sign
+upcut_02_68@130,30,20,35|a wanted poster
+upcut_02_68@165,0,20,130|a drainpipe
+upcut_02_68@215,50,60,35|the saloon's swinging doors
+upcut_02_68@185,0,156,20|the saloon's sign
+upcut_02_68@310,40,31,75|bottles in a window and a rocking chair
+upcut_02_68@100,105,90,55|shoe prints in the sand
+upcut_02_05@0,60,50,40|a sheet of paper pinned to the wall
+upcut_02_05@50,60,10,25|a key hanging on the wall
+upcut_02_05@65,40,215,55|the top shelf: four boxes with badger faces
+upcut_02_05@65,105,215,55|the bottom shelf: four boxes with badger faces
+upcut_02_05@225,95,55,30|something pink with a red bow sticking out behind a box
+upcut_02_05@300,0,41,192|a metal door frame at the right
+upcut_02_13@25,0,230,55|a small blue three-wheeled car
+upcut_02_13@105,80,105,75|the old man's head and chest, with a blood stain
+upcut_02_13@130,90,35,30|a cord with a silver badger charm around his neck
+upcut_02_13@175,30,135,60|his legs
+upcut_02_13@190,90,105,60|a painting of the pink badger's face on the ground
+upcut_02_13@0,85,110,107|the edge of the pavement and sand
+upcut_02_13@70,20,230,75|white parking lines
+upcut_02_32@0,0,140,155|the front of a blue three-wheeled car
+upcut_02_32@160,80,85,80|the body of the old man in the next parking space
+upcut_02_32@200,110,30,20|a blood stain on his chest
+upcut_02_32@130,70,211,20|concrete parking stops
+upcut_02_32@230,100,111,60|a painting of a badger's face on the ground
+upcut_02_44@45,0,110,90|the costume's head, with sunglasses
+upcut_02_44@95,95,50,30|a toy gun on the left side of the belt
+upcut_02_44@180,70,45,40|a toy gun on the right side of the belt
+upcut_02_44@150,80,90,90|the costume's body and belt
+upcut_02_44@130,110,80,60|the costume's legs
+upcut_02_44@40,0,255,192|a flat cart with a handle
+upcut_02_44@0,0,341,192|brick paving
+upcut_03_04|Courthouse Map (partial). A courtyard in the middle at the top. Below it, Lobby No. 2 and Lobby No. 1 side by side, each with a door at the bottom onto a hallway. The Restroom is at the left. The 3F Lobby is at the right of the courtyard, and the Courtroom at the far right, with a double door into the 3F Lobby.
+upcut_03_04@50,60,25,70|the Restroom
+upcut_03_04@75,20,135,40|the Courtyard
+upcut_03_04@100,60,55,50|Lobby No. 2
+upcut_03_04@155,60,55,50|Lobby No. 1
+upcut_03_04@100,110,115,20|the hallway below the lobbies
+upcut_03_04@210,20,50,110|the 3F Lobby
+upcut_03_04@260,25,81,105|the Courtroom
+upcut_03_07|Two men lie dead on a tiled floor. The upper one, with dark hair and a mustache, holds a bloody knife in his right hand, with a blood stain on his chest and a yellow bracelet on his wrist. The lower one, with long brown hair and a patterned scarf, holds a pistol in his right hand and has a blood stain on his chest. A small red object lies between them, and white tape lines cross the floor.
+upcut_03_07@0,0,260,95|the upper man, with dark hair and a mustache
+upcut_03_07@95,30,60,45|a bloody knife in the upper man's hand
+upcut_03_07@170,25,30,20|a yellow bracelet on his wrist
+upcut_03_07@120,10,40,20|a blood stain on the upper man's chest
+upcut_03_07@135,90,30,20|a small red object on the floor
+upcut_03_07@50,100,291,92|the lower man, with long brown hair and a patterned scarf
+upcut_03_07@215,105,45,50|a pistol in the lower man's hand
+upcut_03_07@150,145,35,20|a blood stain on the lower man's chest
+upcut_03_07@200,0,141,110|white tape lines on the floor
+upcut_03_08|Black-and-white close-up of two hands gripping a dagger with an ornate pattern on its blade and a round decorated guard, held upright.
+upcut_03_08@150,0,145,110|the blade of a dagger, with an ornate pattern
+upcut_03_08@155,85,35,30|the round decorated guard
+upcut_03_08@70,75,140,117|two hands gripping the handle
+upcut_03_09|Evidence bags on a wooden table: a pistol, a knife with a bloody tip and a wooden handle, and a black wallet. A large brown envelope with a string tie is on the right.
+upcut_03_09@80,20,95,70|a pistol in an evidence bag
+upcut_03_09@45,95,75,70|a knife with a bloody tip, in an evidence bag
+upcut_03_09@125,95,70,70|a black wallet in an evidence bag
+upcut_03_09@200,40,90,115|a large brown envelope with a string tie
+upcut_03_12|A burly man with spiky dark hair, stubble and a gold chain, in a brown shirt, stands at the witness stand in a courtroom, leaning on it with both hands and grimacing.
+upcut_03_12@135,30,85,80|the man's face, grimacing
+upcut_03_12@145,110,40,20|a gold chain around his neck
+upcut_03_12@60,60,220,105|the man's body, leaning on the stand
+upcut_03_12@65,155,220,37|the wooden witness stand
+upcut_03_12@0,0,90,150|a decorated pillar and a red banner at the left
+upcut_03_12@255,0,86,150|a decorated pillar and a red banner at the right
+upcut_03_13|Mercurial News, Special Edition: Yatagarasu Haunts Embassy! The noble Yatagarasu, vigilante of the business world, reappears! A photo of a winged silhouette against the sky, and the Yatagarasu's bird symbol printed lower down.
+upcut_03_13@95,10,200,45|Mercurial News, Special Edition: Yatagarasu Haunts Embassy!
+upcut_03_13@60,55,105,75|a photo of a dark winged silhouette
+upcut_03_13@170,60,115,40|The noble Yatagarasu, vigilante of the business world, reappears!
+upcut_03_13@190,125,55,40|the Yatagarasu's bird symbol
+upcut_03_13@20,130,170,62|the article's small print
+upcut_03_14|Grainy security camera picture from above: a man with a cap and a brown jacket stands holding a pistol, looking down at a man in a dark suit lying face down on the pavement beside a wall, with blood near his chest.
+upcut_03_14@110,5,40,95|a man with a cap and a brown jacket, holding a pistol
+upcut_03_14@135,45,15,15|a pistol in his hand
+upcut_03_14@115,95,130,85|a man in a dark suit lying face down
+upcut_03_14@160,135,30,20|blood on the pavement
+upcut_03_14@0,0,70,192|a wall at the left
+upcut_03_14@170,0,171,192|a curb and the road at the right
+upcut_03_15|Black-and-white picture of an empty courtroom: the judge's bench at the back under a scales emblem, the witness stand in the middle, the two lawyer benches on either side, and rope barriers in front.
+upcut_03_15@145,15,55,45|a scales emblem on the wall
+upcut_03_15@115,70,110,50|the judge's bench
+upcut_03_15@140,115,60,60|the witness stand
+upcut_03_15@0,60,110,132|the defense bench and rope barriers at the left
+upcut_03_15@230,60,111,132|the prosecution bench and rope barriers at the right
+upcut_03_16|Black-and-white picture inside an elevator: a man with glasses in a suit sits on the floor at the left, a man in a cap kneels in the middle, laughing or crying with his hands at his collar, and a young man with dark hair sits at the right with his back to the viewer.
+upcut_03_16@40,60,90,110|a man with glasses in a suit, sitting on the floor
+upcut_03_16@145,20,60,135|a man in a cap kneeling, hands at his collar
+upcut_03_16@215,75,105,100|a young man with dark hair, seen from behind
+upcut_03_16@135,15,25,120|the elevator's button panel
+upcut_03_16@165,0,145,140|the elevator doors
+upcut_03_17|Black-and-white picture inside an elevator: a man with glasses in a suit sits slumped in the corner, eyes closed. The button panel is beside him, and one of the door windows at the top has a crack.
+upcut_03_17@50,55,110,130|a man with glasses, slumped in the corner
+upcut_03_17@125,10,35,140|the elevator's button panel
+upcut_03_17@185,5,40,45|a crack in the door window
+upcut_03_17@165,0,155,192|the elevator doors
+upcut_03_18|In a courtroom lobby, a young girl with black hair in a ponytail and a pink outfit hugs Edgeworth tightly, while he shouts, startled, his hands spread. She carries a bag with buckles on her back.
+upcut_03_18@165,0,85,70|Edgeworth's face, shouting
+upcut_03_18@120,50,80,90|a girl with black hair in a ponytail
+upcut_03_18@90,120,60,60|a bag with buckles on her back
+upcut_03_18@40,125,60,50|Edgeworth's left hand
+upcut_03_18@225,135,70,45|Edgeworth's right hand
+upcut_03_18@180,60,161,132|Edgeworth's red coat
+upcut_03_18@0,0,160,120|wooden courtroom furniture behind
+upcut_03_19|Tall picture of a wall in a hallway: a window at the top with a potted cactus on the sill and a small pink object beside it. A thin dotted trail of small dark specks runs from the window down the wall to the floor under a long brown bench at the bottom.
+upcut_03_19@60,25,230,140|a window with a view of a brick building
+upcut_03_19@75,100,40,60|a potted cactus on the window sill
+upcut_03_19@125,150,25,15|a small pink object on the window sill
+upcut_03_19@210,140,45,215|a thin dotted trail of small dark specks down the wall
+upcut_03_19@55,275,235,75|a long brown bench
+upcut_03_19@200,335,40,30|small dark specks on the floor under the bench
+upcut_03_19@0,320,341,64|the tiled floor
+upcut_03_20|A vending machine: Fast Foods and Milk. Top row: Hot Dog $7, Beef Jerky $9, Ham Sandwich $8. Bottom row: Orange Juice $9, Milk $7, Swiss Rolls $6. At the right: a sign saying Credit Card Accepted, a card slot, a coin slot, a bill slot and buttons. Limited Time Specials at the bottom.
+upcut_03_20@40,0,200,25|the sign: Fast Foods and Milk
+upcut_03_20@45,25,60,60|Hot Dog, 7 dollars
+upcut_03_20@105,25,65,60|Beef Jerky, 9 dollars
+upcut_03_20@170,25,65,60|Ham Sandwich, 8 dollars
+upcut_03_20@45,95,60,65|Orange Juice, 9 dollars
+upcut_03_20@105,95,65,65|Milk, 7 dollars
+upcut_03_20@170,95,65,65|Swiss Rolls, 6 dollars
+upcut_03_20@235,20,60,35|a sign: Credit Card Accepted
+upcut_03_20@245,55,50,35|a card slot and a coin slot
+upcut_03_20@240,100,55,45|a slot for bills
+upcut_03_20@245,160,40,25|two buttons
+upcut_03_20@45,165,190,27|Limited Time Specials
+upcut_03_21|Black-and-white courtroom picture: a tall man with long hair, a beard and a ragged coat leans on the witness stand. A young man with a scarf sits at a bench at the back right. In the front, a woman with very long black hair, seen from behind, throws out her arms, holding a large paper.
+upcut_03_21@60,10,85,170|a tall man with a beard and a ragged coat at the witness stand
+upcut_03_21@225,10,50,55|a young man with a scarf at the back bench
+upcut_03_21@135,60,155,132|a woman with very long black hair, seen from behind, arms spread
+upcut_03_21@265,45,60,65|a large paper in her hand
+upcut_03_21@40,60,155,75|rope barriers on posts
+upcut_03_22|A room with a window covered by dark purple curtains, with bars outside. A flat-screen TV on a black stand with video players stands in the corner at the right.
+upcut_03_22@60,20,135,95|a window with dark purple curtains
+upcut_03_22@125,25,40,80|bars on the window
+upcut_03_22@0,20,15,95|the edge of another curtain
+upcut_03_22@185,70,85,80|a flat-screen TV
+upcut_03_22@175,120,95,72|a black stand with video players
+upcut_03_22@0,155,175,37|a wooden floor
+upcut_03_24|A woman with long black hair and a blue suit stands at a wooden bench in a courtroom, arm stretched out, pointing a revolver to the left. She has a red tie and a gold earring.
+upcut_03_24@45,10,65,55|a revolver
+upcut_03_24@70,30,140,50|her outstretched arm
+upcut_03_24@185,20,60,65|her face, with long black hair and a gold earring
+upcut_03_24@180,60,90,95|her blue suit and red tie
+upcut_03_24@0,140,341,52|the wooden bench
+upcut_03_26|In a courtroom, Edgeworth stands with his arms folded and eyes closed, while Detective Gumshoe in his trench coat salutes beside him, grinning.
+upcut_03_26@20,15,175,177|Edgeworth, arms folded, eyes closed
+upcut_03_26@150,20,140,172|Gumshoe in a trench coat, saluting
+upcut_03_26@270,0,71,192|the courtroom's wooden furniture
+upcut_03_34|Black-and-white picture: a young woman with long hair and a coat grips a dagger with both hands, facing a tall man with long hair tied back, who turns away from her.
+upcut_03_34@55,45,105,147|a young woman with long hair, holding a dagger
+upcut_03_34@135,110,30,40|a dagger
+upcut_03_34@160,0,150,192|a tall man with long hair tied back
+upcut_03_35|Detective Gumshoe sits on the bench under the window in the hallway, shouting excitedly, holding a Swiss roll in one hand and a piece in the other. A potted plant is on the window sill.
+upcut_03_35@100,0,30,45|a potted plant on the window sill
+upcut_03_35@90,0,165,48|the window
+upcut_03_35@160,50,105,142|Gumshoe, shouting, holding a Swiss roll
+upcut_03_35@195,105,25,25|a Swiss roll
+upcut_03_35@85,135,175,57|the long brown bench
+upcut_03_36|The same hallway: a girl with black hair in a ponytail, in a pink top and shorts, sits on the bench next to Gumshoe, grinning and holding a Swiss roll. A pink balloon is tied to the potted plant on the window sill.
+upcut_03_36@100,0,30,50|a potted plant with a pink balloon tied to it
+upcut_03_36@105,35,15,100|the balloon's string
+upcut_03_36@105,70,70,120|a girl with a ponytail, grinning, holding a Swiss roll
+upcut_03_36@160,50,105,142|Gumshoe, shouting, holding a Swiss roll
+upcut_03_36@85,135,175,57|the long brown bench
+upcut_03_39|A man with long brown hair and a patterned blue scarf, in a dark coat, stands at a wooden bench in a courtroom, gritting his teeth, his fist on the bench.
+upcut_03_39@135,0,65,60|his face, with long brown hair, gritting his teeth
+upcut_03_39@155,40,40,30|a patterned blue scarf
+upcut_03_39@90,45,190,120|his dark coat
+upcut_03_39@60,135,45,35|his clenched fist
+upcut_03_39@0,150,341,42|the wooden bench
+upcut_03_45|A courthouse hallway: a double door with a sign saying Defendant Lobby No. 2, recycling bins for cans and trash, a vending machine saying Courthouse Specials, Fast Foods and Milk, and a blue Drinks machine. The long bench is at the left, under a window.
+upcut_03_45@75,15,70,30|a sign: Defendant Lobby No. 2
+upcut_03_45@55,20,90,105|a double wooden door
+upcut_03_45@150,80,40,50|recycling bins for cans and trash
+upcut_03_45@185,35,65,100|a vending machine: Courthouse Specials, Fast Foods and Milk
+upcut_03_45@250,25,65,110|a blue Drinks machine
+upcut_03_45@0,30,25,80|a window
+upcut_03_45@0,115,55,35|the end of a long bench
+upcut_03_45@35,140,20,15|small dark specks on the floor near the bench
+upcut_03_45@325,20,16,100|another door at the right
+upcut_03_46|A waiting room: two windows with green curtains, a potted tree between them, a flat-screen TV on a black stand in the corner, and a long wooden table in the front with a thermos, two small cups and a pink box, with two chairs behind it.
+upcut_03_46@0,15,95,65|a window with green curtains
+upcut_03_46@125,15,95,65|a window with green curtains
+upcut_03_46@65,35,50,85|a potted tree
+upcut_03_46@210,45,65,100|a flat-screen TV on a black stand
+upcut_03_46@65,150,30,35|a thermos
+upcut_03_46@85,165,20,20|two small cups
+upcut_03_46@105,165,25,15|a pink box
+upcut_03_46@100,135,95,57|two black chairs
+upcut_03_46@50,165,260,27|a long wooden table
+upcut_03_06@50,60,50,40|a pistol in the right hand of the man with long brown hair
+upcut_03_06@115,70,170,55|the man with long brown hair, lying across the other man
+upcut_03_06@220,90,50,50|the other man's face, with short dark hair
+upcut_03_06@250,135,45,35|a bloody knife in the other man's hand
+upcut_03_06@30,95,70,55|an evidence bag on the floor
+upcut_03_06@35,135,70,57|an evidence bag with a blood stain
+upcut_03_06@105,120,60,50|an evidence bag on the floor
+upcut_03_06@0,0,341,192|chalk outlines on the tiled floor
+upcut_04_01|Mercurial News, Evening Edition: Yatagarasu Sends Card to Embassy! A photo of a white card with a black bird symbol, captioned: The card received by the Embassy. Another photo shows a dark winged silhouette.
+upcut_04_01@0,10,300,40|Mercurial News, Evening Edition
+upcut_04_01@0,50,300,30|the headline: Yatagarasu Sends Card to Embassy!
+upcut_04_01@40,80,75,50|a photo of a white card with a black bird symbol
+upcut_04_01@40,130,75,30|the caption: The card received by the Embassy
+upcut_04_01@160,135,120,57|a photo of a dark winged silhouette
+upcut_04_01@115,80,180,55|the article's small print
+upcut_04_02|Tall picture of a stage set: a full moon and clouds in a night sky, mountains and pine trees. On the stage, a woman in a red and pink costume with a big hairdo, a performer in a silver armored costume with long tubes on his back kneeling with a sword and a fan, a small figure riding in a wooden cart at the right, and a New Year decoration of bamboo and pine at the left.
+upcut_04_02@140,0,115,105|a full moon
+upcut_04_02@0,40,341,40|clouds
+upcut_04_02@60,105,280,100|mountains and pine trees
+upcut_04_02@65,210,60,140|a woman in a red and pink costume with a big hairdo
+upcut_04_02@105,225,130,150|a performer in a silver armored costume with long tubes, kneeling, with a sword and a fan
+upcut_04_02@220,275,65,75|a small figure riding in a wooden cart
+upcut_04_02@35,275,50,100|a decoration of bamboo and pine
+upcut_04_03|A stage set with pine trees under a spotlight: a woman in a red and pink costume with a big hairdo, a performer in a silver armored costume with long tubes on his back, kneeling with a sword and a fan, a small figure in a wooden cart at the right, and a bamboo and pine decoration at the left.
+upcut_04_03@65,20,60,140|a woman in a red and pink costume with a big hairdo
+upcut_04_03@105,30,130,145|a performer in a silver armored costume with long tubes, kneeling, with a sword and a fan
+upcut_04_03@220,80,70,85|a small figure riding in a wooden cart
+upcut_04_03@35,85,50,100|a decoration of bamboo and pine
+upcut_04_03@0,0,341,80|pine trees in the background
+upcut_04_06|Edgeworth, seen from behind, looks up at a tall building on fire at night. Flames burst from many windows and smoke rises at the top right. Metal scaffolding stands in front.
+upcut_04_06@105,55,130,137|Edgeworth, seen from behind
+upcut_04_06@0,0,341,110|a tall building with flames in the windows
+upcut_04_06@260,0,81,50|smoke
+upcut_04_06@20,110,320,82|metal scaffolding
+upcut_04_07|Black-and-white picture at night: a girl with long hair and a hair ornament, seen from behind, crouches in the grass, watching a doorway at the top right where a person's legs are disappearing inside. A fence at the left, steps leading up to the door.
+upcut_04_07@20,0,145,192|a girl with long hair and a hair ornament, seen from behind
+upcut_04_07@255,0,40,55|a person's legs, going through the doorway
+upcut_04_07@205,0,90,60|an open doorway
+upcut_04_07@165,40,175,50|steps leading up to the door
+upcut_04_07@0,0,70,90|a wire fence
+upcut_04_07@180,170,45,22|a hand at the bottom edge
+upcut_04_10|A small white safe with its door wide open, standing in the corner of a stained room. It is empty except for a piece of paper on the floor of the safe. Rubble lies on the floor at the right.
+upcut_04_10@120,25,105,135|a white safe, open
+upcut_04_10@130,60,85,85|the inside of the safe
+upcut_04_10@170,125,25,15|a piece of paper inside the safe
+upcut_04_10@215,55,80,135|the open safe door
+upcut_04_10@0,0,100,192|a stained wall and a doorway at the left
+upcut_04_10@290,125,51,67|rubble on the floor
+upcut_04_11|Two pages of a document written in a foreign script that can't be read. The front page, marked 1 of 3, has a table of figures. The back page, marked 3 of 3, is signed Manny Coachen.
+upcut_04_11@60,10,155,170|page 1 of 3, with a table of figures
+upcut_04_11@80,105,90,60|a table of figures
+upcut_04_11@165,5,105,175|page 3 of 3
+upcut_04_11@180,130,90,40|a signature: Manny Coachen
+upcut_04_17|A knife with a curved, decorated wooden handle, its blade covered in blood.
+upcut_04_17@80,55,135,105|a blade covered in blood
+upcut_04_17@175,10,110,85|a decorated wooden handle with gold scrolls
+upcut_04_18|A display board on a sooty wall, with places for three knives: a knife on the left and a knife on the right, and an empty space between them with only its pegs left. Something brown hangs at the top.
+upcut_04_18@110,65,45,75|a knife on the left
+upcut_04_18@150,80,45,60|an empty space with pegs, between the knives
+upcut_04_18@195,65,50,75|a knife on the right
+upcut_04_18@85,60,180,90|the display board
+upcut_04_18@90,0,160,45|something brown hanging at the top
+upcut_04_24|An outdoor stage at night in front of a large flag: yellow at the top, white in the middle with a flower crest in a wreath, and red at the bottom. A purple podium with a crest and microphones stands on a purple-draped platform. Rose bushes at the right, barbed wire at the top right, a small stool at the bottom left.
+upcut_04_24@40,10,200,120|a large flag with a flower crest in a wreath
+upcut_04_24@150,95,35,60|a purple podium with a crest and microphones
+upcut_04_24@75,145,160,40|a purple-draped platform with steps
+upcut_04_24@225,100,116,75|rose bushes
+upcut_04_24@255,0,86,30|barbed wire on the wall
+upcut_04_24@0,150,35,30|a small stool
+upcut_04_24@40,165,301,27|the edge of a pool
+upcut_04_25|The same stage in a flash of yellow light: the huge shadow of a winged figure is cast across the flag above the podium.
+upcut_04_25@40,10,200,120|the flag, with a winged shadow cast across it
+upcut_04_25@80,5,130,120|the shadow of a winged figure
+upcut_04_25@150,95,35,60|the podium
+upcut_04_25@225,100,116,75|rose bushes
+upcut_04_25@0,150,35,30|a small stool
+upcut_04_26|Black-and-white picture high on a building at night: a young man in a T-shirt crouches on a ledge, beside a figure in a costume with long tubes lying face down on the roof. The lit windows of the building and barbed wire are below at the right.
+upcut_04_26@105,25,60,95|a young man in a T-shirt, crouching on the ledge
+upcut_04_26@10,75,110,95|a figure in a costume with long tubes, lying face down
+upcut_04_26@180,30,161,162|the building's lit windows
+upcut_04_26@270,130,71,30|barbed wire
+upcut_04_27|A man in a green and gold uniform with a white mask over his eyes lies on his back on a patterned carpet, blood at his neck. His green hat with white feathers has fallen off. A bloody sword with a red-wrapped handle lies across him, and a green patterned cloth covers his legs. A dark desk with a name plate is at the right.
+upcut_04_27@140,40,80,40|the man's face, with a white mask over his eyes
+upcut_04_27@180,60,30,30|blood at his neck
+upcut_04_27@165,15,75,40|a green hat with white feathers
+upcut_04_27@85,60,130,65|a green and gold uniform
+upcut_04_27@120,25,30,20|a small object in his hand above his head
+upcut_04_27@175,70,80,95|a bloody sword with a red-wrapped handle
+upcut_04_27@130,120,140,72|a green patterned cloth
+upcut_04_27@0,90,130,102|his legs, in red trousers and boots
+upcut_04_27@255,0,86,192|a dark desk with a name plate
+upcut_04_28|An ambassador's office wall: a crossbow and a spear hang at the top, and a display board below holds three knives with decorated handles. A golden statue of a knight holding a sword stands on a white pedestal at the right, a potted tree with a carved face at the left, and a large flower crest on the wall at the right.
+upcut_04_28@115,30,85,50|a crossbow
+upcut_04_28@60,30,60,162|a spear
+upcut_04_28@120,80,95,45|a display board with three knives
+upcut_04_28@0,45,80,147|a potted tree with a carved face
+upcut_04_28@215,70,75,122|a golden statue of a knight holding a sword
+upcut_04_28@280,0,61,120|a large flower crest on the wall
+upcut_04_31|Two pieces of a broken wooden knife sheath with gold scrolls: the end of the sheath at the left, and the handle with a gold flower-shaped guard at the right.
+upcut_04_31@70,25,85,95|the broken end of the sheath
+upcut_04_31@165,35,115,95|the handle with a gold flower-shaped guard
+upcut_04_34|The ambassador's office in red light: a display board with three knives at the top left, a statue of a knight holding a sword on a decorated pedestal in the middle, and a large crest on the wall at the right. A small blue glow is on the statue's head.
+upcut_04_34@10,25,110,55|a display board with three knives
+upcut_04_34@140,15,75,140|a statue of a knight holding a sword
+upcut_04_34@165,15,15,20|a small blue glow on the statue's head
+upcut_04_34@120,120,100,72|a decorated pedestal
+upcut_04_34@200,0,141,120|a large crest on the wall
+upcut_04_39|A bare knife blade with an engraved pattern, without its handle. The tang at the top right has a small hole.
+upcut_04_39@80,60,140,100|the blade, with an engraved pattern
+upcut_04_39@200,20,60,60|the tang, with a small hole and a small engraved mark
+upcut_04_40|A woman with white hair and a black feather boa grabs a girl from behind, holding a gun to the girl's head. The girl, with long black hair in a ponytail with a hair ornament, grimaces with her fists raised. A sunny window behind them.
+upcut_04_40@140,25,50,50|the woman's face, with white hair
+upcut_04_40@150,65,35,25|a gun held to the girl's head
+upcut_04_40@165,40,85,80|the girl's face, with black hair and a hair ornament
+upcut_04_40@160,95,50,30|the girl's raised fists
+upcut_04_40@95,70,80,122|the woman's black feather boa and dark clothes
+upcut_04_40@140,120,85,72|the girl's pink top and belt
+upcut_04_40@30,35,200,155|a sunny window
+upcut_04_41|Black-and-white picture: a young woman with long black hair, freckles and large hoop earrings, in a dark coat with a tie, under a beam of light.
+upcut_04_41@95,40,65,70|her face, with freckles and hoop earrings
+upcut_04_41@85,95,95,97|her dark coat and tie
+upcut_04_42|Black-and-white picture: the young woman with long black hair and hoop earrings, and beside her a tall man with long hair tied back and a patterned scarf, both under beams of light.
+upcut_04_42@95,40,65,70|the young woman's face
+upcut_04_42@85,95,85,97|the young woman's dark coat and tie
+upcut_04_42@185,10,70,70|the man's face, with long hair tied back
+upcut_04_42@195,65,60,40|a patterned scarf
+upcut_04_42@165,60,110,132|the man's dark coat
+upcut_04_43|Black-and-white picture: the young woman with long black hair and hoop earrings, the tall man with long hair tied back and a patterned scarf, and between them, in the background, a third man with short hair, seen from behind.
+upcut_04_43@95,40,65,70|the young woman's face
+upcut_04_43@85,95,85,97|the young woman's dark coat and tie
+upcut_04_43@140,5,55,90|a man with short hair in the background, seen from behind
+upcut_04_43@185,10,70,70|the tall man's face, with long hair tied back
+upcut_04_43@195,65,60,40|a patterned scarf
+upcut_04_43@165,60,110,132|the tall man's dark coat
+upcut_04_44|Wide picture: a man with a mustache, slicked-back hair and a ragged coat over a black shirt and white tie stands holding a pistol, in front of a sunny window. A flag on a pole at the left, a column in the middle, and a tall dark window with trees at the right.
+upcut_04_44@125,30,60,50|the man's face, with a mustache
+upcut_04_44@85,60,120,132|a ragged coat over a black shirt and white tie
+upcut_04_44@165,95,40,40|a pistol in his hand
+upcut_04_44@0,30,25,162|a flag on a pole
+upcut_04_44@25,35,200,157|a sunny window
+upcut_04_44@255,0,85,192|a column
+upcut_04_44@350,0,162,192|a tall dark window with trees outside
+upcut_04_45|Tall picture of a struggle: a man with a mustache and a ragged coat points a pistol from the back left. A man with spiky hair and a fur-collared coat raises a gun high while a woman with white hair and a black feather boa clings to his arm. A girl with black hair and a hair ornament sits on the floor at the bottom left, mouth open. A red and gold striped carpet.
+upcut_04_45@45,20,100,260|a man with a mustache and a ragged coat, pointing a pistol
+upcut_04_45@95,70,25,25|his pistol
+upcut_04_45@140,20,140,150|a man with spiky hair and a fur-collared coat
+upcut_04_45@140,30,30,30|a gun held high
+upcut_04_45@195,95,90,105|a woman with white hair and a black feather boa
+upcut_04_45@140,165,175,219|the woman's long black dress
+upcut_04_45@45,190,100,140|a girl with black hair and a hair ornament, sitting on the floor
+upcut_04_45@85,250,80,134|a man's boots and legs
+upcut_04_45@0,185,341,199|a red and gold striped carpet
+upcut_04_46|A stack of papers. The top page is titled KG-8 Incident, page 7 of 10, with text and a photo of two men with long hair in suits standing against a height chart.
+upcut_04_46@170,15,100,20|the title: KG-8 Incident
+upcut_04_46@130,90,80,40|a photo of two men against a height chart
+upcut_04_46@155,30,110,60|text in small print
+upcut_04_46@100,130,120,40|more small print
+upcut_04_47|A stack of papers. The top page is titled KG-8 Incident, page 8 of 10, with text and a picture of a black card with a white bird symbol.
+upcut_04_47@170,15,100,20|the title: KG-8 Incident
+upcut_04_47@135,90,70,45|a black card with a white bird symbol
+upcut_04_47@155,30,110,60|text in small print
+upcut_04_47@100,130,120,40|more small print
+upcut_04_48|Tall sepia picture of an empty courtroom seen from the gallery: the judge's bench at the back under a scales emblem, the witness stand in the middle, the defense and prosecution benches on each side, a chair facing the stand in front, and rope barriers on posts.
+upcut_04_48@130,5,80,45|a scales emblem
+upcut_04_48@90,90,165,80|the judge's bench
+upcut_04_48@130,150,85,45|the witness stand
+upcut_04_48@75,185,60,105|the defense bench
+upcut_04_48@210,185,60,105|the prosecution bench
+upcut_04_48@140,265,60,60|a chair in the middle
+upcut_04_48@60,240,40,110|rope posts at the left
+upcut_04_48@245,240,40,110|rope posts at the right
+upcut_04_48@0,340,341,44|a rope barrier in front
+upcut_04_48@0,150,70,100|gallery seats at the left
+upcut_04_48@275,150,66,100|gallery seats at the right
+upcut_04_50|A black card with a big white bird symbol in the middle and small white feather marks in each corner.
+upcut_04_50@140,50,65,80|a white bird symbol
+upcut_04_50@60,10,215,182|a black card
+upcut_04_51|A room in green light: a stone fireplace with logs in the middle, a small safe with a dial at the right, and the edge of a curtain at the left, outlined in yellow. A small X-shaped mark is on the back wall of the fireplace.
+upcut_04_51@90,15,170,150|a stone fireplace
+upcut_04_51@150,105,70,40|logs in the fireplace
+upcut_04_51@155,85,20,15|a small X-shaped mark on the back wall of the fireplace
+upcut_04_51@270,55,71,100|a small safe with a dial
+upcut_04_51@0,0,25,115|the edge of a curtain, outlined in yellow
+upcut_04_51@130,0,90,25|something on the mantelpiece
+upcut_04_52|A sooty room: a stone fireplace with burnt debris and a few charred objects inside, and a small X-shaped mark scratched on its back wall. A small grey safe with a dial stands at the right.
+upcut_04_52@90,15,170,150|a stone fireplace
+upcut_04_52@170,105,55,40|burnt debris and charred objects in the fireplace
+upcut_04_52@160,95,25,25|a small X-shaped mark on the back wall of the fireplace
+upcut_04_52@130,0,90,25|burnt things on the mantelpiece
+upcut_04_52@270,55,71,100|a small grey safe with a dial
+upcut_04_52@0,0,90,192|a sooty wall and floor at the left
+upcut_04_53|A burnt desk seen from above, covered in soot: a toppled office chair at the left, and on the desk a blue box, a small bottle of ink, a telephone, a black box and a pile of burnt papers. Debris is scattered on the floor.
+upcut_04_53@20,15,165,150|a toppled office chair
+upcut_04_53@205,50,50,35|a blue box
+upcut_04_53@195,85,30,30|a small bottle of ink
+upcut_04_53@165,115,50,30|a telephone
+upcut_04_53@235,95,40,45|a black box
+upcut_04_53@240,10,60,40|a pile of burnt papers
+upcut_04_53@290,10,30,30|a small round object
+upcut_04_53@0,0,80,90|debris on the floor
+upcut_04_55|The ambassador's office in green light, with outlines drawn over it: a statue of a knight on a pedestal at the left, a display board with knives on the wall, one knife outlined in yellow, shelves with ornaments, a grandfather clock outlined in white and yellow, and a door at the right.
+upcut_04_55@25,20,45,150|a statue of a knight on a pedestal
+upcut_04_55@70,30,60,35|a display board with knives
+upcut_04_55@90,35,20,25|a knife outlined in yellow
+upcut_04_55@195,20,65,150|a grandfather clock, outlined in white and yellow
+upcut_04_55@155,0,60,95|shelves with ornaments
+upcut_04_55@255,25,65,165|a door
+upcut_04_56|The ambassador's office in color: a golden statue of a knight on a blue pedestal at the left, a display board with two knives on the wall, shelves with a small Statue of Liberty, an eagle and a bear figure, a tall grandfather clock, and a wooden door at the right. Broken pieces lie on the floor at the bottom left, and burnt debris in the middle.
+upcut_04_56@25,20,45,85|a golden statue of a knight
+upcut_04_56@25,100,45,80|a blue pedestal
+upcut_04_56@70,30,60,35|a display board with two knives
+upcut_04_56@155,0,60,25|a small Statue of Liberty
+upcut_04_56@160,40,40,20|an eagle figure
+upcut_04_56@165,60,30,25|a bear figure
+upcut_04_56@195,25,50,140|a tall grandfather clock
+upcut_04_56@255,25,65,165|a wooden door
+upcut_04_56@0,140,95,52|broken pieces on the floor
+upcut_04_56@160,150,80,42|burnt debris on the floor
+upcut_04_56@70,0,60,30|something hanging at the top
+upcut_04_58|Close-up of a man's hand at his side, in a dark suit, holding a black card with a white bird symbol, beside a car door.
+upcut_04_58@140,10,55,90|a man's hand
+upcut_04_58@130,65,65,85|a black card with a white bird symbol
+upcut_04_58@190,0,151,192|a man's dark suit
+upcut_04_58@0,75,190,117|a car door
+upcut_04_61|Black-and-white picture at night: from a window at the top left, a pair of hands fires a crossbow. A cable trails from the bolt across the gap toward a window of the building opposite.
+upcut_04_61@0,0,110,90|hands holding a crossbow at a window
+upcut_04_61@80,10,90,50|a crossbow
+upcut_04_61@110,55,140,45|a cable trailing across the gap
+upcut_04_61@195,60,60,40|a bolt hitting the building opposite
+upcut_04_61@200,0,141,192|the building opposite, with lit windows
+upcut_04_61@0,90,200,102|the wall of the near building
+upcut_04_62|The ambassador's office in color: a sword, a crossbow and a spear on the wall, a display board with three knives with golden handles, a golden statue of a knight on a white and blue pedestal in the middle, a potted tree with a carved face at the left, a ceiling fan over a large flower crest, and a small desk with a vase and a photo frame at the right.
+upcut_04_62@75,30,65,15|a sword
+upcut_04_62@80,40,45,45|a crossbow
+upcut_04_62@50,60,35,100|a spear
+upcut_04_62@80,85,55,35|a display board with three knives
+upcut_04_62@140,80,40,80|a golden statue of a knight
+upcut_04_62@135,145,55,47|a white and blue pedestal
+upcut_04_62@0,60,55,125|a potted tree with a carved face
+upcut_04_62@130,0,155,60|a ceiling fan
+upcut_04_62@165,20,120,125|a large flower crest on the wall
+upcut_04_62@280,85,61,80|a small desk with a vase and a photo frame
+upcut_04_68|A man with spiky hair, sunglasses and a big fur-collared coat stands in the middle, grinning, with two guards in uniforms and caps on each side, all lit from behind.
+upcut_04_68@120,10,110,182|a man with spiky hair, sunglasses and a fur-collared coat
+upcut_04_68@0,75,120,117|two guards in uniforms and caps at the left
+upcut_04_68@220,75,121,117|two guards in uniforms and caps at the right
+upcut_04_68@140,140,60,20|a belt with a big buckle
+upcut_04_70|Detective Gumshoe in a green coat salutes and grins excitedly, holding the handle of a wooden cart or desk in front of him, with light bursting behind him. A poster and papers on the wall at the right.
+upcut_04_70@105,0,150,192|Gumshoe in a green coat, saluting
+upcut_04_70@65,120,185,72|a wooden box or cart
+upcut_04_70@175,95,70,50|a handle in his hand
+upcut_04_70@270,75,71,117|posters and papers on the wall
+upcut_04_70@30,70,35,45|a white paper on the wall
+upcut_04_71|A woman in a red and pink costume with a big hairdo stands holding a thin sword. Beside her, a performer in a silver armored costume with long tubes on his back kneels, holding a fan, his hand on the head of a small silver robot figure that has a bright stain on its chest and drips on the floor around it.
+upcut_04_71@70,20,65,150|a woman in a red and pink costume, holding a thin sword
+upcut_04_71@115,35,135,145|a performer in a silver armored costume with long tubes, kneeling
+upcut_04_71@205,55,40,40|a fan
+upcut_04_71@225,120,35,60|a small silver robot figure with a bright stain on its chest
+upcut_04_71@225,165,35,20|drips on the floor
+upcut_04_73|The flower-shaped guard of a knife handle, made of carved wood, with five petals and spikes between them. One petal at the top right is missing.
+upcut_04_73@100,20,140,140|a flower-shaped guard with five petals
+upcut_04_73@180,35,55,60|the place where one petal is missing
+upcut_04_73@140,0,100,30|the dark handle above the guard
+upcut_04_74|The flower-shaped guard of a knife handle, made of carved wood, with five complete petals and spikes between them.
+upcut_04_74@100,20,140,140|a flower-shaped guard with five complete petals
+upcut_04_74@140,0,100,30|the dark handle above the guard
+upcut_04_76|An office with a stone fireplace in the middle, with flags on the mantelpiece and burnt logs inside. A small X-shaped mark is on the back wall of the fireplace. A wooden writing desk with a vase of flowers and a framed photo at the left, a desk with books and a quill pen in front, and a window with a kettle at the right.
+upcut_04_76@95,10,155,150|a stone fireplace
+upcut_04_76@120,0,110,30|flags on the mantelpiece
+upcut_04_76@140,100,55,30|burnt logs in the fireplace
+upcut_04_76@175,80,15,15|a small X-shaped mark on the back wall of the fireplace
+upcut_04_76@0,45,115,105|a wooden writing desk
+upcut_04_76@40,15,25,40|a vase of flowers
+upcut_04_76@60,30,35,25|a framed photo
+upcut_04_76@125,135,95,57|a desk with books and a quill pen
+upcut_04_76@315,60,26,45|a kettle by the window
+upcut_04_77|The same office: the fireplace's logs are pushed aside, and the back wall of the fireplace is open like a hidden door, with the X-shaped mark on it.
+upcut_04_77@95,10,155,150|a stone fireplace
+upcut_04_77@160,65,45,60|the back wall of the fireplace, opened like a hidden door
+upcut_04_77@140,100,30,30|logs pushed aside
+upcut_04_77@0,45,115,105|a wooden writing desk
+upcut_04_77@40,15,55,45|a vase of flowers and a framed photo
+upcut_04_77@125,135,95,57|a desk with books and a quill pen
+upcut_04_78|The burnt desk seen from above, its drawer pulled open: inside the drawer, pens, a small orange notepad with an odd shape, like a flat-topped rock standing on a wide base that slopes out to a point on each side, and a pair of scissors. A toppled office chair at the left, and on the desk a blue box, a bottle of ink, a telephone, a black box and burnt papers.
+upcut_04_78@105,70,60,85|an open drawer
+upcut_04_78@160,80,30,15|a pen in the drawer
+upcut_04_78@140,95,25,20|a small orange notepad in the drawer, with an odd shape: a flat-topped block on a wide base that slopes out to a point on each side, like a desert rock formation
+upcut_04_78@130,115,35,20|a pen in the drawer
+upcut_04_78@20,15,140,150|a toppled office chair
+upcut_04_78@205,50,50,35|a blue box
+upcut_04_78@195,85,30,30|a small bottle of ink
+upcut_04_78@165,115,50,30|a telephone
+upcut_04_78@235,95,40,45|a black box
+upcut_04_78@240,10,60,40|a pile of burnt papers
+upcut_04_79|A black car seen from the side. Through the windows, a man with long brown hair in a dark suit sits in the back seat, and a passenger is in the front.
+upcut_04_79@105,45,180,90|a man with long brown hair in a dark suit, in the back seat
+upcut_04_79@0,50,105,100|the front window, with a passenger
+upcut_04_79@130,50,15,15|a small emblem on the car
+upcut_04_79@0,135,341,57|the car door and handles
+upcut_04_80|A flag with yellow, white, red, white and yellow stripes. In the middle, a dark shield with a yellow flower crest, between two dark towers wrapped in green vines, with a red and yellow ribbon below.
+upcut_04_80@140,40,65,90|a dark shield with a yellow flower crest
+upcut_04_80@115,40,30,90|a dark tower wrapped in green vines, at the left
+upcut_04_80@195,40,30,90|a dark tower wrapped in green vines, at the right
+upcut_04_80@145,110,55,20|a red and yellow ribbon
+upcut_04_80@65,10,210,150|the striped flag
+upcut_04_83|The small white safe with its door open, now holding things: on the top shelf a green statuette of a serpent or dragon and a round plate with a picture of a mountain, on the bottom shelf a golden figure and a sheet of paper.
+upcut_04_83@120,25,105,135|a white safe, open
+upcut_04_83@135,60,30,45|a green statuette of a serpent or dragon
+upcut_04_83@165,60,40,35|a round plate with a picture of a mountain
+upcut_04_83@135,105,30,20|a golden figure
+upcut_04_83@160,105,40,30|a sheet of paper
+upcut_04_83@215,55,80,135|the open safe door
+upcut_04_84|A dark office at night with a city view and the moon through a big window. A shadowy figure in the middle points a gun at Edgeworth, who stands at the right beside bookshelves. A large desk with a telephone, a sofa at the left, and ornaments on the shelf under the window.
+upcut_04_84@165,95,60,97|a shadowy figure pointing a gun
+upcut_04_84@205,105,20,15|a gun
+upcut_04_84@230,80,30,75|Edgeworth
+upcut_04_84@105,80,130,55|a large desk
+upcut_04_84@200,75,25,20|a telephone
+upcut_04_84@0,80,85,60|a sofa
+upcut_04_84@95,0,160,60|a big window with a city view and the moon
+upcut_04_84@100,10,40,35|a vase of flowers
+upcut_04_84@135,30,120,30|ornaments on the shelf
+upcut_04_84@250,0,91,160|bookshelves
+upcut_04_87|Wide picture of a garden: a round fountain with flowers floating in the water in the middle, a purple podium on a red-carpeted stage behind it under a flag, a statue of a kneeling knight raising a sword at the left, a statue of a woman kneeling at the right edge of the fountain, rose bushes, a small stool, a door with steps at the top left, and spotlights.
+upcut_04_87@195,75,230,70|a round fountain with flowers floating in the water
+upcut_04_87@265,10,55,40|a purple podium
+upcut_04_87@205,30,140,50|a red-carpeted stage
+upcut_04_87@180,0,170,30|a flag
+upcut_04_87@55,30,55,135|a statue of a kneeling knight raising a sword
+upcut_04_87@365,75,50,100|a statue of a kneeling woman
+upcut_04_87@160,30,25,30|a small stool
+upcut_04_87@60,0,90,75|a door with steps
+upcut_04_87@10,85,40,55|spotlights at the left
+upcut_04_87@415,130,40,40|a spotlight at the right
+upcut_04_87@0,0,55,110|rose bushes at the left
+upcut_04_87@420,0,92,192|rose bushes at the right
+upcut_04_87@0,175,512,17|flowers along the bottom
+upcut_04_88|The outdoor stage in a flash of yellow light: the shadow of a figure with a pointed horn or crest is cast on the flag behind the podium.
+upcut_04_88@40,10,200,120|the flag, with a shadow cast across it
+upcut_04_88@110,10,95,100|the shadow of a figure with a pointed horn or crest
+upcut_04_88@150,95,35,60|the podium
+upcut_04_88@225,100,116,75|rose bushes
+upcut_04_88@0,150,35,30|a small stool
+upcut_04_89|The outdoor stage in a flash of yellow light: the shadow of a woman with her arms raised in a dancing pose is cast on the flag behind the podium.
+upcut_04_89@40,10,200,120|the flag, with a shadow cast across it
+upcut_04_89@90,15,110,95|the shadow of a woman with her arms raised
+upcut_04_89@150,95,35,60|the podium
+upcut_04_89@225,100,116,75|rose bushes
+upcut_04_89@0,150,35,30|a small stool
+upcut_04_90|The outdoor stage in a flash of yellow light: the shadow of a figure with a pointed crest is cast on the flag, with green outlines of wings drawn over it.
+upcut_04_90@40,10,200,120|the flag, with a shadow cast across it
+upcut_04_90@60,5,80,75|green outlines of wings
+upcut_04_90@110,10,95,100|the shadow of a figure with a pointed crest
+upcut_04_90@150,95,35,60|the podium
+upcut_04_90@225,100,116,75|rose bushes
+upcut_04_90@0,150,35,30|a small stool
+upcut_04_91|The outdoor stage in a flash of yellow light: two shadows overlap on the flag, a figure with a pointed crest and a woman with her arms raised.
+upcut_04_91@40,10,200,120|the flag, with shadows cast across it
+upcut_04_91@90,10,115,100|two overlapping shadows: a figure with a pointed crest and a woman with her arms raised
+upcut_04_91@150,95,35,60|the podium
+upcut_04_91@225,100,116,75|rose bushes
+upcut_04_91@0,150,35,30|a small stool
+upcut_04_92|A stone statue of a woman kneeling on a pedestal at the edge of a fountain, one arm raised and the other held out over the water. Colorful roses float in the fountain, and a rose bush with red and orange roses is at the right.
+upcut_04_92@135,25,90,145|a stone statue of a kneeling woman
+upcut_04_92@180,25,30,30|her raised hand
+upcut_04_92@95,105,40,20|her outstretched hand
+upcut_04_92@115,140,120,52|the statue's pedestal
+upcut_04_92@0,25,220,95|roses floating in the fountain
+upcut_04_92@115,0,95,60|a dark curved sculpture at the top
+upcut_04_92@265,0,76,140|a rose bush with red and orange roses
+upcut_04_93|A cutaway drawing of two buildings side by side. The green one on the left is labeled Allebahstian Ambassador's Office, with a green room at the top. The orange one on the right is labeled Babahlese Secretariat's Office, with an orange room lower down. A wall separates them, and a blue spot is on the ground at the foot of the green building.
+upcut_04_93@60,20,120,115|the green building: Allebahstian Ambassador's Office
+upcut_04_93@80,35,40,25|a green room at the top
+upcut_04_93@130,115,20,15|a blue spot on the ground
+upcut_04_93@145,25,40,125|a wall between the buildings
+upcut_04_93@175,20,110,140|the orange building: Babahlese Secretariat's Office
+upcut_04_93@230,85,40,30|an orange room
+upcut_04_94|A white card with a big black bird symbol in the middle and small black feather marks in each corner.
+upcut_04_94@140,50,65,80|a black bird symbol
+upcut_04_94@60,10,215,182|a white card
+upcut_04_96|Black-and-white picture of a dressing room: a whiteboard on wheels at the left with The Steel Samurai vs. The Jammin' Ninja written on it and notes pinned up, a small figure sitting in a wooden cart, round stools, and dressing tables with mirrors along the right wall.
+upcut_04_96@25,0,105,85|a whiteboard: The Steel Samurai vs. The Jammin' Ninja
+upcut_04_96@90,65,70,70|a small figure sitting in a wooden cart
+upcut_04_96@150,90,190,60|round stools
+upcut_04_96@160,0,181,85|dressing tables with mirrors
+upcut_04_97|The same dressing room: the small figure sits in the wooden cart, and many boxes of snacks are piled on the floor in front of the cart.
+upcut_04_97@25,0,105,85|a whiteboard: The Steel Samurai vs. The Jammin' Ninja
+upcut_04_97@90,60,70,75|a small figure sitting in a wooden cart
+upcut_04_97@105,115,95,50|boxes of snacks piled on the floor
+upcut_04_97@150,90,190,60|round stools
+upcut_04_97@160,0,181,85|dressing tables with mirrors
+upcut_04_99|A ragged dark coat lying folded, with buttons, a belt with a gold buckle, and a sleeve hanging down. The inside lining is blue.
+upcut_04_99@70,20,205,120|a ragged dark coat
+upcut_04_99@75,65,40,70|the blue inside lining
+upcut_04_99@195,95,30,40|a gold buckle on the sleeve
+upcut_04_99@120,25,25,15|a gold buckle at the collar
+upcut_04_a1|A plan of two buildings side by side: Allebahst on the left and Babahl on the right, each with two windows. A gap goes in from the top between them, with a dark strip in it. Small gate posts stand at each outer corner.
+upcut_04_a1@60,20,80,110|the Allebahst building
+upcut_04_a1@200,20,80,110|the Babahl building
+upcut_04_a1@140,20,60,75|a gap between the buildings
+upcut_04_a1@155,0,30,65|a dark strip in the gap
+upcut_04_a1@50,105,15,25|a gate post at the left
+upcut_04_a1@280,105,15,25|a gate post at the right
+upcut_04_a2|A window sill at night: a copper watering can at the left, and a planter with two passionflower plants climbing red stakes, each with a white and purple flower. City buildings with lit windows are outside.
+upcut_04_a2@45,80,65,70|a copper watering can
+upcut_04_a2@125,90,165,100|a planter with soil
+upcut_04_a2@155,25,50,100|a passionflower plant with a white and purple flower, on a red stake
+upcut_04_a2@215,20,60,100|a passionflower plant with a white and purple flower, on a red stake
+upcut_04_a2@70,0,271,90|city buildings with lit windows
+upcut_04_a4|The room with the fireplace in green light: the debris inside the fireplace is outlined in yellow. A small X-shaped mark is on the back wall, a small safe with a dial at the right, and the edge of a curtain outlined in yellow at the left.
+upcut_04_a4@145,110,75,30|debris in the fireplace, outlined in yellow
+upcut_04_a4@155,85,20,15|a small X-shaped mark on the back wall of the fireplace
+upcut_04_a4@90,15,170,150|a stone fireplace
+upcut_04_a4@270,55,71,100|a small safe with a dial
+upcut_04_a4@0,0,25,115|the edge of a curtain, outlined in yellow
+upcut_04_a6|A 3D drawing of the two embassy buildings inside a walled area: a green building on the left and an orange building on the right, with a low building in front, between them.
+upcut_04_a6@55,15,125,115|the green building on the left
+upcut_04_a6@175,20,115,145|the orange building on the right
+upcut_04_a6@70,105,125,75|a low building in front
+upcut_04_a6@0,50,341,142|the surrounding wall
+upcut_04_a7|A floor plan: the Open-Air Stage on the left, two rooms in the middle with a square drawn across the wall between them, the Elevator at the bottom, and the Hallway on the right with a door from each room. A green circle marked S is in the upper room by its door, and a blue circle marked K in the lower room.
+upcut_04_a7@0,20,95,150|the Open-Air Stage
+upcut_04_a7@95,20,140,60|the upper room
+upcut_04_a7@95,80,140,60|the lower room
+upcut_04_a7@110,65,35,35|a square drawn across the wall between the rooms
+upcut_04_a7@185,55,25,25|a green circle marked S
+upcut_04_a7@170,105,25,25|a blue circle marked K
+upcut_04_a7@95,140,40,40|the Elevator
+upcut_04_a7@235,20,55,160|the Hallway
+upcut_04_a8|A flag: yellow at the top, white in the middle and red at the bottom, with a flower crest inside a green wreath and a red and yellow ribbon in the center.
+upcut_04_a8@125,40,95,90|a flower crest inside a green wreath
+upcut_04_a8@65,10,210,150|the striped flag
+upcut_04_a9|A flag: a red triangle on the left, white at the top right and yellow at the bottom right. In the red triangle, a dark shield with a yellow crest between two dark towers, with a white and yellow ribbon below.
+upcut_04_a9@85,60,60,50|a dark shield with a yellow crest
+upcut_04_a9@70,60,15,50|a dark tower at the left
+upcut_04_a9@120,60,15,50|a dark tower at the right
+upcut_04_a9@65,10,105,150|a red triangle
+upcut_04_a9@170,10,105,75|white at the top right
+upcut_04_a9@170,85,105,75|yellow at the bottom right
+upcut_04_b0|Close-up of a sword: a long blade with an engraved pattern running along it, and a golden guard decorated with a pink and white flower crest inside a wreath. A wooden handle at the top right.
+upcut_04_b0@0,60,230,132|a long blade with an engraved pattern
+upcut_04_b0@180,5,115,90|a golden guard with a pink and white flower crest
+upcut_04_b0@260,0,81,70|a wooden handle
+upcut_04_b1|Two crests side by side, separated by a black line. On the left, a flower crest with yellow petals on an orange circle, inside a green wreath, with a red and yellow ribbon. On the right, a dark shield with a yellow crest, between two dark towers, with a white and yellow ribbon.
+upcut_04_b1@35,15,135,120|a flower crest inside a green wreath, with a red and yellow ribbon
+upcut_04_b1@205,25,70,95|a dark shield with a yellow crest
+upcut_04_b1@170,20,35,105|a dark tower
+upcut_04_b1@275,20,35,105|a dark tower
+upcut_04_b1@150,0,50,192|a black line between the crests
+upcut_04_b2|A poster for the Jammin' Ninja: a ninja in blue with a yellow star on his mask sits under a tree playing a red guitar, surrounded by a rabbit, a raccoon dog, a small green bird and a deer. The title Jammin' Ninja is written on a red guitar shape at the top left.
+upcut_04_b2@30,0,130,65|the title: Jammin' Ninja
+upcut_04_b2@150,25,150,160|a ninja in blue playing a red guitar
+upcut_04_b2@175,65,130,55|a red guitar
+upcut_04_b2@30,125,40,60|a white rabbit
+upcut_04_b2@50,100,65,50|a raccoon dog
+upcut_04_b2@105,140,25,20|a small green bird
+upcut_04_b2@245,115,85,77|a deer
+upcut_04_b2@210,0,100,120|a tree
+upcut_04_b2@0,65,341,60|a forest of pine trees
+upcut_04_b3|Black-and-white picture of the fountain with the GATEWATER sign: a girl with her hair in buns and a short skirt, Edgeworth with his arms folded, and Detective Gumshoe in his trench coat scratching his head, standing in front of it.
+upcut_04_b3@100,80,40,85|a girl with her hair in buns and a short skirt
+upcut_04_b3@160,75,40,90|Edgeworth, arms folded
+upcut_04_b3@215,85,45,90|Gumshoe in a trench coat, scratching his head
+upcut_04_b3@100,40,140,60|a sign in lights: GATEWATER
+upcut_04_b3@50,55,240,65|the round fountain basin
+upcut_04_b3@0,65,40,50|a mascot at the edge of the picture
+upcut_04_09@135,15,65,140|a golden statue of a knight holding a sword
+upcut_04_09@120,125,95,67|a white pedestal with gold decorations
+upcut_04_09@215,30,110,55|a display case with two knife blades and an empty space between them
+upcut_04_09@0,0,110,120|a large crest on the wall
+upcut_04_09@220,0,100,30|something burnt hanging at the top
+upcut_04_09@230,150,111,42|soot on the floor
+upcut_04_08@60,30,200,150|the man with long brown hair, lying on the carpet
+upcut_04_08@130,45,40,25|a bloody wound on his chest
+upcut_04_08@190,40,50,20|a bloody knife lying near him
+upcut_04_08@145,85,25,20|a small golden pin on his jacket
+upcut_04_08@225,20,116,140|broken golden pieces scattered on the floor
+upcut_04_08@0,0,60,192|a dark wooden cabinet at the left
+upcut_04_29@5,25,115,55|a display case with three knives in decorated sheaths
+upcut_04_29@140,15,65,140|a golden statue of a knight holding a sword
+upcut_04_29@120,120,100,72|a white pedestal with gold decorations
+upcut_04_29@195,0,146,120|a large flower crest on the wall
+upcut_04_57@190,15,65,177|a man with long brown hair in a dark suit
+upcut_04_57@185,125,20,20|a black card in his right hand
+upcut_04_57@235,125,20,30|a knife in his left hand
+upcut_04_57@95,10,155,155|glass entrance doors
+upcut_04_57@235,30,20,25|a parking sign outside
+upcut_04_57@160,55,15,25|a no-entry sign outside
+upcut_04_57@95,165,190,27|a doormat
+upcut_04_59@95,80,145,55|a dark car with small flags on the front
+upcut_04_59@120,105,20,15|small flags on the front of the car
+upcut_04_59@185,85,30,20|a man with long brown hair sitting in the car
+upcut_04_59@230,25,20,110|a parking sign
+upcut_04_59@95,10,155,155|glass entrance doors
+upcut_04_63@10,20,65,20|the time: 5:21 PM
+upcut_04_63@60,40,80,55|a guard writing at his desk
+upcut_04_63@50,75,30,25|a name plate and a stamp on the desk
+upcut_04_63@105,75,25,20|a yellow book on the desk
+upcut_04_63@145,0,40,50|a poster: Allebahst Welcomes You
+upcut_04_63@150,50,35,45|small posters on the wall
+upcut_04_63@100,85,241,107|a red carpet leading to a door
+upcut_04_63@300,25,30,35|a sign on the wall
+upcut_04_64@10,20,65,20|the time: 5:22 PM
+upcut_04_64@60,40,80,55|a guard writing at his desk
+upcut_04_64@145,0,40,50|a poster: Allebahst Welcomes You
+upcut_04_64@160,100,80,92|an old man with long grey hair and a dark cloak, bent over a cane
+upcut_04_64@100,85,241,107|a red carpet
+upcut_04_65@10,20,65,20|the time: 5:23 PM
+upcut_04_65@60,40,80,55|a guard writing at his desk
+upcut_04_65@145,0,40,50|a poster: Allebahst Welcomes You
+upcut_04_65@225,30,65,140|a man in a white suit with tubes on his back and a spear, pushing a cart
+upcut_04_65@185,105,65,75|a wooden cart with a large stuffed doll in it
+upcut_04_65@100,85,241,107|a red carpet
+upcut_04_66@10,20,65,20|the time: 5:25 PM
+upcut_04_66@0,0,95,110|a golden door
+upcut_04_66@155,0,40,35|a poster
+upcut_04_66@160,30,35,60|a poster: Babahl
+upcut_04_66@245,45,45,45|a guard at his desk behind a window
+upcut_04_66@205,70,130,80|a desk with a newspaper, a telephone and a notepad
+upcut_04_66@0,85,230,107|a blue carpet
+upcut_04_20@50,25,65,145|a man in a white suit with tubes on his back
+upcut_04_20@155,40,45,90|a golden knight statue
+upcut_04_20@50,45,45,35|a display of knives on the wall
+upcut_04_20@205,70,85,100|an old man with long grey hair and a beard, in a green coat with a red sash
+upcut_04_20@155,135,45,30|two men shaking hands
+upcut_04_38@50,20,240,100|the front of an embassy building at night, with lit windows
+upcut_04_38@150,60,35,25|a dark shape flying through the air
+upcut_04_38@95,120,95,50|a large flag with a flower crest, lit by a spotlight
+upcut_04_38@175,110,60,55|coils of barbed wire
+# Second game close-ups (key: the picture's data name, cutXX_YYY).
+cut00_001|The edge of the lakeside stage. At the left, a red-curtained stage with a row of white and pink flowers along its top. A pole leans against the stage, and a tall striped flag in dark purple, orange and yellow hangs in the middle; there is a small green mark on the flag. At the right, a huge blue Steel Samurai balloon face with a red headband fills the picture. Wooden posts joined by a rope stand along the bottom, with a pink blossom bush at the lower right.
+cut00_004|A simple plan of the stage area seen from above. The stage is at the top with a staircase in the middle leading down. Below it, rows of rope barriers mark a path, with spectator areas on the left and right, edged by trees.
+cut00_006|A snapshot of the stage. A bearded man with wild orange hair in a purple suit stands behind the podium, with a red mark on his forehead. Two bodyguards in black suits stand in front, each holding a metal briefcase; the one on the right wears a white neck brace. A striped flag hangs at the upper right.
+cut00_009|A photo taken from the crowd. A smiling girl with a big key in her hair poses in the foreground at the left. Behind her, a crowd faces the stage, where a man in pink raises his arm beside the podium, flanked by bodyguards. In the crowd at the lower right, someone has something red near their head.
+cut00_00a|A photo of panicking people running across the grass, seen from low down. A man's legs and a big bag fill the middle. Among the crowd, near the middle, is a person in red.
+cut00_00b|A close look at the grass beside the Samurai Dogs stand. A paper lantern on a pole lies fallen on the grass at the left. The stand's glass counter and a Samurai Dogs banner are at the right, with a rifle range table at the lower right. A small red object is under the edge of the stand, and a small item lies in the grass near the bottom, beside a white hat.
+cut00_00c|The same spot beside the Samurai Dogs stand, now with a red jacket lying open on the grass. Its inside lining and a pocket can be seen. The stand and its banner are at the right, and a small item lies in the grass near the bottom.
+cut00_00d|The top of a wooden desk in the plane. A purple folder and papers lie on it, with a black protective vest marked B.D.G.D. beside them. A green and gold dragon figurine stands at the back, and a pile of small colorful pouches sits at the right corner, near a black chair.
+cut00_010|A paper plan titled Presidential Security Plan, March 19. It marks the stage with chess pieces: Lead, Rook, and Second, Knight. Red handwriting says: Also covered in case amphibious assault. The president's safety is paramount! Spectator area should be covered at all times! A king piece stands in the middle of the stage, and two pawns stand at the top of the stairs.
+cut00_011|A man in a dark suit lies dead on a red carpet, arms spread, with blood under his chest. An open metal briefcase lies beside him at the right. A gun lies near his head at the top, and green sleeves and shoes poke out around him.
+cut00_012|A wall of nine small security monitors in a wooden cabinet. The top row shows the plane's tail and static. The middle row shows a stuffed red toy with horns, the plane's cabin with people inside, and the plane's wing. The bottom row shows the park with blossom trees and the cockpit.
+cut01_01f|Wide picture of the prison yard. At the left, a high-voltage fence with a danger sign, and a stony ditch with a skeleton at the lower left. Along the wall: the power room door, a hand truck, two rakes, a basketball hoop with a cart of balls, and a stone well at the right.
+cut02_027|A black and white old photo of the embassy hall. A fountain with cherub statues is at the left, a woman in a maid's dress stands in the middle, and a man in a coat and hat and a boy in a cap stand facing her. A table covered with cakes and sweets stands at the right.
+cut03_020|The rooftop garden at night. A big blossom tree glows at the left, a pink greenhouse with a rose arch and two gargoyle statues stands in the middle, and a cotton candy stand is at the right. A glowing pegasus made of lights sits at the front.
+cut04_02c|A night-vision view of the snowy courtyard in front of a clock tower building. A lamppost stands at the left of the entrance, and footprints lead through the snow past flower beds. A snowman stands near the front right.
+cut01_000|A man lies dead on a grey floor, his head at the left. A wound is at his throat with blood beneath. A striped blanket tangled with rope covers his legs at the right. A small green chessboard box lies above his head, and a pink paper with a dark stain lies by his shoulder.
+cut01_004|A floor plan: Workshop A and Workshop B along the top, three cells, a long corridor with a round area, and Maximum Security at the right.
+cut01_007|A shelf on a cell wall. A small cabinet with open doors shows pictures of food. Next to it, a row of books including 200 Days to Freedom, Life as a Pet Stylist, Understanding Animal Emotions, and Making Money While Serving Time. A paper with a grid of squares lies on the desk below.
+cut01_008|A floor plan titled Detention Center/Prison Layout (Partial): Holding Cells and the Detention Center at the left, the Office Area and Warden's Office in the middle, a narrow passage, the Yard, then the Prison and Cells at the right, joined by a Connecting Corridor along the bottom.
+cut01_00b|A workshop floor of straw mats. A wooden chess set with pieces in play sits in the middle. Chisels and a mallet lie on a bench at the right. A cup and a plate of round crackers are at the left, and a small carving and a bell lie at the front. Wooden prayer beads lie at the lower right.
+cut01_00c|A small cell used for training. A red punching bag with a drawing on it hangs at the right, and a tire hangs from a chain in the middle. Posters on the wall say Champion and Gotta Lose 10 lbs. Bottles stand on a shelf above the bed, an hourglass is at the left, and a heater stands in the lower right corner.
+cut01_017|Night-vision view of a stone well under a wooden frame with a pulley. At the front: a folded blanket with two metal clamps on it, a coiled rope with a hook, a small rod, and a weight marked 30 lb. A window is at the right.
+cut01_019|Night-vision view of the well beside the circus stage. A rope runs from the pulley at the top of the wooden frame down into the well, with a pole slanting across. A blanket lies at the front and the 30 lb weight sits at the right.
+cut01_01b|A row of switches on a wall, each with an ON or OFF label. The top ones are marked High Voltage and Yard. The bottom row is marked Cameras, Sensor A, Sensor B and Sensor C.
+cut01_025|A storeroom corner. A tall wooden lifting frame with a rope and hook stands at the left, beside metal pipes. A barred cage is in the middle. A striped blanket with a whip lies at the front, and a coiled rope lies on the floor.
+cut01_027|A sheet of paper with a hand-drawn chessboard showing rooks, pawns, a king and a circled bishop. Notes beside it say: Next Move: Bishop to g2. What next? Rook... No... Pawn to g6?
+cut01_028|Close view of a cell bed. A pillow and an open newspaper lie at the head, dark clothes lie on the bed, and the wooden floor is beside it.
+cut01_02e|The workshop floor of straw mats with the wooden chess set in the middle and chisels and a mallet on the bench at the right.
+cut01_030|The training cell again: the red punching bag, the tire on a chain, the Gotta Lose 10 lbs sign, bottles on the shelf, the hourglass, the heater, and now a small box on the floor.
+cut01_036|The floor plan with Workshop A highlighted at the top left.
+cut01_038|The Detention Center/Prison Layout plan with the Detention Center highlighted at the left.
+cut01_03b|The man lying dead on the grey floor, wound at his throat, striped blanket and rope over his legs. His hand at the front is now holding something. The green chessboard box is above his head and the stained pink paper by his shoulder.
+cut02_005|A kitchen wall. A large golden frame holds a painting of an angel titled Angel's Cookbook, with a nameplate below saying Angel Bebe by Thorns. A small mark is on the frame's left edge. Below it on the counter: an open book called A Diary of Despair with an ink pot and a quill, and a candelabra labeled The Light of Life. Two orange buttons are on the wall at the right.
+cut02_006|The same kitchen wall with the angel painting in its golden frame, the open book, ink pot and quill, the candelabra and the two orange buttons. A control panel with a small display and sliders is now visible beside the buttons.
+cut02_008|Wide picture of a sculpture: a sailing ship crashing through brown waves, with an open treasure chest in front of it. Something sticks out of the chest's lid. A small piece lies on the round base, and a plaque about the ship stands at the right.
+cut02_00d|The front of the castle cake, its door open. Inside the dark doorway, a lump and a rolled-up paper. On each side, a small tower holds an empty lamp holder.
+cut02_00e|The front of the castle cake with the door closed. Glowing pink curtains hang over it, and a golden lamp stands in a holder on each side. A plug and cord are at the right.
+cut02_017|A photo of two glass display cases: one with a statue of a woman and a boy with a lyre, one with a goat statue. A glowing lamp sits on the table behind.
+cut02_018|A pale painting of the mermaid statue in its glass case, with red streaks on it. A ladder lies fallen beside it, and a rope post stands at the front left.
+cut02_024|A serving cart with a pink tablecloth. On top: gold cups and saucers, a basket of spoons, a moon ornament, star-shaped dishes, and a small red carton at the right.
+cut03_007|The base of a statue on a stone floor, surrounded by a large pool of red blood.
+cut03_008|A woman in a white suit lies dead on the judge's desk, her head at the left with blood on her chest. A small purple flower is on her chest, something is in her hand at the front, and a notebook marked Notebook, Kay lies by her other hand. A gavel and its stand are at the lower right.
+cut03_00d|The base of a big tree on the rooftop at night, surrounded by fallen petals in a round flower bed. A square lid is set in the grass at the front, beside a railing and a lamp.
+cut03_00e|A TV news picture marked LIVE: SEVENTEEN-YEAR-OLD SOUGHT IN CONNECTION WITH LAWYER SLAYING. It shows a tall building at night with a clock face on its side and a glowing strip along the roof.
+cut03_00f|A shelf of things for sale with price tags. On top: a flat purple cloth for 240, a small green figure for 8,400, and a doll statue for 6,700. A mannequin stands at the right. Below: a metal safe, a gold lantern, a small bottle, and a pink vase for 400.
+cut03_011|A wall of masks on a grid priced at 50,000. Top row: a golden mask, a flower mask, two helmet masks. Middle row: a red-haired mask, a padlock, two silver masks. At the bottom, a box of items priced 2,200. A ladder is at the left and the giant stone head at the right.
+cut03_012|A photo of a person in a red hooded suit seen from behind, by a ladder and a mannequin, with something in their hand.
+cut03_019|A red-tinted view of a chained wooden crate. Something glows faintly inside it.
+cut03_01a|A red-tinted view of a ladder by the mask wall. Two faint glowing spots are on the ladder, one high and one low.
+cut03_01b|A red-tinted view of the lift cage. A faint glowing spot is on its floor.
+cut04_001|A man in a purple coat lies dead in a cracked hole in a concrete floor, arms spread. A golden horn-shaped object lies at the right edge of the hole, and stairs are at the upper left.
+cut04_007|A photo of a film set: a woman with glasses and a boy in a red jacket stand beside a big red bull monster. A camera crane stands by the stairs at the left.
+cut04_00b|A rooftop. A giant red bull head with big horns and a nose ring stands on a blue tarp. In front of it: a purple machine and paint cans at the left, a wooden stand, and a big fan on a tall stand at the right beside a blue toolbox.
+cut04_00e|A dark film set at night. A boy in a red jacket stands with his arms spread beside a hole in the ground. A sign hangs on a cart at the left.
+cut04_010|A city map: Sunset Station on a yellow rail line, Dusk Street, Dawn Street, Sunrise Hall, the Bigg Building, Sunshine Harbor, Daybreak Dump, Sundown Sanitation Plant, Day's End Mall, Mornington Park, and Sunshine Coliseum.
+cut04_012|A garage. A motorcycle with a skull on its front stands in the middle. A green toolbox chest is at the left, tools hang on the wall, bags are piled at the right, and something red lies on the floor in front of the toolbox.
+cut04_015|A green metal gate with a padlock. A sign says Garbage Collected Daily 11 AM. A small box lies on the ground at the right, next to a white spill.
+cut04_01c|A pair of red and black gloves with flame patterns, covered in dirt and glass. Letters are on the fingers.
+cut04_021|A hole in the ground beside a camera crane arm. A cloth is draped over a table at the right, with cameras below it.
+cut04_027|Night-vision view of a man lying in the snow between flower beds. Footprints are all around. A box lies by his head at the right, his shoes are at the left, objects lie by his hand, a small object lies on the snow, and a flower is in the bed at the upper left.
+cut04_028|Night-vision view of the snow between the flower beds with footprints around. A large stain and smaller stains are in the middle, a flower is at the upper left, and a box lies at the right.
+cut04_02a|Night-vision view by the courtyard gate. A snowman stands by the brick pillar under a lamp, a man with his arm out stands behind it, and a man in a long coat and hat stands at the right.
+cut04_03c|Night-vision view of the front of the courtyard. Footprints lead up the snow at the left, a snowman's head lies in the snow, and a hedge runs along the railings at the right.
+cut04_03e|The city map again, with the Sunshine Depot highlighted near Daybreak Dump.
+cut00_000|Black and white picture: the bearded president of Zheng Fa, in a suit, waves from the doorway of his plane at the top of the stairs.
+cut00_002|A poster for the Steel Samurai: the silver-masked hero in a red hakama, holding a spear, poses under a full moon with a Japanese castle behind him. Big flaming letters say Steel Samurai.
+cut00_003|A newspaper, Mercurial News, Evening Edition. Headline: President of Zheng Fa to Visit. The photo shows the bearded president in a purple suit shouting at a microphone, finger raised.
+cut00_005|A newspaper, Mercurial News, Evening Edition. Headline: Yatagarasu Sends Card to Embassy! One photo shows a white card with a crow symbol, captioned The card received by the Embassy; another shows a dark crow silhouette.
+cut00_007|A paper plan titled Presidential Security Plan, March 24, with Lead: Rook and Second: Knight. Red handwriting says: Less cover for lakeside now, eyes on this area. Rook repositioned in light of Knight's injury. Knight to immediately escort president to plane in case of emergency. Stay frosty, we know who might be in the audience.
+cut00_008|A silver revolver with a long barrel and a wooden grip, a red laser sight beam shining from it.
+cut00_00f|Black and white picture: bodyguards in black suits and sunglasses grab and hold down a struggling man in the middle of a crowd.
+cut00_014|Seen from below: a man in a pink jacket with a white neckerchief and a monkey logo on the back looks over his shoulder in a doorway.
+cut00_015|The lake by the stage: a deflated red balloon lies in the water, its rope still tied, and a sunken Steel Samurai balloon shape is under the surface.
+cut00_016|The lake by the stage: a big red balloon floats on the water, tied with rope, with a submerged shape below it.
+cut00_019|A figure in a red hooded jacket stands in the pouring rain, face hidden in shadow.
+cut00_01a|Black and white picture: two bodyguards in a cabin point guns at each other; one wears a neck brace, the other a hat and mustache. Monitors are on the wall behind.
+cut00_01c|Black and white picture: a man in a neck brace stands with his hands cuffed behind his back, holding a gun, while Edgeworth points at him and another man looks on.
+cut00_01e|Newspapers spread out: Mercurial News, headline The Yatagarasu Reappears! Corporate dealings exposed! Below it, Speedy Times, headline about a Great Thief, and a line saying Three people arrested.
+cut00_01f|Tall picture of a clear blue sky with a few white clouds above a lake, with a line of blossom trees on the far shore.
+cut00_020|A dark purple flag with a red phoenix and gold and brown stripes flies on a pole against a blue sky.
+cut00_021|Inside the dark plane: a door with a small round window, light just beginning to shine around its edge.
+cut00_022|Inside the dark plane: the door is opening, bright light pouring in from outside.
+cut00_023|A white card with a pink crow symbol on a black background.
+cut00_024|Inside the plane: the door is wide open and the doorway is filled with blinding white light.
+cut00_025|Wide picture of the stage seen from behind: the bearded president in purple at the podium faces a huge crowd, with a bodyguard on each side and phoenix flags at both ends, under blossom trees.
+cut00_027|The bearded president in purple shouts with his arm raised high against a blue sky.
+cut00_029|A big red balloon bursting, torn pieces flying out in a flash.
+cut00_02a|A plan of the stage seen from above, marked with crosses: one on the podium, and two at the right side of the stage. A yellow dashed line runs from the spectator area at the lower left up to the right side of the stage.
+cut00_02b|A plan of the stage seen from above. Three green circles on the stage are labeled R, P and K. A yellow dashed line runs from K toward two orange crosses at the right side of the stage.
+cut00_02d|A plan of the stage seen from above. A red cross marks the middle of the stage behind the podium. Two orange crosses mark the right side of the stage, next to the curved line of the right flag. The left flag's line is at the left.
+cut00_02e|A large red splash of blood on a white background.
+cut00_02f|A close view of a bodyguard with a blue tie and an earpiece, gripping a metal briefcase, with the president in purple behind him.
+cut00_030|A close view of a bodyguard in a checked tie holding a metal briefcase by its handle.
+cut00_031|People running across the grass in panic, seen from low down; a man in an orange coat runs in the middle, and an umbrella lies on the ground.
+cut00_032|Edgeworth seen from behind, his red coat flaring as he sweeps his arm out.
+cut01_001|Black and white picture of a grand courtroom: a statue of Lady Justice with scales stands behind the judge's bench, surrounded by rows of seated figures.
+cut01_002|A close view of a big dog's face, its mouth stained red, with a small gold bell nearby.
+cut01_003|Black and white picture: a large dog stands over a man lying on the floor; the man has a bandage around his neck.
+cut01_005|Black and white picture: a bald old man in a kimono holding a knife strides forward beside a big dog.
+cut01_006|A wooden chessboard with a game in play: dark pieces including a horse-shaped knight on the left, white pieces on the right.
+cut01_009|Black and white picture: a circus show in a prison yard; an elephant balances on a ball, a tiger leaps through a hoop, and prisoners in striped uniforms cheer.
+cut01_00a|Black and white picture: a man with long hair grins as he pulls a striped curtain on a wheeled frame, next to lockers.
+cut01_00d|A cell floor of wooden boards, broken and splintered open in the middle, under a bunk bed with clothes hanging from it.
+cut01_00e|A side view plan: the Detention Center on the left and the Main Prison on the right, joined above ground by a Connecting Corridor. Below ground, a brown tunnel runs from under the Detention Center to under the Main Prison.
+cut01_00f|A photo of a dug-out tunnel in the dirt, with a metal cup, spoons and plates lying in it, and paw prints on the ground.
+cut01_010|Black and white picture: an officer in a fur-collared coat and cap leans over a table toward a smiling bald prisoner in stripes and handcuffs, with papers between them.
+cut01_011|Black and white picture: a clown leaps out of a doorway, past an elephant's trunk and a roaring lion's head.
+cut01_012|On a red background: a chisel with a glowing blue blade, tied by a cord to a red bell.
+cut01_013|A grainy black and white security camera picture dated 03/26 10:14:16 PM: a man stands by cell bars next to a tall object covered with a striped cloth.
+cut01_014|Black and white picture: a muscular prisoner in a striped uniform stands in a cell, a desk, toilet and bed behind him.
+cut01_015|A side view plan: the Detention Center on the left and the Main Prison on the right, with the Yard between them above ground. Below ground, a brown tunnel runs from under the Detention Center and rises up into the Yard.
+cut01_018|A side view diagram: a ladder or scaffold at the left with a pulley at the top, a pulley on the ground in the middle, and the well frame at the right with a pulley above the well shaft.
+cut01_01c|A shelf in a cell wall holding a small mirror and a mug with a toothbrush.
+cut01_01d|Black and white picture: a frightened woman in a fur coat and officer's cap clutches a small fluffy dog, while a bald man with glowing eyes looms behind her.
+cut01_01e|Black and white picture: an officer in a fur-collared coat leans over a table toward a handcuffed man in a neck brace, with papers and a knife between them.
+cut01_020|A long, dark prison corridor lined with cells on both sides.
+cut01_021|A green bell glowing on a dark background, with a faint blue copy of it behind.
+cut01_022|A dark, empty stretch of prison floor with a chain at the far right.
+cut01_023|A long prison corridor lined with cells, lit by an orange light at the far end.
+cut01_024|Black and white picture: a frightened man presses against a cell door, looking through its window in shock.
+cut01_026|A close view of the chessboard: a dark knight carved as a three-headed dog stands among the pieces, a white rook behind.
+cut01_029|A small red pool of blood on a black background.
+cut01_02a|A spreading red pool of blood on a black background.
+cut01_02b|A large red pool of blood covering most of the picture.
+cut01_02c|A blond man in a teal jacket and checked tie lies against a stone wall, a neck brace on him soaked with blood.
+cut01_02f|In orange tones: a young man in a suit with a red bow tie and a badge leans on a desk, pointing and shouting.
+cut01_032|A long prison corridor in darkness, cells on both sides.
+cut01_033|The prison corridor lit from the far end, with a dog's dark silhouette standing in the middle.
+cut01_037|A floor plan: Holding Cells and the Detention Center at the left, the Office Area, the yard, and the Prison and Cells at the right, joined by a Connecting Corridor.
+cut01_039|The side view diagram with an orange rope drawn on it: from a green point marked S at the left, up over the pulley on the scaffold, down under the pulley on the ground, and up over the pulley above the well, down to an orange weight hanging in the well shaft.
+cut01_03a|A stone well with a padlocked grate under a wooden frame with a pulley. At the front: a striped blanket with two clamps, a coiled rope with a metal rod, and a red 30 lb weight.
+cut01_03c|Close view of the body: a hand in a teal sleeve lies on a blood-stained striped blanket, a rope over it, holding a small object.
+cut01_03d|A man in a fur-collared jacket with a sly smile stands in a golden doorway, flanked by four guards in caps and sunglasses.
+cut01_03e|A security camera video player on a green screen. A grainy black and white picture from above shows cell bars and a corridor, time stamp 6:42:16 AM. A cursor crosshair is on the picture, with Examine at the top and buttons for pause, rewind, fast forward and zoom.
+cut01_03f|The security camera video player, zoomed in and paused: a closer view of the cell bars from above. Buttons for previous frame, next frame and zoom out.
+cut01_040|The security camera video player, paused, showing the cell bars and corridor from above, time stamp 6:42:16 AM. Buttons for play, previous frame, next frame and zoom in.
+cut02_001|A dramatic stage picture: a man in a waiter's tuxedo with a big afro serves a cake with a flourish, while a girl in a green dress falls backwards in front of him.
+cut02_003|A fan-shaped floor plan: the Fountain Hall in the middle with the Elevator above. Around it: Tangaroa's Room, Gusto's Room, Scone's Room and Frost's Room. At the bottom: the Security Room, the Entrance, Reception, and the Garden below.
+cut02_004|The same fan-shaped floor plan with wing names: Spring Wing, Summer Wing, Winter Wing and Autumn Wing around the Fountain Hall, the Elevator at the top, and the Security Room, Entrance, Reception and Garden at the bottom.
+cut02_007|A serving cart holding a glass case with a blue statue lying inside it.
+cut02_009|A photo of the ship sculpture's broken treasure chest, with a long brown rod across it and a white figure crushed inside.
+cut02_00f|A man in a trench coat and hat and a man in a blue uniform stand in a blue-lit room with glowing glass cases, seen from behind.
+cut02_010|Zodiac Hall: Building Map. Hours: 10 AM to 5 PM. A fan-shaped plan with the Fountain Hall in the middle and the elevator, EL, at the top. The four wings around it: Spring Wing at the left, Summer Wing at the upper left, Winter Wing at the upper right, and Autumn Wing at the right. At the bottom: the Security Room, the Entrance, Reception and the Garden.
+cut02_011|A chart of the zodiac rooms, with a note that each room is kept at a specific temperature to reflect the season it represents. Summer, 78 degrees F: Sagittarius, Scorpio, Libra. Autumn, 64 degrees F: Capricorn, Aquarius, Pisces, Aries. Spring, 53 degrees F: Virgo, Leo, Cancer. Winter, 27 degrees F: Taurus, Gemini.
+cut02_012|By the fountain: a young man in a pink monkey sweater sits on the floor clutching a picture book, beside a white-haired man lying on the red carpet.
+cut02_013|The mermaid statue in its glass case, the lid knocked askew. A glowing lamp is on the table behind.
+cut02_014|A green night-vision view of the mermaid statue in its glass case, with red lines showing cracks across the glass and statue. A stepladder stands in front.
+cut02_015|A green night-vision view of the mermaid statue in its glass case, with a stepladder in front and the case's lid outlined in yellow.
+cut02_016|A green night-vision view of the display: a yellow outline marks a large shape covering the glass case and the area beside it.
+cut02_019|Looking down at the fountain: a person in white lies face down in the water. A girl with a ponytail, Edgeworth, and a man in a hat lean over the edge to look.
+cut02_01a|The star room with two empty glass cases. Water from a jug on the wall pours down at the right, and puddles spread across the floor.
+cut02_01b|The star room with the two empty glass cases and puddles on the floor. Detective Gumshoe stands in front talking on the phone.
+cut02_01c|A photo of the two glass cases: one with a statue of a woman and a boy with a lyre, the other with a goat statue. Tools lie on the table behind, and a power cord runs between the cases.
+cut02_01d|A photo of the two glass cases standing empty, a tangle of power cords between them, tools on the table behind.
+cut02_01e|A photo of three ice sculptures on a table: a white unicorn labeled Frost, a cake with butterflies labeled Scone, and an orange phoenix labeled Gusto, surrounded by red roses.
+cut02_01f|Black and white picture: a man in a suit and glasses slumps on the floor against a wall by a door.
+cut02_025|A soft watercolor picture: a woman with long hair in a green dress and a woman in a white dress smile beside a big cake, with a little girl in a chef's hat in a cot.
+cut02_028|A serving cart covered with a long white tablecloth that reaches the floor.
+cut02_02a|Black and white picture: a stern chef in a tall hat holds a camera, and a man in a white chef's jacket with long hair stands with arms folded in front.
+cut02_02b|Edgeworth stands stiffly while a grinning man in a hat makes a peace sign and takes a selfie of them both.
+cut02_02c|Two framed photos: an old black and white one of a man in glasses and a woman in a hat, and a colour one of Edgeworth with the grinning man in a hat making a peace sign.
+cut02_02d|A photo outside a school with a Welcome New Students sign under blossom trees: a tall man in a suit, a muscular man in a red fez, and two smiling boys in uniforms.
+cut02_02e|Black and white picture: Edgeworth and an older man with swept-back hair in a dark frilled coat face each other.
+cut02_02f|In a dark office, a man in a grey shirt and tie looks down sadly at the hat in his hands.
+cut02_030|A photo of an orange glowing rock lamp on a stand, splashed with red.
+cut02_031|A dim stage with a huge cake under a sign reading Your 3 DM Cakestravaganza, between red curtains.
+cut02_032|A brightly lit stage with a huge cake under a sign reading Your 3 DM Cakestravaganza, between red curtains.
+cut02_033|A blur of glowing orange and yellow light with bubbles.
+cut02_034|A blur of glowing blue and white light with bubbles.
+cut02_035|A blur of glowing pink and white light with bubbles.
+cut02_036|Black and white picture: an older man with swept-back hair and a frilled cravat stands at the prosecutor's bench, arms folded.
+cut02_037|A TV screen showing a cooking show logo: Samson and Judy's Bake'n'Bop! Your 3 DM Cakestravaganza.
+cut02_038|Black and white picture: a prosecutor in glasses at the bench points and shouts.
+cut02_03a|A dramatic picture of the ship sculpture's broken treasure chest, a long brown rod across it and a figure crushed inside.
+cut02_03c|A TV with a blank, dark screen.
+cut02_03d_001|A small glowing pink dot on a black background.
+cut02_03d_002|A short glowing pink streak curving down on a black background.
+cut02_03d_003|A glowing pink streak curving into a hook on a black background.
+cut02_03d_004|A glowing pink curve like a smile on a black background.
+cut02_03d_005|A longer glowing pink curve on a black background.
+cut02_03d_006|A long glowing pink curve sweeping down from the top left and up to the right on a black background.
+cut02_03e|A photo of the two glass cases with statues. A yellow circle marks the lyre held by the boy in the statue of the woman and boy.
+cut03_000|Looking up at a tall glass skyscraper with a big clock near the top, against a blue sky.
+cut03_001|A ticket: Bigg Building, Viewing Platform, Entry Ticket. 04/04, 07:28 PM. Student, 6 dollars. Use limited to day of purchase. Non-refundable.
+cut03_004|A plan of the rooftop seen from above: the greenhouse at the top, a path down the middle to a round area at the bottom, a tree on the left and a stand on the right.
+cut03_005|Black and white picture of the cotton candy stand in the rain, with a sign saying Thunder Cloud. A figure in red stands behind it.
+cut03_006|A cross-section of the building: the Viewing Platform on the roof with the greenhouse, a tree on the left and a stand on the right.
+cut03_00a|A table titled Keycard Log, April 4. Columns: User ID, Time of Use, User Name. Row one: 32461983, 10:15 PM, no name. Row two: 53792291, 12:52 AM, Ringer, Rosie.
+cut03_014|Black and white picture: four masked judges sit at a long table holding up round paddles, with candles in front of them.
+cut03_015|Black and white picture in the rain: a figure in a uniform with a red sash stands over a red shape lying on the ground under a tree, petals falling.
+cut03_017|Edgeworth, in his office, holds out a notebook. Its cover says Notebook, Promises, Kay.
+cut03_018|In warm golden light, a young girl smiles as she hands over a notebook to someone reaching out.
+cut03_021|Black and white picture at night: a girl with a long ponytail stands by a tree looking toward the Samurai Dogs stand by the lake under a full moon.
+cut03_022|Black and white picture with petals falling: a figure in a red hooded suit lies sprawled on the ground, one hand reaching out, a horned toy nearby.
+cut03_024|A plan of a room seen from above: the Alif Red Statue in the upper middle, the Elevator at the upper right, a round area at the right, and boxes and crates along the walls.
+cut03_026|A table titled Keycard Log, April 4. Columns: User ID, Time of Use, User Name. Row one: 32461983, 10:15 PM, Gavelle, Verity. Row two: 53792291, 12:52 AM, Ringer, Rosie.
+cut03_027|A cross-section of the building: the Viewing Platform on the roof with the greenhouse, a tree and a stand; directly below it, 50th floor, Committee Chamber.
+cut03_028|A cross-section of the building: the Viewing Platform on the roof; below it a Storeroom; and below that, 50th floor, Committee Chamber.
+cut03_02b|A grand courtroom in blue light: a statue of Lady Justice with scales behind the bench, rows of seated figures around it.
+cut03_02c|A lone man in a purple coat stands at a podium in a spotlight, on a round platform with a scales emblem.
+cut03_02d|Tall picture: the clock tower skyscraper at night under a full moon, a glowing strip near the roof and a glowing clock face.
+cut03_02e|At night under a full moon with petals falling: a girl with a ponytail and a key hair ornament looks startled at a hooded figure in a red coat, seen from behind.
+cut03_035|A red-tinted view of a chained wooden crate with its lid askew.
+cut03_036|A red-tinted view of the mask wall with a ladder, a mannequin, and a box of items priced 2,200.
+cut03_037|A red-tinted view of the lift cage with a suitcase beside it.
+cut03_038|A chained wooden crate, its lid pushed askew, against a blue wall.
+cut03_039|The mask wall: masks on a grid, a ladder at the left, a mannequin, and a box of items priced 2,200.
+cut03_03a|The lift cage, its floor lit along the edge, a yellow and green suitcase beside it.
+cut04_000|A man in a fur-collared jacket stands over a bearded man in a purple coat lying in a cracked hole, a wound on his chest.
+cut04_003|A huge horned monster silhouette rises against a red, cloudy sky.
+cut04_004|A movie poster: An Epic Rivalry Is Born! The Legendary Taurusaurus vs. Gourdy. A Global Studios Production. A red horned monster roars beside a serpent-like monster in flames.
+cut04_005|A newspaper page: Hot News! Giant Lifeform Appears In Gourd Lake! A photo shows two people by a lake railing with a long-necked creature in the water behind them.
+cut04_006|Black and white picture: a huge bearded man and a white-haired man in uniform shake hands in front of a podium with a phoenix flag.
+cut04_008|Black and white picture seen through window blinds: a big round eye shape, with a horned toy and a robot toy below.
+cut04_009|A black and white security camera picture, 04/04 11:05 PM: a big bearded man and a woman walk through a doorway past hedges.
+cut04_00c|Black and white picture: a boy with headphones and a backpack stands alone in a dark alley by a wall, a monster's shadow looming.
+cut04_00f|A dark film set at night with a hole in the ground lit by a spotlight, and a cart with a sign at the back.
+cut04_011|A green metal gate with a padlock and a sign saying Garbage Collected Daily 11 AM. A blue box, cardboard boxes, a small box and a white spill are on the ground in front.
+cut04_013|A young man in a red jacket and blue trousers lies on a wooden floor, tied up with rope and gagged, tools and bags around him.
+cut04_014|The shelf of things for sale: a purple cloth for 240, a figure for 8,400, a doll statue for 6,700, a mannequin at the right. Below, a safe stands open with a chessboard inside, a gold lantern, a small bottle, and a pink vase for 400.
+cut04_017|A magazine page: The Hottest New Kid on the Block, Shaun Fenn. It shows a boy in a red jacket with a backpack, and a small movie poster for Taurusaurus vs. Gourdy.
+cut04_018|An empty courtroom bench with a tall red carved chair and a gold pillar.
+cut04_019|An empty courtroom gallery: pillars and a railing, with a red curtain at the right.
+cut04_01a|In a warehouse with shelves marked A-1, a cheerful girl with a ponytail and a smiling man with a bandage on his face hold up phones, and a girl in a red jacket stands between them.
+cut04_01b|A young man in a red jacket and white gloves digs through a big pile of rubbish under a blue sky, things flying everywhere.
+cut04_01d|A dirty, crumpled glove with letters on its fingers.
+cut04_01e|A sunny festival outside a big stadium: food stalls, crowds of people, balloons and banners, and a domed building at the right.
+cut04_020|The back of the big red bull monster costume, its zip open down the middle, showing a dark lining with glittering bits inside.
+cut04_022|Black and white picture: a man lies in a cracked hole in the floor of a dark film set, the bull monster's huge head lying beside him.
+cut04_024|A bouquet of yellow flowers wrapped in white and green paper, tied with a green bow.
+cut04_025|A snowy courtyard in front of a brick building with a clock and a bell tower. Children play in the snow with a dog, building a snowman, near swings and an elephant-shaped slide. Lampposts and railings stand at the front.
+cut04_029|A photo at night: a bearded man in a purple coat stands by a brick gate pillar with his arm out, beside a snowman, while a man in a long coat and hat points a gun at him from the right.
+cut04_02b|A plan seen from above: the Orphanage building at the top, with a path down to the gate at the bottom and diamond-shaped markers on the ground around it.
+cut04_02d|A child's crayon drawing: a bald man in a kimono, a spiky-haired man in a purple suit holding yellow flowers, a black dog, a horned toy, a blue spider-like creature and a pink rabbit, by a clock and a door.
+cut04_02e|Black and white picture: a huge bearded man stands behind a woman in a fur coat and cap, and a man with a scarred face lighting a cigarette.
+cut04_02f|Black and white picture: a woman in a fur coat and officer's cap holding a small dog, and a man with a scarred face lighting a cigarette.
+cut04_030|Black and white picture in the snow: two children sit in the back of a car, one tied up, while a big dog looks in through the window.
+cut04_031|Black and white picture at night: a huge bearded man holding flowers and a horned toy stands with a guide dog and a bald man, by a stone dragon statue on the steps.
+cut04_032|A circus poster: The one! The only! The Berry Big Circus is back! It shows a lion, a ringmaster in purple, an elephant and a tiger leaping through a ring of fire.
+cut04_034|A huge hot-air balloon shaped like a lion's head floats over the city at night.
+cut04_035|A sheet of paper with a hand-drawn chessboard: rooks, pawns, a king and a bishop, with a pawn on g6 circled in red. Notes say: So here's my next move: Pawn to g6! Can anybody else smell checkmate? Can't wait to see your face when you lose! But you were never going to beat me! Not at chess!
+cut04_036|Black and white picture: a bearded man seen from behind points a gun up at the lion-head balloon under a full moon.
+cut04_037|A blurred black and white picture of something falling fast past a building.
+cut04_038|In a circus ring: a man in a pink jacket fights a bald prisoner in stripes marked BOSS for a long pole, while a sad clown watches.
+cut04_039|Edgeworth and a man in a hat and trench coat stand back to back in front of a golden prosecutor's badge and a defense attorney's badge.
+cut04_03a|Bigg Building: Cross-Section. The Viewing Platform on the roof; below it, the Storeroom; below that, 50th floor, Committee Chamber.
+cut04_03b|A plan of a room seen from above: a mezzanine with stairs at the top, round tables, a bull's head shape, and furniture along the walls.
+cut04_03d|A photo of a man in a blue sweater lying face down in the snow between flower beds, blood under his head. A camera lies by his hand, a mobile phone and a small box nearby, and footprints all around.
+cut04_03f|A cracked hole in a concrete floor, with a horn-shaped object at its edge and stairs at the upper left.
+cut04_040|Seen through window blinds in red light: a huge eye shape, with a horned toy and a robot toy below.
+cut04_041|A boy in a red hoodie with horns stands at the foot of steps in front of an entrance with two griffin statues, in blue light.
+cut04_042|The same boy in front of the griffin statues, now lit by a red glow.
+cut04_043|On a dark blue background: a man in a neck brace at the left, and a bald man in prison stripes at the right.
+cut04_044|On a dark blue background: a man in a neck brace holding a calendar, an arrow to a purple shadowy figure holding a laptop, and an arrow to a bald prisoner in stripes holding a sheet of paper.
+cut04_045|A plan seen from above: the front steps at the top, three diamond markers in the courtyard, and the gate at the bottom.
+cut04_046|Bigg Building: Cross-Section. The Viewing Platform on the roof, with the Storeroom below it.
+cut04_04c|An empty courtroom bench with a tall red carved chair and a gold pillar.
+cut04_04d|An empty courtroom gallery: pillars and a railing, with a red curtain at the left.
+cut04_050|A dark picture: a big muscular man seen from behind walks up a staircase.
+cut04_051|Black and white picture: a hooded figure stands beside a headless mannequin by a window with blinds.
