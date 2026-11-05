@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AssemblyName>AAIAccessLoaderFix</AssemblyName>
+    <RootNamespace>AAIAccessLoaderFix</RootNamespace>
+    <LangVersion>latest</LangVersion>
+    <Nullable>disable</Nullable>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="../lib/ml/MelonLoader.dll" Private="false" />
+    <Reference Include="../lib/ml/0Harmony.dll" Private="false" />
+  </ItemGroup>
+</Project>

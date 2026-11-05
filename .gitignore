@@ -1,0 +1,5 @@
+bin/
+obj/
+# Built from the game itself: never commit these.
+lib/
+*.zip
