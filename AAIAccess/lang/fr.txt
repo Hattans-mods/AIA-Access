@@ -1,0 +1,487 @@
+Ace Attorney Investigations: Miles Edgeworth
+Ace Attorney Investigations 2: Prosecutor's Gambit
+Jeu {0}
+Appuyez sur F1 pour l'aide.
+Rien à répéter pour l'instant.
+Rien à signaler ici.
+Aucun message à l'écran.
+Écran enregistré dans le journal.
+Carte enregistrée dans le journal.
+Image enregistrée dans le journal.
+Aucune donnée de carte.
+{0} pour cent
+activé
+désactivé
+Emplacement {0}
+Sauvegarde automatique
+{0}, déjà vu
+déjà vu
+pas encore vu
+Examiner
+Parler
+Parler à {0}
+Examiner {0}
+Présenter une preuve
+Dossier
+Preuves
+Profils
+{0} sur {1}
+Page {0} sur {1}
+Aucun texte connu pour cette page.
+Passez des preuves aux profils avec {0}.
+{0} et {1}
+Faux.
+Jauge de vérité descendue à {0}.
+Jauge de vérité remontée à {0}.
+Jauge de vérité : {0}.
+Pas de jauge de vérité pour le moment.
+Temps perdu
+Temps regagné
+Le temps presse
+{0} pour cent restants
+Presque plus de temps
+{0} pour cent de temps restant
+Jauge de temps affichée
+Temps restant : {0} pour cent
+Garder le silence
+Logique.
+{0} éléments.
+{0} sélectionné.
+Prêt à relier {0} et {1}.
+Retiré.
+{0} toujours sélectionné.
+Choisissez-en un autre.
+Rien de sélectionné.
+sélectionné
+Pas dans la Logique.
+{0} et {1} sélectionnés.
+{0} sélectionné.
+En surbrillance : {0}
+Examen en 3D.
+1 détail.
+{0} détails.
+Aucun détail trouvé.
+Aucun des détails n'est accessible pour le moment.
+Détail {0} sur {1} : il n'apparaît qu'après qu'un élément de la preuve a bougé.
+Examinez d'abord les autres détails.
+Détail {0} sur {1}, introuvable.
+Il sera ignoré désormais.
+Détail {0} sur {1}
+Sur un détail
+Pas sur un détail
+{0} détails
+1 détail
+Déduction.
+Examen.
+L'image a bougé.
+{0} points.
+Impossible de défiler jusque-là.
+Pointez la réponse et appuyez sur Espace.
+Pointez ce qui ne colle pas et appuyez sur T.
+Aucun point ici.
+Point {0} sur {1}
+sur un point déjà vu
+sur un point
+pas sur un point
+Curseur {0}
+gauche
+droite
+centre
+haut
+bas
+milieu
+en haut à gauche
+en haut à droite
+en haut au centre
+en bas à gauche
+en bas à droite
+en bas au centre
+au milieu à gauche
+au milieu à droite
+Examen
+Nouvelle image
+1 point
+{0} points
+Le curseur n'y est pas arrivé.
+Pas de curseur.
+au milieu
+en haut
+en bas
+à gauche
+à droite
+en haut à gauche
+en haut à droite
+en bas à gauche
+en bas à droite
+point {0}
+La preuve a changé.
+1 détail maintenant
+{0} détails maintenant
+Examen en 3D
+Nouvelle preuve
+les touches crochet la tournent vers chaque détail
+{0} : le curseur n'est pas tombé dessus.
+Essayez de la tourner un peu.
+Aucun détail ici.
+Impossible de trouver le détail {0} à l'écran.
+{0} pour cent en largeur
+{0} pour cent en hauteur
+sur le détail {0}
+pas sur un détail
+il faut {0}
+Relevé d'empreintes.
+Le mod n'a pas trouvé l'empreinte.
+{0} endroits à poudrer ; les touches crochet y amènent le curseur.
+Déposez de la poudre deux ou trois fois à chaque endroit, puis soufflez la poudre en trop.
+Empreinte couverte à {0} pour cent
+pas de poudre en trop
+encore un peu de poudre en trop, soufflez encore
+de la poudre en trop autour, soufflez-la
+L'empreinte est couverte.
+Soufflez la poudre en trop.
+Point de dépôt {0} sur {1}
+encore 1 endroit à poudrer
+encore {0} endroits à poudrer
+curseur sur l'empreinte
+curseur près de l'empreinte
+curseur loin de l'empreinte
+Une image sans description pour l'instant
+Pas de description pour cette image.
+Une trace est apparue.
+C'est la dernière.
+Encore 1 à trouver.
+Encore {0} à trouver.
+Vaporisé.
+Rien pour l'instant, vaporisez encore.
+Test au luminol
+Nouvel endroit à tester
+aucune trace ici
+toutes les traces trouvées
+1 trace à trouver
+{0} traces à trouver
+les touches crochet passent de l'une à l'autre, puis vaporisez
+Trace {0} sur {1}
+déjà trouvée
+Vaporisez maintenant.
+Aucune trace ici.
+Toutes les traces trouvées
+{0} traces trouvées sur {1}
+curseur pas sur une trace
+curseur sur la trace {0}
+trouvée
+quelque chose à examiner
+nord
+sud
+est
+ouest
+nord-est
+nord-ouest
+sud-est
+sud-ouest
+milieu de la pièce
+{0}, loin
+juste ici
+quelqu'un
+parler
+examiner
+inaccessible pour le moment
+Rien à examiner ici.
+Suivi désactivé.
+Choisissez d'abord quelque chose avec les touches crochet.
+Suivi de {0}
+Suivi désactivé, nouvelle pièce.
+Suivi désactivé, la cible a disparu.
+Arrêté.
+{0} se trouve dans une partie de la zone inaccessible pour le moment.
+Impossible de trouver un chemin vers {0}.
+En route vers {0}
+Arrivé, mais aucune invite n'est apparue.
+Essayez de vous tourner.
+Bloqué.
+Impossible d'atteindre {0}.
+Vidéo de surveillance.
+Lecture ou pause avec les touches du jeu ; en pause, les touches crochet passent d'un élément à pointer à l'autre.
+F3 pour l'image actuelle.
+En pause à l'image {0}
+1 élément à pointer
+{0} éléments à pointer
+Lecture
+En pause
+Le curseur n'a pas pu l'atteindre.
+Le curseur est dessus.
+Examinez maintenant.
+Mettez d'abord la vidéo en pause.
+Rien à pointer à l'image {0} ici.
+F3 indique où et quand s'arrêter.
+Déplacement
+Élément {0} sur {1}
+l'image entière
+le coin supérieur gauche
+le coin supérieur droit
+le coin inférieur gauche
+le coin inférieur droit
+dans cette vue
+zoom arrière
+zoom sur {0}
+à n'importe quelle image
+images {0} à {1}
+à n'importe quelle image, mettez en pause où vous voulez
+vous êtes au bon endroit, {0}
+rien à pointer dans cette vidéo
+Quelque chose à pointer {0}
+image {0}
+zoomé
+rien à pointer ici
+sortie {0}
+sortie, milieu de la pièce
+{0} à gauche
+{0} à droite
+{0} vers le haut
+{0} vers le bas
+inutilisable pour le moment
+Impossible de trouver un endroit d'où examiner {0}.
+Le jeu ne vous laisse pas utiliser {0} pour le moment.
+Vous y êtes déjà.
+puis {0}
+et ainsi de suite
+Quelque chose d'autre est devant.
+{0} est {1}
+Impossible de passer la sortie.
+Essayez d'appuyer sur Espace ici, ou de marcher avec W A S D.
+{0} jeune
+Edgeworth
+Gumshoe
+Kay
+Franziska
+Lang
+Shih-na
+Badd
+policier
+agent de la police scientifique
+inspecteur
+juge
+commandant
+journaliste
+caméraman
+garde
+Maggey
+Ernest
+Meekins
+Badger bleu
+Badger rose
+garde du corps
+en haut à gauche
+en haut au milieu
+en haut à droite
+en bas à gauche
+en bas au milieu
+en bas à droite
+devant
+tombé
+personne
+lampe {0}
+service à thé
+corps
+ruban de police
+zone {0}
+figurine du Samouraï d'acier
+dossiers
+mur
+corps, partie haute
+mur gauche, près de la veste
+dossiers éparpillés
+dossiers éparpillés, à droite
+porte de votre bureau
+porte du bureau
+votre bureau
+couloir devant votre bureau
+salon de première classe
+salon
+boutique
+soute
+aéroport
+hall
+couloir
+salle d'audience
+entrée du parc
+zone Far West
+scène
+maison hantée
+salle de contrôle
+cachette
+passage souterrain
+appartement, pièce {0}
+Theatrum Neutralis
+scène en plein air
+roseraie
+bureau de l'ambassadeur
+pièce avec la cheminée
+pièce {0}-{1}
+Pas de pièce ici.
+Copiez d'abord un nom court, puis appuyez sur Maj F4.
+Pièce nommée {0}
+touche {0}
+bouton de manette {0}
+Toutes les images sont déjà exportées.
+Export de {0} images.
+Export terminé.
+Touches du mod : F1 aide pour l'écran actuel.
+F2 répète la dernière chose dite.
+F3 donne l'état de l'énigme en cours.
+H indique le niveau de votre jauge de vérité.
+F4 dit le nom de la pièce où vous êtes ; pour renommer une pièce, copiez le nom voulu et appuyez sur Maj F4.
+En marchant, un double bip aigu signale quelque chose à examiner, un double bip grave quelqu'un à qui parler ; un bip simple signifie que vous l'avez déjà vu.
+Touches du jeu, si vous ne les avez pas changées : Espace valide, Z annule ou fait courir, E ouvre le Dossier, Q ouvre la Logique, T appelle votre partenaire ou présente, R ouvre l'historique, G ouvre les options.
+Déplacez-vous et déplacez le curseur avec W, A, S, D.
+Les flèches font tourner les preuves et permettent de regarder autour.
+Ici, vous reliez deux informations trouvées pour arriver à une nouvelle conclusion.
+Parcourez les éléments vers le haut et le bas avec W et S ; chacun est lu avec sa description.
+Appuyez sur Espace pour choisir un élément.
+Choisissez-en deux qui vous semblent liés, puis validez pour les relier.
+Si le lien est juste, Edgeworth arrive à une nouvelle déduction ; sinon, essayez une autre paire.
+Appuyez sur Z pour retirer un élément ou pour quitter la Logique.
+F3 indique les éléments choisis.
+Enquête.
+Déplacez-vous avec W, A, S, D, et maintenez Z pour courir.
+Quand vous êtes près de quelque chose, vous entendez Examiner, ou Parler pour une personne.
+Appuyez sur Espace pour examiner ou parler.
+Déjà vu signifie que vous l'avez déjà regardé.
+Pour trouver les choses, appuyez sur le crochet fermant pour la personne ou la chose suivante dans la pièce, la plus proche d'abord, et sur le crochet ouvrant pour la précédente.
+Chacune est lue avec sa position par rapport à vous.
+Appuyez sur barre oblique inversée pour y aller automatiquement, et encore une fois pour vous arrêter.
+Appuyez sur la touche apostrophe pour la suivre : un son se répète depuis le prochain virage du chemin, à gauche ou à droite dans votre casque, plus aigu quand c'est plus haut dans la pièce, plus grave quand c'est plus bas, plus fort et plus rapide quand vous vous rapprochez.
+Marchez vers le son ; quand vous atteignez un virage, le son passe au suivant.
+Deux notes signifient que vous y êtes.
+Appuyez de nouveau sur apostrophe pour arrêter le suivi.
+Appuyez sur Q pour ouvrir la Logique quand vous avez de nouveaux éléments de Logique, et sur E pour ouvrir le Dossier avec vos preuves et profils.
+Vous regardez une scène de près avec un curseur.
+Certains points de l'image peuvent être examinés.
+Appuyez sur le crochet fermant pour amener le curseur au point suivant, et sur le crochet ouvrant pour le précédent.
+Vous pouvez aussi déplacer le curseur vous-même avec W, A, S, D ; un bip aigu signale un point, un bip plus grave un point déjà vu.
+Appuyez sur Espace pour examiner le point sous le curseur.
+F3 décrit l'image et indique où se trouve le curseur.
+Appuyez sur Z pour quitter.
+Quand Edgeworth remarque une contradiction, pointez le curseur sur ce qui ne colle pas et appuyez sur T pour déduire ; pour montrer qu'une preuve le démontre, ouvrez le Dossier avec E et présentez la preuve.
+Couvrez l'empreinte cachée de poudre, puis soufflez la poudre en trop.
+Les touches crochet placent le curseur sur chaque endroit qui a encore besoin de poudre ; déposez-y de la poudre avec la touche de validation du jeu, en général deux fois, puis soufflez avec la touche de souffle du jeu.
+Après chaque dépôt ou souffle, le mod indique quelle part de l'empreinte est couverte et s'il reste de la poudre en trop.
+L'empreinte apparaît quand elle est assez couverte et qu'il ne reste plus de poudre en trop.
+F3 indique son état actuel.
+Test au luminol.
+Vaporisez du luminol pour révéler des traces cachées.
+Appuyez sur le crochet fermant pour placer le curseur sur la trace suivante, le crochet ouvrant pour la précédente, puis vaporisez avec la touche d'examen du jeu.
+Certaines traces demandent plus d'une vaporisation.
+F3 indique combien sont trouvées et ce qu'il y a sous le curseur.
+Vous tenez une preuve que vous pouvez tourner pour chercher des détails.
+Appuyez sur le crochet fermant pour la tourner vers le détail suivant et y placer le curseur, et sur le crochet ouvrant pour le précédent.
+Un bip signale que le curseur est sur un détail.
+Appuyez sur Espace pour l'examiner.
+Vous pouvez aussi tourner la preuve vous-même avec les flèches, zoomer avec Q et E, et déplacer le curseur avec W, A, S, D.
+F3 indique si le curseur est sur un détail.
+Appuyez sur Z pour la reposer.
+Edgeworth a remarqué une contradiction dans cette scène ; montrez où elle se trouve.
+Appuyez sur le crochet fermant pour le point suivant de l'image et le crochet ouvrant pour le précédent, puis sur Espace pour le désigner.
+Si la contradiction concerne plutôt une preuve, ouvrez le Dossier avec E, choisissez la preuve et présentez-la.
+Une mauvaise réponse fait baisser votre jauge de vérité : réfléchissez à ce qui ne colle pas avant de répondre.
+Dossier.
+Vos preuves et les profils des personnes impliquées.
+Parcourez les entrées avec W, A, S, D ; chacune est lue avec sa description.
+Quand on vous demande de présenter, choisissez la preuve et appuyez sur T pour la présenter.
+Appuyez sur Z pour fermer.
+F3 relit l'entrée en surbrillance.
+Échecs logiques.
+Votre adversaire se retient ; une jauge de temps s'écoule pendant que vous réfléchissez.
+H indique le temps restant, et le mod vous prévient quand il devient court.
+Choisissez quoi demander dans la liste avec W et S ; chaque choix indique sa pièce d'échecs.
+Garder le silence laisse votre adversaire parler.
+# Controller
+le bouton du stick gauche
+le bouton du stick droit
+le bouton de tranche gauche
+le bouton de tranche droit
+la gâchette gauche
+la gâchette droite
+le bouton du bas
+le bouton de droite
+le bouton de gauche
+le bouton du haut
+le bouton Menu
+le bouton Affichage
+Croix
+Rond
+Carré
+Triangle
+Options
+Share
+Create
+Plus
+Moins
+Avec une manette, maintenez {0} et appuyez sur {1} pour l'aide, {2} pour répéter, {3} pour l'état de l'énigme.
+Toujours en le maintenant, appuyez sur {0} pour la jauge de vérité et {1} pour le nom de la pièce.
+Appuyez seul sur {0} pour la personne, la chose ou l'endroit suivant, et sur {1} pour le précédent.
+Maintenez {0} et appuyez sur {1} pour y aller automatiquement et sur {2} pour le suivre avec un son ; recommencez pour arrêter.
+En maintenant {0}, vous pouvez aussi appuyer sur {1} pour le suivant et {2} pour le précédent, ou utiliser la croix : droite suivant, gauche précédent, bas y aller, haut suivre.
+Maintenez {0} et appuyez sur {1} pour connaître le temps restant ; le mod vous prévient aussi quand il devient court.
+Choisissez quoi demander dans la liste avec le stick gauche ou la croix ; chaque choix indique sa pièce d'échecs.
+Parcourez les entrées avec le stick gauche ou la croix ; chacune est lue avec sa description.
+Quand on vous demande de présenter, choisissez la preuve et appuyez sur {0} pour la présenter.
+Appuyez sur {0} pour fermer.
+Maintenez {0} et appuyez sur {1} pour réentendre l'entrée en surbrillance.
+Parcourez les éléments vers le haut et le bas avec le stick gauche ou la croix ; chacun est lu avec sa description.
+Appuyez sur {0} pour choisir un élément.
+Appuyez sur {0} pour retirer un élément ou pour quitter la Logique.
+Maintenez {0} et appuyez sur {1} pour savoir quels éléments sont choisis.
+Appuyez sur {0} pour le point suivant de l'image et {1} pour le précédent, puis sur {2} pour le désigner.
+Si la contradiction concerne plutôt une preuve, appuyez sur {0} pour ouvrir le Dossier, puis choisissez la preuve et présentez-la.
+Maintenez {0} et appuyez sur {1} pour entendre la description de l'image et la position du curseur.
+Appuyez sur {0} pour amener le curseur au point suivant, et sur {1} pour le précédent.
+Vous pouvez aussi déplacer le curseur vous-même avec le stick gauche ou la croix ; un bip aigu signale un point, un bip plus grave un point déjà vu.
+Appuyez sur {0} pour examiner le point sous le curseur.
+Appuyez sur {0} pour quitter.
+Quand Edgeworth remarque une contradiction, pointez le curseur sur ce qui ne colle pas et appuyez sur {0} pour déduire ; pour montrer qu'une preuve le démontre, appuyez sur {1} pour ouvrir le Dossier et présentez la preuve.
+Appuyez sur {0} pour la tourner vers le détail suivant et y placer le curseur, et sur {1} pour le précédent.
+Appuyez sur {0} pour l'examiner.
+Vous pouvez aussi tourner la preuve vous-même avec le stick droit et déplacer le curseur avec le stick gauche ou la croix.
+Maintenez {0} et appuyez sur {1} pour savoir si le curseur est sur un détail.
+Appuyez sur {0} pour la reposer.
+Appuyez sur {0} pour placer le curseur sur la trace suivante et {1} pour la précédente, puis sur {2} pour vaporiser.
+Maintenez {0} et appuyez sur {1} pour savoir combien sont trouvées et ce qu'il y a sous le curseur.
+Appuyez sur {0} ou {1} pour placer le curseur sur chaque endroit qui a encore besoin de poudre, puis sur {2} pour y déposer de la poudre, en général deux fois, et soufflez avec le bouton de souffle du jeu.
+Maintenez {0} et appuyez sur {1} pour connaître son état actuel.
+Déplacez-vous avec le stick gauche ou la croix, et maintenez {0} pour courir.
+Appuyez sur {0} pour examiner ou parler.
+Pour trouver les choses, appuyez sur {0} pour la personne ou la chose suivante dans la pièce, la plus proche d'abord, et sur {1} pour la précédente.
+Maintenez {0} et appuyez sur {1} pour y aller automatiquement, et recommencez pour vous arrêter.
+Maintenez {0} et appuyez sur {1} pour la suivre : un son se répète depuis le prochain virage du chemin, à gauche ou à droite dans votre casque, plus aigu quand c'est plus haut dans la pièce, plus grave quand c'est plus bas, plus fort et plus rapide quand vous vous rapprochez.
+Recommencez pour arrêter le suivi.
+Appuyez sur {0} pour ouvrir la Logique quand vous avez de nouveaux éléments de Logique, et sur {1} pour ouvrir le Dossier avec vos preuves et profils.
+Boutons du jeu, si vous ne les avez pas changés : appuyez sur {0} pour valider, {1} pour annuler ou courir, {2} pour appeler votre partenaire ou présenter, {3} pour l'historique.
+Appuyez sur {0} ou {1} pour ouvrir la Logique, {2} ou {3} pour ouvrir le Dossier.
+Appuyez sur {0} pour les options.
+Déplacez-vous et déplacez le curseur avec le stick gauche ou la croix ; le stick droit fait tourner les preuves et permet de regarder autour.
+Appuyez sur {0} et {1} pour passer des preuves aux profils.
+# Keyboard keys as the player set them
+le crochet fermant
+le crochet ouvrant
+Espace
+Entrée
+flèche haut
+flèche bas
+flèche gauche
+flèche droite
+les flèches
+Déplacez-vous avec {0}, et maintenez {1} pour courir.
+Parcourez les éléments vers le haut et le bas avec {0} et {1} ; chacun est lu avec sa description.
+Vous pouvez aussi déplacer le curseur vous-même avec {0} ; un bip aigu signale un point, un bip plus grave un point déjà vu.
+Vous pouvez aussi tourner la preuve vous-même avec {0}, zoomer avec {1} et {2}, et déplacer le curseur avec {3}.
+Parcourez les entrées avec {0} ; chacune est lue avec sa description.
+Choisissez quoi demander dans la liste avec {0} et {1} ; chaque choix indique sa pièce d'échecs.
+Touches du jeu : {0} valide, {1} annule ou fait courir, {2} appelle votre partenaire ou présente, {3} ouvre l'historique.
+{0} ouvre la Logique, {1} ouvre le Dossier, {2} ouvre les options.
+Déplacez-vous et déplacez le curseur avec {0} ; {1} font tourner les preuves et permettent de regarder autour.
+# Screen announcements for the device in use
+Maintenez {0} et appuyez sur {1} pour l'aide.
+Pointez la réponse et appuyez sur {0}.
+Pointez ce qui ne colle pas et appuyez sur {0}.
+# Update check
+AAI Access {0} est disponible. Lancez l'installateur pour mettre à jour.

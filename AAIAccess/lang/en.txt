@@ -1,0 +1,490 @@
+# English keys for the mod's own words. One key per line; every language file has its translations on the same
+# line numbers. {0}, {1} are filled in by the mod (numbers, names, or other keys, which are translated too).
+# Sentences are looked up whole first; longer speech is split into sentences (". ") and then phrases (", ").
+Ace Attorney Investigations: Miles Edgeworth
+Ace Attorney Investigations 2: Prosecutor's Gambit
+Game {0}
+Press F1 for help.
+Nothing to repeat yet.
+Nothing to report here.
+No message on screen.
+Screen saved to log.
+Map saved to log.
+Picture saved to log.
+No map data.
+{0} percent
+on
+off
+Slot {0}
+Auto save
+{0}, checked
+checked
+not checked
+Examine
+Talk
+Talk to {0}
+Examine {0}
+Present evidence
+Organizer
+Evidence
+Profiles
+{0} of {1}
+Page {0} of {1}
+No text known for this page.
+Switch between evidence and profiles with {0}.
+{0} and {1}
+Wrong.
+Truth gauge down to {0}.
+Truth gauge up to {0}.
+Truth gauge {0}.
+No truth gauge right now.
+Time lost
+Time recovered
+Time running low
+{0} percent left
+Almost out of time
+{0} percent time left
+Time gauge shown
+Time left: {0} percent
+Stay silent
+Logic.
+{0} pieces.
+{0} picked.
+Ready to connect {0} and {1}.
+Removed.
+{0} still picked.
+Pick one more.
+Nothing picked.
+picked
+Not in Logic.
+Picked {0} and {1}.
+Picked {0}.
+Highlighted: {0}
+3D examination.
+1 detail.
+{0} details.
+No details found.
+None of the details can be found right now.
+Detail {0} of {1}: it only shows after something on the evidence moves.
+Examine the other details first.
+Detail {0} of {1}, couldn't find it.
+Skipping it from now on.
+Detail {0} of {1}
+On a detail
+Not on a detail
+{0} details
+1 detail
+Deduction.
+Examination.
+Picture moved.
+{0} spots.
+Couldn't scroll to it.
+Point at the answer and press Space.
+Point at what doesn't fit and press T.
+No spots here.
+Spot {0} of {1}
+on a checked spot
+on a spot
+not on a spot
+Cursor {0}
+left
+right
+center
+top
+bottom
+middle
+top left
+top right
+top center
+bottom left
+bottom right
+bottom center
+middle left
+middle right
+Examining
+New picture
+1 spot
+{0} spots
+The cursor didn't get there.
+No cursor.
+in the middle
+at the top
+at the bottom
+at the left
+at the right
+at the top left
+at the top right
+at the bottom left
+at the bottom right
+spot {0}
+The evidence changed.
+1 detail now
+{0} details now
+Examining in 3D
+New evidence
+bracket keys turn it to each detail
+{0}: the cursor didn't land on it.
+Try turning a little.
+No details here.
+Couldn't find detail {0} on screen.
+{0} percent across
+{0} percent down
+on detail {0}
+not on a detail
+need {0}
+Fingerprint dusting.
+The mod couldn't find the print.
+{0} places to powder; bracket keys move the cursor to each.
+Drop powder a couple of times at each, then blow the loose powder away.
+Print {0} percent covered
+no loose powder
+a little loose powder left, blow again
+loose powder around it, blow it away
+The print is covered.
+Blow away any loose powder.
+Drop point {0} of {1}
+1 place still to powder
+{0} places still to powder
+cursor on the print
+cursor near the print
+cursor away from the print
+A picture with no description yet
+No description for this picture.
+A trace showed up.
+That's all of them.
+1 more to find.
+{0} more to find.
+Sprayed.
+Nothing yet, spray again.
+Luminol test
+New spot to test
+no traces here
+all traces found
+1 trace to find
+{0} traces to find
+bracket keys move to each one, then spray
+Trace {0} of {1}
+already found
+Spray now.
+No traces here.
+All traces found
+{0} of {1} traces found
+cursor not on a trace
+cursor on trace {0}
+found
+something to examine
+north
+south
+east
+west
+north-east
+north-west
+south-east
+south-west
+middle of the room
+{0}, far
+right here
+someone
+talk
+examine
+closed off for now
+Nothing to examine here.
+Tracking off.
+Choose something first with the bracket keys.
+Tracking {0}
+Tracking off, new room.
+Tracking off, it's gone.
+Stopped.
+{0} is in a part of the area that is closed off for now.
+Can't find a way to {0}.
+Walking to {0}
+Here, but no prompt came up.
+Try turning.
+Stuck.
+Couldn't get to {0}.
+Security video.
+Play or pause with the game's keys; while paused, the bracket keys move to each thing you can point at.
+F3 for the frame.
+Paused at frame {0}
+1 thing to point at
+{0} things to point at
+Playing
+Paused
+The cursor couldn't reach it.
+On it.
+Examine now.
+Pause the video first.
+Nothing to point at in frame {0} here.
+F3 says where and when to stop.
+Moving to it
+Thing {0} of {1}
+the whole picture
+the upper left
+the upper right
+the lower left
+the lower right
+in this view
+zoomed out
+zoomed in on {0}
+at any frame
+frames {0} to {1}
+at any frame, pause anywhere
+you're in the right place, {0}
+nothing to point at in this video
+Something to point at {0}
+frame {0}
+zoomed in
+nothing to point at here
+exit {0}
+exit, middle of the room
+{0} left
+{0} right
+{0} up
+{0} down
+can't be used right now
+Couldn't find a spot where {0} can be examined.
+The game isn't letting you use {0} right now.
+You're already there.
+then {0}
+and on
+Something else is in front of it.
+{0} is {1}
+Couldn't get through the exit.
+Try pressing Space here, or walking with W A S D.
+young {0}
+Edgeworth
+Gumshoe
+Kay
+Franziska
+Lang
+Shih-na
+Badd
+police officer
+forensics officer
+detective
+judge
+captain
+reporter
+cameraman
+guard
+Maggey
+Ernest
+Meekins
+Blue Badger
+Pink Badger
+bodyguard
+upper left
+upper middle
+upper right
+lower left
+lower middle
+lower right
+front
+fallen
+person
+light {0}
+tea set
+body
+keep out tape
+area {0}
+Steel Samurai figure
+files
+wall
+body, upper part
+left wall, by the jacket
+scattered files
+scattered files, right
+door to your office
+office door
+your office
+hallway outside your office
+first class lounge
+lounge
+shop
+cargo hold
+airport
+lobby
+corridor
+courtroom
+park gate
+Wild West area
+stage
+haunted house
+control room
+hideout
+underground passage
+apartment room {0}
+Theatrum Neutralis
+open-air stage
+rose garden
+ambassador's office
+room with the fireplace
+room {0}-{1}
+No room here.
+Copy a short name first, then press Shift F4.
+Room named {0}
+key {0}
+controller button {0}
+All pictures are already exported.
+Exporting {0} pictures.
+Export finished.
+Mod keys: F1 help for the current screen.
+F2 repeats the last thing said.
+F3 gives the status of the current puzzle.
+H tells you how full your truth gauge is.
+F4 says the name of the room you are in; to rename a room, copy the name you want and press Shift F4.
+While walking, a high double beep means something to examine, a low double beep means someone to talk to; a single beep means you checked it already.
+Game keys, if you haven't changed them: Space confirms, Z cancels or runs, E opens the Organizer, Q opens Logic, T calls your partner or presents, R opens the history, G opens the options.
+Move and move the cursor with W, A, S, D.
+The arrow keys rotate evidence and look around.
+Here you combine two pieces of information you have found to reach a new conclusion.
+Move up and down through the pieces with W and S; each one is read with its description.
+Press Space to pick a piece.
+Pick two that you think are related, then confirm to connect them.
+If the connection is right, Edgeworth reaches a new deduction; if not, try a different pair.
+Press Z to take a piece back out or to leave Logic.
+F3 tells you which pieces are picked.
+Investigation.
+Walk around with W, A, S, D, and hold Z to run.
+When you are close to something, you hear Examine, or Talk for a person.
+Press Space to examine it or talk.
+Checked means you have looked at it before.
+To find things, press the right bracket key for the next person or thing in the room, nearest first, and the left bracket key for the previous one.
+Each is read with where it is from you.
+Press backslash to walk there automatically, and backslash again to stop.
+Press the apostrophe key to track it: a sound repeats from the next turn on the way there, left or right in your headphones, higher when it is further up the room, lower when further down, louder and faster as you get closer.
+Walk toward the sound; when you reach a turn, the sound moves to the next one.
+Two notes mean you are there.
+Press apostrophe again to stop tracking.
+Press Q to open Logic when you have new pieces of Logic, and E to open the Organizer with your evidence and profiles.
+You are looking closely at a scene with a cursor.
+Some spots in the picture can be examined.
+Press the right bracket key to jump the cursor to the next spot, and the left bracket key for the previous one.
+You can also move the cursor yourself with W, A, S, D; a high beep means it is on a spot, a lower beep means a spot you already checked.
+Press Space to examine the spot under the cursor.
+F3 describes the picture and tells you where the cursor is.
+Press Z to leave.
+When Edgeworth notices a contradiction, point the cursor at what doesn't fit and press T to deduce; to show that evidence proves it, open the Organizer with E and present the evidence.
+Cover the hidden print with powder, then blow the loose powder away.
+The bracket keys put the cursor on each place that still needs powder; drop powder there with the game's confirm key, usually twice, then blow with the game's blow key.
+After each drop or blow the mod says how much of the print is covered and whether loose powder is left.
+The print shows when enough of it is covered and no loose powder remains.
+F3 says how it looks now.
+Luminol test.
+Spray luminol to find hidden traces.
+Press the right bracket key to put the cursor on the next trace, the left bracket key for the previous one, then spray with the game's examine key.
+Some traces need more than one spray.
+F3 says how many are found and what the cursor is on.
+You are holding a piece of evidence that you can turn around to look for details.
+Press the right bracket key to turn it to the next detail and put the cursor on it, and the left bracket key for the previous one.
+A beep means the cursor is on a detail.
+Press Space to examine it.
+You can also turn the evidence yourself with the arrow keys, zoom with Q and E, and move the cursor with W, A, S, D.
+F3 tells you whether the cursor is on a detail.
+Press Z to put it down.
+Edgeworth has noticed a contradiction in this scene; show where it is.
+Press the right bracket key for the next spot in the picture and the left bracket key for the previous one, then press Space to point it out.
+If the contradiction is about evidence instead, open the Organizer with E, choose the evidence and present it.
+A wrong answer lowers your truth gauge, so think about what doesn't fit before you answer.
+Organizer.
+Your evidence and the profiles of the people involved.
+Move through the entries with W, A, S, D; each is read with its description.
+When you are asked to present, choose the evidence and press T to present it.
+Press Z to close.
+F3 reads the highlighted entry again.
+Logic chess.
+Your opponent is holding back; a time gauge runs down while you think.
+H tells you how much time is left, and the mod warns you as it runs low.
+Choose what to ask from the list with W and S; each choice names its chess piece.
+Stay silent lets your opponent speak instead.
+# Controller
+the left stick button
+the right stick button
+the left shoulder button
+the right shoulder button
+the left trigger
+the right trigger
+the bottom button
+the right button
+the left button
+the top button
+the Menu button
+the View button
+Cross
+Circle
+Square
+Triangle
+Options
+Share
+Create
+Plus
+Minus
+With a controller, hold {0} and press {1} for help, {2} to repeat, {3} for the puzzle status.
+Still holding it, press {0} for the truth gauge and {1} for the room name.
+Press {0} on its own for the next person, thing or spot, and {1} for the previous one.
+Hold {0} and press {1} to walk there by itself and {2} to track it with a sound; do it again to stop.
+While holding {0}, you can also press {1} for the next one and {2} for the previous one, or use the D-pad: right next, left previous, down walk, up track.
+Hold {0} and press {1} to hear how much time is left; the mod also warns you as it runs low.
+Choose what to ask from the list with the left stick or the D-pad; each choice names its chess piece.
+Move through the entries with the left stick or the D-pad; each is read with its description.
+When you are asked to present, choose the evidence and press {0} to present it.
+Press {0} to close.
+Hold {0} and press {1} to hear the highlighted entry again.
+Move up and down through the pieces with the left stick or the D-pad; each one is read with its description.
+Press {0} to pick a piece.
+Press {0} to take a piece back out or to leave Logic.
+Hold {0} and press {1} to hear which pieces are picked.
+Press {0} for the next spot in the picture and {1} for the previous one, then press {2} to point it out.
+If the contradiction is about evidence instead, press {0} to open the Organizer, then choose the evidence and present it.
+Hold {0} and press {1} to hear the picture described and where the cursor is.
+Press {0} to jump the cursor to the next spot, and {1} for the previous one.
+You can also move the cursor yourself with the left stick or the D-pad; a high beep means it is on a spot, a lower beep means a spot you already checked.
+Press {0} to examine the spot under the cursor.
+Press {0} to leave.
+When Edgeworth notices a contradiction, point the cursor at what doesn't fit and press {0} to deduce; to show that evidence proves it, press {1} to open the Organizer and present the evidence.
+Press {0} to turn it to the next detail and put the cursor on it, and {1} for the previous one.
+Press {0} to examine it.
+You can also turn the evidence yourself with the right stick and move the cursor with the left stick or the D-pad.
+Hold {0} and press {1} to hear whether the cursor is on a detail.
+Press {0} to put it down.
+Press {0} to put the cursor on the next trace and {1} for the previous one, then press {2} to spray.
+Hold {0} and press {1} to hear how many are found and what the cursor is on.
+Press {0} or {1} to put the cursor on each place that still needs powder, then press {2} to drop powder there, usually twice, and blow with the game's blow button.
+Hold {0} and press {1} to hear how it looks now.
+Walk around with the left stick or the D-pad, and hold {0} to run.
+Press {0} to examine it or talk.
+To find things, press {0} for the next person or thing in the room, nearest first, and {1} for the previous one.
+Hold {0} and press {1} to walk there automatically, and do it again to stop.
+Hold {0} and press {1} to track it: a sound repeats from the next turn on the way there, left or right in your headphones, higher when it is further up the room, lower when further down, louder and faster as you get closer.
+Do it again to stop tracking.
+Press {0} to open Logic when you have new pieces of Logic, and {1} to open the Organizer with your evidence and profiles.
+Game buttons, if you haven't changed them: press {0} to confirm, {1} to cancel or run, {2} to call your partner or present, {3} for the history.
+Press {0} or {1} to open Logic, {2} or {3} to open the Organizer.
+Press {0} for the options.
+Move and move the cursor with the left stick or the D-pad; the right stick turns evidence and looks around.
+Press {0} and {1} to switch between evidence and profiles.
+# Keyboard keys as the player set them
+the right bracket key
+the left bracket key
+Space
+Enter
+Up arrow
+Down arrow
+Left arrow
+Right arrow
+the arrow keys
+Walk around with {0}, and hold {1} to run.
+Move up and down through the pieces with {0} and {1}; each one is read with its description.
+You can also move the cursor yourself with {0}; a high beep means it is on a spot, a lower beep means a spot you already checked.
+You can also turn the evidence yourself with {0}, zoom with {1} and {2}, and move the cursor with {3}.
+Move through the entries with {0}; each is read with its description.
+Choose what to ask from the list with {0} and {1}; each choice names its chess piece.
+Game keys: {0} confirms, {1} cancels or runs, {2} calls your partner or presents, {3} opens the history.
+{0} opens Logic, {1} opens the Organizer, {2} opens the options.
+Move and move the cursor with {0}; {1} turn evidence and look around.
+# Screen announcements for the device in use
+Hold {0} and press {1} for help.
+Point at the answer and press {0}.
+Point at what doesn't fit and press {0}.
+# Update check
+AAI Access {0} is available. Run the installer to update.

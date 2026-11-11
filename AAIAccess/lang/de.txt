@@ -1,0 +1,487 @@
+Ace Attorney Investigations: Miles Edgeworth
+Ace Attorney Investigations 2: Prosecutor's Gambit
+Spiel {0}
+Drücke F1 für Hilfe.
+Noch nichts zu wiederholen.
+Hier gibt es nichts zu melden.
+Keine Nachricht auf dem Bildschirm.
+Bildschirm im Protokoll gespeichert.
+Karte im Protokoll gespeichert.
+Bild im Protokoll gespeichert.
+Keine Kartendaten.
+{0} Prozent
+an
+aus
+Speicherplatz {0}
+Automatische Speicherung
+{0}, bereits untersucht
+bereits untersucht
+noch nicht untersucht
+Untersuchen
+Sprechen
+Mit {0} sprechen
+{0} untersuchen
+Beweis vorlegen
+Organizer
+Beweise
+Profile
+{0} von {1}
+Seite {0} von {1}
+Für diese Seite ist kein Text bekannt.
+Wechsle zwischen Beweisen und Profilen mit {0}.
+{0} und {1}
+Falsch.
+Wahrheitsanzeige sinkt auf {0}.
+Wahrheitsanzeige steigt auf {0}.
+Wahrheitsanzeige {0}.
+Gerade keine Wahrheitsanzeige.
+Zeit verloren
+Zeit zurückgewonnen
+Die Zeit wird knapp
+noch {0} Prozent
+Fast keine Zeit mehr
+noch {0} Prozent Zeit
+Zeitanzeige eingeblendet
+Verbleibende Zeit: {0} Prozent
+Schweigen
+Logik.
+{0} Teile.
+{0} ausgewählt.
+Bereit, {0} und {1} zu verbinden.
+Entfernt.
+{0} ist weiter ausgewählt.
+Wähle noch eins.
+Nichts ausgewählt.
+ausgewählt
+Nicht in der Logik.
+{0} und {1} ausgewählt.
+{0} ausgewählt.
+Markiert: {0}
+3D-Untersuchung.
+1 Detail.
+{0} Details.
+Keine Details gefunden.
+Keines der Details ist gerade auffindbar.
+Detail {0} von {1}: Es erscheint erst, wenn sich etwas am Beweisstück bewegt.
+Untersuche zuerst die anderen Details.
+Detail {0} von {1} nicht gefunden.
+Es wird ab jetzt übersprungen.
+Detail {0} von {1}
+Auf einem Detail
+Nicht auf einem Detail
+{0} Details
+1 Detail
+Schlussfolgerung.
+Untersuchung.
+Das Bild hat sich bewegt.
+{0} Stellen.
+Konnte nicht dorthin scrollen.
+Zeige auf die Antwort und drücke die Leertaste.
+Zeige auf das, was nicht passt, und drücke T.
+Hier gibt es keine Stellen.
+Stelle {0} von {1}
+auf einer untersuchten Stelle
+auf einer Stelle
+auf keiner Stelle
+Cursor {0}
+links
+rechts
+Mitte
+oben
+unten
+Mitte
+oben links
+oben rechts
+oben Mitte
+unten links
+unten rechts
+unten Mitte
+Mitte links
+Mitte rechts
+Untersuchung
+Neues Bild
+1 Stelle
+{0} Stellen
+Der Cursor ist nicht dort angekommen.
+Kein Cursor.
+in der Mitte
+oben
+unten
+links
+rechts
+oben links
+oben rechts
+unten links
+unten rechts
+Stelle {0}
+Das Beweisstück hat sich verändert.
+jetzt 1 Detail
+jetzt {0} Details
+3D-Untersuchung
+Neues Beweisstück
+die Klammertasten drehen es zu jedem Detail
+{0}: Der Cursor ist nicht darauf gelandet.
+Versuche, es ein wenig zu drehen.
+Hier gibt es keine Details.
+Detail {0} wurde auf dem Bildschirm nicht gefunden.
+{0} Prozent von links
+{0} Prozent von oben
+auf Detail {0}
+auf keinem Detail
+nötig: {0}
+Fingerabdrücke einstauben.
+Die Mod konnte den Abdruck nicht finden.
+{0} Stellen zum Einstauben; die Klammertasten bringen den Cursor zu jeder.
+Streue an jeder Stelle ein paar Mal Pulver und puste dann das lose Pulver weg.
+Abdruck zu {0} Prozent bedeckt
+kein loses Pulver
+noch etwas loses Pulver, puste noch einmal
+loses Pulver ringsum, puste es weg
+Der Abdruck ist bedeckt.
+Puste das lose Pulver weg.
+Streupunkt {0} von {1}
+noch 1 Stelle zum Einstauben
+noch {0} Stellen zum Einstauben
+Cursor auf dem Abdruck
+Cursor nahe am Abdruck
+Cursor weit weg vom Abdruck
+Ein Bild ohne Beschreibung bisher
+Keine Beschreibung für dieses Bild.
+Eine Spur ist aufgetaucht.
+Das waren alle.
+Noch 1 zu finden.
+Noch {0} zu finden.
+Gesprüht.
+Noch nichts, sprühe noch einmal.
+Luminol-Test
+Neue Stelle zum Testen
+hier keine Spuren
+alle Spuren gefunden
+1 Spur zu finden
+{0} Spuren zu finden
+die Klammertasten gehen von einer zur nächsten, dann sprühen
+Spur {0} von {1}
+schon gefunden
+Jetzt sprühen.
+Hier gibt es keine Spuren.
+Alle Spuren gefunden
+{0} von {1} Spuren gefunden
+Cursor auf keiner Spur
+Cursor auf Spur {0}
+gefunden
+etwas zum Untersuchen
+Norden
+Süden
+Osten
+Westen
+Nordosten
+Nordwesten
+Südosten
+Südwesten
+Mitte des Raums
+{0}, weit weg
+genau hier
+jemand
+sprechen
+untersuchen
+vorerst abgesperrt
+Hier gibt es nichts zu untersuchen.
+Verfolgung aus.
+Wähle zuerst etwas mit den Klammertasten.
+Verfolge {0}
+Verfolgung aus, neuer Raum.
+Verfolgung aus, das Ziel ist weg.
+Angehalten.
+{0} ist in einem Teil des Bereichs, der vorerst abgesperrt ist.
+Kein Weg zu {0} gefunden.
+Gehe zu {0}
+Angekommen, aber es kam keine Aufforderung.
+Versuche, dich zu drehen.
+Festgefahren.
+Konnte {0} nicht erreichen.
+Überwachungsvideo.
+Abspielen oder anhalten mit den Tasten des Spiels; im Pausenzustand bringen die Klammertasten zu allem, worauf du zeigen kannst.
+F3 für das aktuelle Bild.
+Angehalten bei Bild {0}
+1 Sache zum Zeigen
+{0} Sachen zum Zeigen
+Läuft
+Angehalten
+Der Cursor konnte es nicht erreichen.
+Der Cursor ist darauf.
+Jetzt untersuchen.
+Halte das Video zuerst an.
+Bei Bild {0} gibt es hier nichts zum Zeigen.
+F3 sagt, wo und wann du anhalten musst.
+Bewege mich dorthin
+Sache {0} von {1}
+das ganze Bild
+oben links
+oben rechts
+unten links
+unten rechts
+in dieser Ansicht
+herausgezoomt
+herangezoomt auf {0}
+bei jedem Bild
+Bilder {0} bis {1}
+bei jedem Bild, halte an, wo du willst
+du bist an der richtigen Stelle, {0}
+in diesem Video gibt es nichts zum Zeigen
+Etwas zum Zeigen: {0}
+Bild {0}
+herangezoomt
+hier nichts zum Zeigen
+Ausgang {0}
+Ausgang, Mitte des Raums
+{0} nach links
+{0} nach rechts
+{0} nach oben
+{0} nach unten
+gerade nicht benutzbar
+Keine Stelle gefunden, von der aus {0} untersucht werden kann.
+Das Spiel lässt dich {0} gerade nicht benutzen.
+Du bist schon dort.
+dann {0}
+und so weiter
+Etwas anderes steht davor.
+{0} ist {1}
+Konnte nicht durch den Ausgang gehen.
+Versuche hier die Leertaste zu drücken oder mit W A S D zu gehen.
+junger {0}
+Edgeworth
+Gumshoe
+Kay
+Franziska
+Lang
+Shih-na
+Badd
+Polizist
+Spurensicherung
+Detektiv
+Richter
+Kapitän
+Reporter
+Kameramann
+Wache
+Maggey
+Ernest
+Meekins
+Blauer Badger
+Rosa Badger
+Leibwächter
+oben links
+oben Mitte
+oben rechts
+unten links
+unten Mitte
+unten rechts
+vorne
+umgefallen
+Person
+Lampe {0}
+Teeservice
+Leiche
+Absperrband
+Bereich {0}
+Steel-Samurai-Figur
+Akten
+Wand
+Leiche, oberer Teil
+linke Wand, bei der Jacke
+verstreute Akten
+verstreute Akten, rechts
+Tür zu deinem Büro
+Bürotür
+dein Büro
+Flur vor deinem Büro
+Lounge der ersten Klasse
+Lounge
+Laden
+Frachtraum
+Flughafen
+Lobby
+Korridor
+Gerichtssaal
+Parktor
+Wildwest-Bereich
+Bühne
+Geisterhaus
+Kontrollraum
+Versteck
+Unterirdischer Gang
+Wohnung, Zimmer {0}
+Theatrum Neutralis
+Freilichtbühne
+Rosengarten
+Büro des Botschafters
+Raum mit dem Kamin
+Raum {0}-{1}
+Hier ist kein Raum.
+Kopiere zuerst einen kurzen Namen und drücke dann Umschalt F4.
+Raum benannt: {0}
+Taste {0}
+Controllertaste {0}
+Alle Bilder sind schon exportiert.
+Exportiere {0} Bilder.
+Export abgeschlossen.
+Mod-Tasten: F1 Hilfe zum aktuellen Bildschirm.
+F2 wiederholt das zuletzt Gesagte.
+F3 nennt den Stand des aktuellen Rätsels.
+H sagt, wie voll deine Wahrheitsanzeige ist.
+F4 nennt den Raum, in dem du bist; um einen Raum umzubenennen, kopiere den gewünschten Namen und drücke Umschalt F4.
+Beim Gehen bedeutet ein hoher Doppelpiep etwas zum Untersuchen, ein tiefer Doppelpiep jemanden zum Ansprechen; ein einzelner Piep heißt, dass du es schon untersucht hast.
+Tasten des Spiels, falls du sie nicht geändert hast: Leertaste bestätigt, Z bricht ab oder lässt dich rennen, E öffnet den Organizer, Q öffnet die Logik, T ruft deinen Partner oder legt vor, R öffnet den Verlauf, G öffnet die Optionen.
+Bewege dich und den Cursor mit W, A, S, D.
+Die Pfeiltasten drehen Beweisstücke und lassen dich umsehen.
+Hier verbindest du zwei gefundene Informationen zu einer neuen Schlussfolgerung.
+Gehe mit W und S durch die Teile; jedes wird mit seiner Beschreibung vorgelesen.
+Drücke die Leertaste, um ein Teil auszuwählen.
+Wähle zwei, die zusammenzuhängen scheinen, und bestätige, um sie zu verbinden.
+Ist die Verbindung richtig, kommt Edgeworth zu einer neuen Schlussfolgerung; sonst probiere ein anderes Paar.
+Drücke Z, um ein Teil wieder herauszunehmen oder die Logik zu verlassen.
+F3 sagt, welche Teile ausgewählt sind.
+Ermittlung.
+Gehe mit W, A, S, D und halte Z zum Rennen.
+Wenn du nah an etwas bist, hörst du Untersuchen, oder Sprechen bei einer Person.
+Drücke die Leertaste, um es zu untersuchen oder zu sprechen.
+Bereits untersucht heißt, dass du es dir schon angesehen hast.
+Um Dinge zu finden, drücke die schließende Klammer für die nächste Person oder Sache im Raum, die nächstgelegene zuerst, und die öffnende Klammer für die vorherige.
+Zu jeder wird gesagt, wo sie von dir aus liegt.
+Drücke den Rückstrich, um automatisch hinzugehen, und noch einmal, um anzuhalten.
+Drücke die Apostroph-Taste, um es zu verfolgen: Ein Ton wiederholt sich von der nächsten Abzweigung auf dem Weg, links oder rechts im Kopfhörer, höher, wenn es weiter oben im Raum ist, tiefer, wenn weiter unten, lauter und schneller, je näher du kommst.
+Gehe auf den Ton zu; wenn du eine Abzweigung erreichst, wandert der Ton zur nächsten.
+Zwei Töne bedeuten, dass du da bist.
+Drücke wieder Apostroph, um die Verfolgung zu beenden.
+Drücke Q, um die Logik zu öffnen, wenn du neue Logik-Teile hast, und E, um den Organizer mit deinen Beweisen und Profilen zu öffnen.
+Du betrachtest eine Szene mit einem Cursor aus der Nähe.
+Einige Stellen im Bild lassen sich untersuchen.
+Drücke die schließende Klammer, um den Cursor zur nächsten Stelle zu bringen, und die öffnende Klammer für die vorherige.
+Du kannst den Cursor auch selbst mit W, A, S, D bewegen; ein hoher Piep heißt, er ist auf einer Stelle, ein tieferer Piep eine schon untersuchte Stelle.
+Drücke die Leertaste, um die Stelle unter dem Cursor zu untersuchen.
+F3 beschreibt das Bild und sagt, wo der Cursor ist.
+Drücke Z zum Verlassen.
+Wenn Edgeworth einen Widerspruch bemerkt, zeige mit dem Cursor auf das, was nicht passt, und drücke T zum Folgern; um zu zeigen, dass ein Beweis es belegt, öffne den Organizer mit E und lege den Beweis vor.
+Bedecke den versteckten Abdruck mit Pulver und puste dann das lose Pulver weg.
+Die Klammertasten setzen den Cursor auf jede Stelle, die noch Pulver braucht; streue dort Pulver mit der Bestätigungstaste des Spiels, meist zweimal, und puste dann mit der Pustetaste des Spiels.
+Nach jedem Streuen oder Pusten sagt die Mod, wie viel vom Abdruck bedeckt ist und ob noch loses Pulver übrig ist.
+Der Abdruck erscheint, wenn genug davon bedeckt ist und kein loses Pulver mehr übrig ist.
+F3 sagt, wie es gerade aussieht.
+Luminol-Test.
+Sprühe Luminol, um versteckte Spuren zu finden.
+Drücke die schließende Klammer, um den Cursor auf die nächste Spur zu setzen, die öffnende Klammer für die vorherige, und sprühe dann mit der Untersuchen-Taste des Spiels.
+Manche Spuren brauchen mehr als einen Sprühstoß.
+F3 sagt, wie viele gefunden sind und worauf der Cursor ist.
+Du hältst ein Beweisstück, das du drehen kannst, um nach Details zu suchen.
+Drücke die schließende Klammer, um es zum nächsten Detail zu drehen und den Cursor darauf zu setzen, und die öffnende Klammer für das vorherige.
+Ein Piep heißt, der Cursor ist auf einem Detail.
+Drücke die Leertaste, um es zu untersuchen.
+Du kannst das Beweisstück auch selbst mit den Pfeiltasten drehen, mit Q und E zoomen und den Cursor mit W, A, S, D bewegen.
+F3 sagt, ob der Cursor auf einem Detail ist.
+Drücke Z, um es wegzulegen.
+Edgeworth hat in dieser Szene einen Widerspruch bemerkt; zeige, wo er ist.
+Drücke die schließende Klammer für die nächste Stelle im Bild und die öffnende Klammer für die vorherige, dann die Leertaste, um darauf zu zeigen.
+Geht es beim Widerspruch stattdessen um einen Beweis, öffne den Organizer mit E, wähle den Beweis und lege ihn vor.
+Eine falsche Antwort senkt deine Wahrheitsanzeige, also überlege, was nicht passt, bevor du antwortest.
+Organizer.
+Deine Beweise und die Profile der beteiligten Personen.
+Gehe mit W, A, S, D durch die Einträge; jeder wird mit seiner Beschreibung vorgelesen.
+Wenn du etwas vorlegen sollst, wähle den Beweis und drücke T, um ihn vorzulegen.
+Drücke Z zum Schließen.
+F3 liest den markierten Eintrag noch einmal vor.
+Logik-Schach.
+Dein Gegenüber hält sich zurück; eine Zeitanzeige läuft ab, während du nachdenkst.
+H sagt, wie viel Zeit noch bleibt, und die Mod warnt dich, wenn sie knapp wird.
+Wähle mit W und S aus der Liste, was du fragen willst; jede Wahl nennt ihre Schachfigur.
+Schweigen lässt stattdessen dein Gegenüber sprechen.
+# Controller
+den linken Stick-Knopf
+den rechten Stick-Knopf
+die linke Schultertaste
+die rechte Schultertaste
+den linken Trigger
+den rechten Trigger
+die untere Taste
+die rechte Taste
+die linke Taste
+die obere Taste
+die Menütaste
+die Ansichtstaste
+Kreuz
+Kreis
+Quadrat
+Dreieck
+Options
+Share
+Create
+Plus
+Minus
+Mit einem Controller halte {0} gedrückt und drücke {1} für die Hilfe, {2} zum Wiederholen, {3} für den Stand des Rätsels.
+Halte weiter gedrückt und drücke {0} für die Wahrheitsanzeige und {1} für den Raumnamen.
+Drücke {0} allein für die nächste Person, Sache oder Stelle, und {1} für die vorherige.
+Halte {0} gedrückt und drücke {1}, um automatisch hinzugehen, und {2}, um es mit einem Ton zu verfolgen; noch einmal, um anzuhalten.
+Während du {0} hältst, kannst du auch {1} für das nächste und {2} für das vorherige drücken oder das Steuerkreuz nutzen: rechts nächstes, links vorheriges, unten hingehen, oben verfolgen.
+Halte {0} gedrückt und drücke {1}, um zu hören, wie viel Zeit noch bleibt; die Mod warnt dich auch, wenn sie knapp wird.
+Wähle mit dem linken Stick oder dem Steuerkreuz aus der Liste, was du fragen willst; jede Wahl nennt ihre Schachfigur.
+Gehe mit dem linken Stick oder dem Steuerkreuz durch die Einträge; jeder wird mit seiner Beschreibung vorgelesen.
+Wenn du etwas vorlegen sollst, wähle den Beweis und drücke {0}, um ihn vorzulegen.
+Drücke {0} zum Schließen.
+Halte {0} gedrückt und drücke {1}, um den markierten Eintrag noch einmal zu hören.
+Gehe mit dem linken Stick oder dem Steuerkreuz durch die Teile; jedes wird mit seiner Beschreibung vorgelesen.
+Drücke {0}, um ein Teil auszuwählen.
+Drücke {0}, um ein Teil wieder herauszunehmen oder die Logik zu verlassen.
+Halte {0} gedrückt und drücke {1}, um zu hören, welche Teile ausgewählt sind.
+Drücke {0} für die nächste Stelle im Bild und {1} für die vorherige, dann {2}, um darauf zu zeigen.
+Geht es beim Widerspruch stattdessen um einen Beweis, drücke {0}, um den Organizer zu öffnen, wähle dann den Beweis und lege ihn vor.
+Halte {0} gedrückt und drücke {1}, um die Beschreibung des Bildes und die Position des Cursors zu hören.
+Drücke {0}, um den Cursor zur nächsten Stelle zu bringen, und {1} für die vorherige.
+Du kannst den Cursor auch selbst mit dem linken Stick oder dem Steuerkreuz bewegen; ein hoher Piep heißt, er ist auf einer Stelle, ein tieferer Piep eine schon untersuchte Stelle.
+Drücke {0}, um die Stelle unter dem Cursor zu untersuchen.
+Drücke {0} zum Verlassen.
+Wenn Edgeworth einen Widerspruch bemerkt, zeige mit dem Cursor auf das, was nicht passt, und drücke {0} zum Folgern; um zu zeigen, dass ein Beweis es belegt, drücke {1}, um den Organizer zu öffnen, und lege den Beweis vor.
+Drücke {0}, um es zum nächsten Detail zu drehen und den Cursor darauf zu setzen, und {1} für das vorherige.
+Drücke {0}, um es zu untersuchen.
+Du kannst das Beweisstück auch selbst mit dem rechten Stick drehen und den Cursor mit dem linken Stick oder dem Steuerkreuz bewegen.
+Halte {0} gedrückt und drücke {1}, um zu hören, ob der Cursor auf einem Detail ist.
+Drücke {0}, um es wegzulegen.
+Drücke {0}, um den Cursor auf die nächste Spur zu setzen, und {1} für die vorherige, dann {2} zum Sprühen.
+Halte {0} gedrückt und drücke {1}, um zu hören, wie viele gefunden sind und worauf der Cursor ist.
+Drücke {0} oder {1}, um den Cursor auf jede Stelle zu setzen, die noch Pulver braucht, dann {2}, um dort Pulver zu streuen, meist zweimal, und puste mit der Pustetaste des Spiels.
+Halte {0} gedrückt und drücke {1}, um zu hören, wie es gerade aussieht.
+Gehe mit dem linken Stick oder dem Steuerkreuz und halte {0} zum Rennen.
+Drücke {0}, um es zu untersuchen oder zu sprechen.
+Um Dinge zu finden, drücke {0} für die nächste Person oder Sache im Raum, die nächstgelegene zuerst, und {1} für die vorherige.
+Halte {0} gedrückt und drücke {1}, um automatisch hinzugehen, und noch einmal, um anzuhalten.
+Halte {0} gedrückt und drücke {1}, um es zu verfolgen: Ein Ton wiederholt sich von der nächsten Abzweigung auf dem Weg, links oder rechts im Kopfhörer, höher, wenn es weiter oben im Raum ist, tiefer, wenn weiter unten, lauter und schneller, je näher du kommst.
+Mach es noch einmal, um die Verfolgung zu beenden.
+Drücke {0}, um die Logik zu öffnen, wenn du neue Logik-Teile hast, und {1}, um den Organizer mit deinen Beweisen und Profilen zu öffnen.
+Tasten des Spiels, falls du sie nicht geändert hast: Drücke {0} zum Bestätigen, {1} zum Abbrechen oder Rennen, {2}, um deinen Partner zu rufen oder vorzulegen, {3} für den Verlauf.
+Drücke {0} oder {1}, um die Logik zu öffnen, {2} oder {3}, um den Organizer zu öffnen.
+Drücke {0} für die Optionen.
+Bewege dich und den Cursor mit dem linken Stick oder dem Steuerkreuz; der rechte Stick dreht Beweisstücke und lässt dich umsehen.
+Drücke {0} und {1}, um zwischen Beweisen und Profilen zu wechseln.
+# Keyboard keys as the player set them
+die schließende Klammer
+die öffnende Klammer
+die Leertaste
+die Eingabetaste
+Pfeil hoch
+Pfeil runter
+Pfeil links
+Pfeil rechts
+den Pfeiltasten
+Gehe mit {0} und halte {1} zum Rennen.
+Gehe mit {0} und {1} durch die Teile; jedes wird mit seiner Beschreibung vorgelesen.
+Du kannst den Cursor auch selbst mit {0} bewegen; ein hoher Piep heißt, er ist auf einer Stelle, ein tieferer Piep eine schon untersuchte Stelle.
+Du kannst das Beweisstück auch selbst mit {0} drehen, mit {1} und {2} zoomen und den Cursor mit {3} bewegen.
+Gehe mit {0} durch die Einträge; jeder wird mit seiner Beschreibung vorgelesen.
+Wähle mit {0} und {1} aus der Liste, was du fragen willst; jede Wahl nennt ihre Schachfigur.
+Tasten des Spiels: {0} bestätigt, {1} bricht ab oder lässt dich rennen, {2} ruft deinen Partner oder legt vor, {3} öffnet den Verlauf.
+{0} öffnet die Logik, {1} öffnet den Organizer, {2} öffnet die Optionen.
+Bewege dich und den Cursor mit {0}; mit {1} drehst du Beweisstücke und siehst dich um.
+# Screen announcements for the device in use
+Halte {0} gedrückt und drücke {1} für Hilfe.
+Zeige auf die Antwort und drücke {0}.
+Zeige auf das, was nicht passt, und drücke {0}.
+# Update check
+AAI Access {0} ist verfügbar. Starte das Installationsprogramm, um zu aktualisieren.
