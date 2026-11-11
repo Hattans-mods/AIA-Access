@@ -5,7 +5,7 @@ using System.Reflection;
 using HarmonyLib;
 using MelonLoader;
 
-[assembly: MelonInfo(typeof(AAIAccessLoaderFix.Plugin), "AAI Access Loader Fix", "2.0.0", "AAI Access contributors")]
+[assembly: MelonInfo(typeof(AAIAccessLoaderFix.Plugin), "AAI Access Loader Fix", "2.0.0", "Hattans-mods")]
 
 namespace AAIAccessLoaderFix
 {
