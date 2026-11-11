@@ -1406,7 +1406,7 @@ namespace AAIAccess
                     // A route that only works if the walls aren't real: after it gets stuck twice, give up.
                     if (_plannedNoWalls && _replans >= 1) { StopWalk("Can't find a way to " + t.Name + "."); return; }
                     if (++_replans <= 8 && Plan(x, y)) { _lastProgressAt = now; _bestDist = double.MaxValue; Main.Log.Msg("Nav: stuck, new route"); }
-                    else { StopWalk(ReadSteps ? Menus.Join("Stuck", t.Name + " is " + Where(t, x, y)) : "Stuck."); return; }
+                    else { StopWalk(ReadSteps ? Menus.Join("Stuck", t.Name + ": " + Where(t, x, y)) : "Stuck."); return; }
                 }
                 if (now - _walkStart > 30f) { StopWalk("Stopped."); return; }
 
@@ -1516,8 +1516,21 @@ namespace AAIAccess
         private struct INPUT { [FieldOffset(0)] public uint type; [FieldOffset(8)] public KEYBDINPUT ki; }
         [DllImport("user32.dll", SetLastError = true)] private static extern uint SendInput(uint n, INPUT[] inputs, int size);
 
-        private static readonly ushort[] Vk = { 0x57, 0x41, 0x53, 0x44 };      // W A S D
-        private static readonly ushort[] Scan = { 0x11, 0x1E, 0x1F, 0x20 };
+        // The game's up / left / down / right keys (W A S D unless the player changed them), by scan code.
+        private static readonly Il2CppGK_System.Controller.ButtonType[] Dir =
+        {
+            Il2CppGK_System.Controller.ButtonType.DPAD_Up, Il2CppGK_System.Controller.ButtonType.DPAD_Left,
+            Il2CppGK_System.Controller.ButtonType.DPAD_Down, Il2CppGK_System.Controller.ButtonType.DPAD_Right,
+        };
+        private static readonly int[] DefaultScan = { 0x11, 0x1E, 0x1F, 0x20 };   // W A S D
+        private static readonly int[] _sentScan = new int[4];   // what was pressed, so the same key is let go
+
+        private static INPUT Key(int scan, bool down)
+        {
+            uint flags = down ? 0u : 2u;              // KEYEVENTF_KEYUP
+            if ((scan & 0xFF00) == 0xE000) flags |= 1u;  // KEYEVENTF_EXTENDEDKEY
+            return new INPUT { type = 1, ki = new KEYBDINPUT { wVk = (ushort)KeyMap.VkOfScan(scan), wScan = (ushort)(scan & 0xFF), dwFlags = flags } };
+        }
 
         private static void SetKeys(int keys)
         {
@@ -1527,13 +1540,18 @@ namespace AAIAccess
             {
                 bool want = (keys & (1 << i)) != 0, has = (_keysDown & (1 << i)) != 0;
                 if (want == has) continue;
-                list.Add(new INPUT { type = 1, ki = new KEYBDINPUT { wVk = Vk[i], wScan = Scan[i], dwFlags = want ? 0u : 2u } });
+                if (want)
+                {
+                    int sc = 0; try { sc = KeyMap.Scan(Dir[i]); } catch { }
+                    _sentScan[i] = sc != 0 ? sc : DefaultScan[i];
+                }
+                list.Add(Key(_sentScan[i] != 0 ? _sentScan[i] : DefaultScan[i], want));
             }
             _keysDown = keys;
             if (list.Count > 0) SendInput((uint)list.Count, list.ToArray(), Marshal.SizeOf<INPUT>());
         }
 
-        /// <summary>Hold W/A/S/D for other screens (bits: 1 W, 2 A, 4 S, 8 D; 0 releases).</summary>
+        /// <summary>Hold the up / left / down / right keys for other screens (bits: 1 up, 2 left, 4 down, 8 right; 0 releases).</summary>
         public static void HoldKeys(int keys) => SetKeys(keys);
 
         /// <summary>True while the mod itself is holding walk keys (so prompts aren't held back for it).</summary>

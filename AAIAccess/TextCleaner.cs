@@ -17,9 +17,38 @@ namespace AAIAccess
             if (p.Length == 3 && p[0] == "button" && int.TryParse(p[2], out int n))
             {
                 if (p[1] == "03") return n >= 0 && n < KeyNames.Length ? KeyNames[n] : "key " + n;
-                return "controller button " + n;
+                return PadIcon(n);
             }
             return name.Replace('_', ' ');
+        }
+
+        // Controller icons: N is the game's GamePadIconSpriteID; named as on the connected controller (Pad.Name).
+        private static readonly string[] StickIcons =
+        {
+            "the left stick", "the right stick",
+            "the left stick up", "the left stick down", "the left stick left", "the left stick right",
+            "the right stick up", "the right stick down", "the right stick left", "the right stick right",
+            "the right stick up or down", "the right stick left or right",
+        };
+
+        private static string PadIcon(int n)
+        {
+            try
+            {
+                if (n >= 0 && n <= 3) return Pad.Name((Il2CppGK_System.Controller.ButtonType)n);   // A, B, X, Y
+                switch (n)
+                {
+                    case 4: return Pad.Name(Pad.B.L1);
+                    case 5: return Pad.Name(Pad.B.R1);
+                    case 18: return Pad.Name(Pad.B.L3);
+                    case 19: return Pad.Name(Pad.B.R3);
+                    case 20: return Pad.Name(Pad.B.Start);
+                    case 21: return Pad.Name(Pad.B.Select);
+                }
+                if (n >= 6 && n <= 17) return StickIcons[n - 6];
+            }
+            catch { }
+            return "controller button " + n;
         }
 
         /// <summary>Removes rich-text tags and joins the window's lines into one readable string.</summary>

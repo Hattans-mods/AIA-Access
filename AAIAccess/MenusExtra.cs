@@ -250,21 +250,44 @@ namespace AAIAccess
 
         public static string MessageUnder(UnityEngine.Transform root)
         {
-            string fallback = "";
+            string best = ""; int bestScore = -1;
             foreach (var t in root.GetComponentsInChildren<Il2CppTMPro.TMP_Text>(false))
             {
                 if (!IsDialogText(t) || !t.isActiveAndEnabled) continue;
                 string s = TextCleaner.Clean(t.text);
                 if (s.Length == 0) continue;
-                if (HasLatin(s)) return s;   // some screens keep hidden Japanese copies of messages; ignore those
+                int sc = LangScore(s);   // some screens keep hidden Japanese copies of messages: prefer the player's language
+                if (sc > bestScore) { best = s; bestScore = sc; }
             }
-            return fallback;
+            return best;
         }
 
         internal static bool HasLatin(string s)
         {
             foreach (char c in s) if ((c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z')) return true;
             return false;
+        }
+
+        /// <summary>Which copy of a message to read when a screen holds several: the game keeps hidden Japanese copies
+        /// next to the player's language. Latin text first (English, French, German), then Korean, then Chinese
+        /// (Han characters without kana), then text with kana (the Japanese copies; only chosen when it's all there is).</summary>
+        /// <summary>The language score of the last focused button with letters in it (0 = none yet).</summary>
+        internal static int UiScore;
+
+        /// <summary>Japanese text (with kana) while the game's own buttons are in another language: a hidden copy.</summary>
+        internal static bool IsForeignCopy(string s, int uiScore) => uiScore > 1 && LangScore(s) == 1;
+
+        internal static int LangScore(string s)
+        {
+            bool latin = false, hangul = false, kana = false, han = false;
+            foreach (char c in s)
+            {
+                if ((c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z')) latin = true;
+                else if (c >= 0xAC00 && c <= 0xD7AF) hangul = true;
+                else if (c >= 0x3040 && c <= 0x30FF) kana = true;
+                else if (c >= 0x4E00 && c <= 0x9FFF) han = true;
+            }
+            return latin ? 4 : hangul ? 3 : han && !kana ? 2 : kana ? 1 : 0;
         }
 
         public static void Poll()
@@ -280,15 +303,17 @@ namespace AAIAccess
                         if (IsDialogText(t)) list.Add(t);
                     _texts = list.ToArray();
                 }
-                string cur = "";
+                string cur = ""; int curScore = -1;
                 foreach (var t in _texts)
                 {
                     if (t == null || t.WasCollected || !t.isActiveAndEnabled) continue;
                     string s = TextCleaner.Clean(t.text);
                     if (s.Length == 0) continue;
-                    if (HasLatin(s)) { cur = s; break; }
+                    int sc = LangScore(s);
+                    if (sc > curScore) { cur = s; curScore = sc; }
                 }
 
+                if (!string.IsNullOrEmpty(cur) && IsForeignCopy(cur, UiScore)) cur = "";
                 if (string.IsNullOrEmpty(cur))
                 {
                     // Dialogs flicker while opening; only forget the last message once it has been gone for a second.

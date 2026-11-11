@@ -25,5 +25,13 @@
     <EmbeddedResource Include="pagetext.txt" LogicalName="pagetext.txt" />
     <EmbeddedResource Include="closeups.txt" LogicalName="closeups.txt" />
     <EmbeddedResource Include="gk2names.txt" LogicalName="gk2names.txt" />
+    <!-- Translations: lang/<code>.txt (the mod's words) and lang/<code>/<file> (data files). -->
+    <EmbeddedResource Include="lang/*.txt" LogicalName="lang.%(Filename).txt" />
+    <EmbeddedResource Include="lang/fr/*.txt" LogicalName="lang.fr.%(Filename).txt" />
+    <EmbeddedResource Include="lang/de/*.txt" LogicalName="lang.de.%(Filename).txt" />
+    <EmbeddedResource Include="lang/ko/*.txt" LogicalName="lang.ko.%(Filename).txt" />
+    <EmbeddedResource Include="lang/zht/*.txt" LogicalName="lang.zht.%(Filename).txt" />
+    <EmbeddedResource Include="lang/zhs/*.txt" LogicalName="lang.zhs.%(Filename).txt" />
+    <EmbeddedResource Include="lang/ja/*.txt" LogicalName="lang.ja.%(Filename).txt" />
   </ItemGroup>
 </Project>

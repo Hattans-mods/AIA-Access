@@ -89,7 +89,8 @@ namespace AAIAccess
             try
             {
                 if (Gk2Map.InGame) return;   // second game: its rooms are read elsewhere
-                var g = GK1::Il2Cpp.AppCore.gkj1;
+                GK1::Il2Cpp.GKJ1 g = null;
+                try { g = GK1::Il2Cpp.AppCore.gkj1; } catch { return; }   // not there yet (title screen, loading)
                 if (g == null || !Investigation.PlayerCanWalk) return;
                 uint room = CurrentMap(g);
                 if (room == uint.MaxValue || room == _room) return;

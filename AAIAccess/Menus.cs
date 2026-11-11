@@ -181,6 +181,11 @@ namespace AAIAccess
             _lastButton = b.Pointer; _lastText = text; _lastTime = now;
             // First focus inside a newly shown dialog: read its message before the button.
             string msg = DialogMessage(b);
+            // The episode screen keeps a hidden Japanese copy of its question ("このチャプターから…") even when the
+            // game is in another language: never read Japanese next to a button that isn't in Japanese.
+            int btnScore = DialogWatcher.LangScore(text);
+            if (btnScore > 0) DialogWatcher.UiScore = btnScore;
+            if (!string.IsNullOrEmpty(msg) && DialogWatcher.IsForeignCopy(msg, btnScore)) { Main.Log.Msg("Skipped hidden Japanese copy: " + msg); msg = ""; }
             if (!string.IsNullOrEmpty(msg) && (msg != DialogWatcher.LastMessage || now - DialogWatcher.LastReadAt < 0.5f))
             {
                 // New dialog, or the game moved the cursor straight after opening it: keep the message in front.

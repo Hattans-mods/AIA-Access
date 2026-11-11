@@ -40,14 +40,15 @@ namespace AAIAccess
             return LookupName(id + ":" + key) ?? (id.Length > 5 ? LookupName(id.Substring(0, 5) + ":" + key) : null);
         }
 
+        private static int _namesVer = -1;
         internal static string LookupName(string fullKey)
         {
-            if (_names == null)
+            if (_names == null || _namesVer != Loc.Version)
             {
-                _names = new Dictionary<string, string>();
+                _names = new Dictionary<string, string>(); _namesVer = Loc.Version;
                 try
                 {
-                    using var st = typeof(Gk2Nav).Assembly.GetManifestResourceStream("gk2names.txt");
+                    using var st = Loc.Resource("gk2names.txt");
                     using var rd = new System.IO.StreamReader(st);
                     string line;
                     while ((line = rd.ReadLine()) != null)

@@ -27,9 +27,76 @@ namespace AAIAccess
 
         public static void Play(byte[] wav)
         {
-            if (wav != _lastPositional) { try { LastPromptSoundAt = UnityEngine.Time.unscaledTime; } catch { } }
-            try { PlaySound(wav, IntPtr.Zero, SND_MEMORY | SND_ASYNC | SND_NODEFAULT); }
+            bool positional = wav == _lastPositional;
+            if (!positional) { try { LastPromptSoundAt = UnityEngine.Time.unscaledTime; } catch { } }
+            // Through the game's own audio first: Windows' PlaySound is silent on some PCs.
+            if (PlayUnity(wav, positional)) return;
+            try
+            {
+                if (!positional) Pin(wav);
+                if (!PlaySound(wav, IntPtr.Zero, SND_MEMORY | SND_ASYNC | SND_NODEFAULT) && _failLogged++ < 3)
+                    Main.Log.Warning("Earcon: Windows couldn't play the sound (error " + Marshal.GetLastWin32Error() + ")");
+            }
             catch (Exception e) { Main.Log.Warning("Earcon failed: " + e.Message); }
+        }
+
+        private static int _failLogged;
+        private static readonly System.Collections.Generic.HashSet<byte[]> _pinned = new System.Collections.Generic.HashSet<byte[]>();
+
+        /// <summary>PlaySound keeps reading the buffer after it returns: keep it where it is.</summary>
+        private static void Pin(byte[] wav) { if (_pinned.Add(wav)) GCHandle.Alloc(wav, GCHandleType.Pinned); }
+
+        // ---------- the game's own audio (Unity) ----------
+        private static UnityEngine.GameObject _audioObj;
+        private static UnityEngine.AudioSource _srcPrompt, _srcTrack;
+        private static readonly System.Collections.Generic.Dictionary<byte[], UnityEngine.AudioClip> _clips = new System.Collections.Generic.Dictionary<byte[], UnityEngine.AudioClip>();
+        private static UnityEngine.AudioClip _trackClip;
+        private static bool _unityBroken, _unityLogged;
+
+        private static bool PlayUnity(byte[] wav, bool positional)
+        {
+            if (_unityBroken) return false;
+            try
+            {
+                if (_audioObj == null || _audioObj.WasCollected || _srcPrompt == null || _srcPrompt.WasCollected)
+                {
+                    _audioObj = new UnityEngine.GameObject("AAIAccess_Sounds");
+                    UnityEngine.Object.DontDestroyOnLoad(_audioObj);
+                    _srcPrompt = _audioObj.AddComponent<UnityEngine.AudioSource>();
+                    _srcTrack = _audioObj.AddComponent<UnityEngine.AudioSource>();
+                    foreach (var src in new[] { _srcPrompt, _srcTrack }) { src.playOnAwake = false; src.loop = false; src.volume = 1f; src.priority = 0; }
+                }
+                UnityEngine.AudioClip clip;
+                if (positional)
+                {
+                    if (_trackClip != null && !_trackClip.WasCollected) { _srcTrack.Stop(); UnityEngine.Object.Destroy(_trackClip); }
+                    clip = _trackClip = MakeClip(wav);
+                }
+                else if (!_clips.TryGetValue(wav, out clip) || clip == null || clip.WasCollected) _clips[wav] = clip = MakeClip(wav);
+                var s = positional ? _srcTrack : _srcPrompt;
+                s.clip = clip; s.Play();
+                if (!_unityLogged) { _unityLogged = true; Main.Log.Msg("Earcons: playing through the game's audio"); }
+                return true;
+            }
+            catch (Exception e)
+            {
+                _unityBroken = true;
+                Main.Log.Warning("Earcons: the game's audio didn't work, using Windows sounds instead: " + e.Message);
+                return false;
+            }
+        }
+
+        /// <summary>A Unity clip from one of our 16-bit PCM WAVs (mono or stereo).</summary>
+        private static UnityEngine.AudioClip MakeClip(byte[] wav)
+        {
+            int channels = BitConverter.ToInt16(wav, 22), rate = BitConverter.ToInt32(wav, 24);
+            int dataLen = BitConverter.ToInt32(wav, 40);
+            int n = dataLen / 2;
+            var data = new Il2CppInterop.Runtime.InteropTypes.Arrays.Il2CppStructArray<float>(n);
+            for (int i = 0; i < n; i++) data[i] = BitConverter.ToInt16(wav, 44 + i * 2) / 32768f;
+            var clip = UnityEngine.AudioClip.Create("AAIAccess", n / channels, channels, rate, false);
+            clip.SetData(data, 0);
+            return clip;
         }
 
         private static byte[] _lastPositional;   // kept alive while it plays

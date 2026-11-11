@@ -40,7 +40,7 @@ namespace AAIAccess
                     _open = true;
                     int n = _win.m_LogicWordData?.Count ?? 0;
                     Main.Log.Msg($"Logic opened with {n} pieces");
-                    Speech.Announce($"Logic. {n} pieces. Press F1 for help.");
+                    Speech.Announce($"Logic. {n} pieces. " + Help.Hint());
                 }
 
                 // Picked pieces: the game keeps their IDs (the top panels only preview the highlighted piece).

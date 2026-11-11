@@ -182,7 +182,7 @@ namespace AAIAccess
                     }
                 }
                 if (_outsideAnnounceAt > 0 && (on || !_inferOutside)) _outsideAnnounceAt = -1f;
-                if (_outsideAnnounceAt > 0 && Time.unscaledTime >= _outsideAnnounceAt) { _outsideAnnounceAt = -1f; Speech.Announce("Deduction. Press F1 for help."); }
+                if (_outsideAnnounceAt > 0 && Time.unscaledTime >= _outsideAnnounceAt) { _outsideAnnounceAt = -1f; Speech.Announce("Deduction. " + Help.Hint()); }
                 if (!on || g == null) return;
 
                 bool deduce = DeduceShown(g);
@@ -191,7 +191,7 @@ namespace AAIAccess
                     _deduce = deduce; Main.Log.Msg("Deduce button " + (deduce ? "shown" : "hidden"));
                 }
                 bool inf = InferMode(g);
-                if (inf != _infer) { _infer = inf; Main.Log.Msg("Infer mode now " + inf); if (inf && !_deduce) Speech.Announce("Deduction. Press F1 for help."); }
+                if (inf != _infer) { _infer = inf; Main.Log.Msg("Infer mode now " + inf); if (inf && !_deduce) Speech.Announce("Deduction. " + Help.Hint()); }
                 int hp = Hp(g);
                 if (hp != _hp)
                 {
@@ -211,7 +211,7 @@ namespace AAIAccess
                 _wasOnPoint = onPoint;
 
                 // Space while sitting on the spot we jumped to: remember it as examined.
-                bool space = (GetAsyncKeyState(0x20) & 0x8000) != 0;
+                bool space = KeyMap.Down(Il2CppGK_System.Controller.ButtonType.A) || Pad.ConfirmDown;   // the confirm key (Space) or controller confirm
                 if (space && !_spaceWas && onPoint)
                 {
                     // The spot under the cursor (the game takes the first area in its list that contains it).
@@ -293,10 +293,11 @@ namespace AAIAccess
             try { var live = g.GetInquiryData(); _pointOut = !_infer && live != null && live.inquiry_cnt > 0 && live.read_flg == 0; } catch { }
             _hp = Hp(g);
             Main.Log.Msg($"Close-up mode: infer={_infer} pointOut={_pointOut} hp={_hp}");
-            if (_pointOut) { Speech.Announce($"Deduction. {_spots.Count} spots. Point at the answer and press Space. Press F1 for help."); return; }
+            // Pointing something out uses the deduce key (T / Triangle), not confirm.
+            if (_pointOut) { Speech.Announce($"Deduction. {_spots.Count} spots. " + Pad.F("Point at the answer and press {0}.", Help.DeduceButton()) + " " + Help.Hint()); return; }
             Speech.Announce(_infer
-                ? $"Deduction. {_spots.Count} spots. Point at what doesn't fit and press T. Press F1 for help."
-                : $"Examination. {_spots.Count} spots. Press F1 for help.");
+                ? $"Deduction. {_spots.Count} spots. " + Pad.F("Point at what doesn't fit and press {0}.", Help.DeduceButton()) + " " + Help.Hint()
+                : $"Examination. {_spots.Count} spots. " + Help.Hint());
         }
 
         private static void Build(GK1::Il2Cpp.GKJ1 g)

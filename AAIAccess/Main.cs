@@ -4,13 +4,19 @@ using HarmonyLib;
 using MelonLoader;
 using Il2CppGK_Common.UI.Message;
 
-[assembly: MelonInfo(typeof(AAIAccess.Main), "AAI Access", "0.1.0", "AAI Access contributors")]
+// The version lives in one place (Main.Version); the installer and the update check read the assembly version.
+[assembly: MelonInfo(typeof(AAIAccess.Main), "AAI Access", AAIAccess.Main.Version, "Hattans-mods")]
 [assembly: MelonGame("CAPCOM Co., Ltd", "GK12")]
+[assembly: System.Reflection.AssemblyVersion(AAIAccess.Main.Version)]
+[assembly: System.Reflection.AssemblyFileVersion(AAIAccess.Main.Version)]
 
 namespace AAIAccess
 {
     public class Main : MelonMod
     {
+        /// <summary>The mod's version. Raise it for every release; GitHub release tags are "V" + this.</summary>
+        public const string Version = "1.1.0";
+
         internal static MelonLogger.Instance Log;
 
         public override void OnInitializeMelon()
@@ -59,6 +65,10 @@ namespace AAIAccess
             }
             catch (System.Exception e) { Log.Warning("Off switch: " + e.Message); }
             DetailPatches.Apply(HarmonyInstance);
+            Gk2Ahead.Apply(HarmonyInstance);
+            Pad.SelectScreen = SelectScreen;
+            Pad.Init(HarmonyInstance);
+            UpdateCheck.Start();
         }
 
         // MelonLoader hooks il2cpp_resolve_icall to add missing Unity internal calls. In this game that hook
@@ -146,13 +156,22 @@ namespace AAIAccess
                 return;
             }
             try { Warmup.Poll(); } catch (Exception e) { Log.Warning("Warm-up: " + e.Message); }
-            if (Pressed(0x70)) // F1: help for the current screen
-                Help.Speak();
-            if (Pressed(0x71)) // F2: repeat last spoken line
+            try { UpdateCheck.Poll(); } catch { }
+#if DEVTOOLS
+            KeyMapDump.Poll();   // once, ~10 s after start: the game's button assignments to the log
+#endif
+            Pad.Poll();   // controller: hold the mod button (left stick button) and press another; see Pad.cs
+            if (Pressed(0x70)) // F1: help for the current screen, with the keyboard's mod keys
+                Help.Speak(false);
+            else if (PadChord(Pad.B.Start)) // controller help chord: the same, with the controller's mod keys instead
+                Help.Speak(true);
+            if (Pressed(0x71) || PadChord(Pad.B.South)) // F2: repeat last spoken line
                 Speech.Say(string.IsNullOrEmpty(Speech.LastSpoken) ? "Nothing to repeat yet." : Speech.LastSpoken, true, false);
-            if (Pressed(0x72)) // F3: status of the current puzzle
+            if (Pressed(0x72) || PadChord(Pad.B.East)) // F3: status of the current puzzle
             {
-                if (EvidenceDetail.Active) EvidenceDetail.ReadStatus();
+                if (Examine3D.Active) Examine3D.ReadStatus();          // 3D first: it opens from the Organizer's evidence pages
+                else if (Gk2Examine3D.Active) Gk2Examine3D.ReadStatus();
+                else if (EvidenceDetail.Active) EvidenceDetail.ReadStatus();
                 else if (Organizer.Active) Organizer.ReadStatus();
                 else if (LogicScreen.Active) LogicScreen.ReadStatus();
                 else if (ExamineScreen.Active) ExamineScreen.ReadStatus();
@@ -165,15 +184,16 @@ namespace AAIAccess
                 else if (Examine3D.Active) Examine3D.ReadStatus();
                 else Speech.Say("Nothing to report here.", true, false);
             }
-            if (Pressed(0x48)) { if (!LogicChess.SpeakTime() && !Gk2Gauge.Speak()) Gauge.Speak(); }   // H: truth gauge
+            if (Pressed(0x48) || PadChord(Pad.B.West)) { if (!LogicChess.SpeakTime() && !Gk2Gauge.Speak()) Gauge.Speak(); }   // H: truth gauge
             if (Pressed(0x73))   // F4: room name; Shift+F4: rename the room from the clipboard
             {
                 if ((GetAsyncKeyState(0x10) & 0x8000) != 0) Rooms.RenameFromClipboard(); else Rooms.Speak();
             }
-            if (Pressed(0xDB)) { if (Gk2Video.Active) Gk2Video.Step(-1); else if (Gk2Luminol.Active) Gk2Luminol.Step(-1); else if (Gk2Finger.Active) Gk2Finger.Step(-1); else if (ExamineScreen.Active) ExamineScreen.Step(-1); else if (Gk2Examine.Active) Gk2Examine.Step(-1); else if (Gk2Examine3D.Active) Gk2Examine3D.Step(-1); else if (Examine3D.Active) Examine3D.Step(-1); else if (Gk2Nav.Active) Gk2Nav.Step(-1); else Navigator.Step(-1); }   // [ previous
-            if (Pressed(0xDD)) { if (Gk2Video.Active) Gk2Video.Step(+1); else if (Gk2Luminol.Active) Gk2Luminol.Step(+1); else if (Gk2Finger.Active) Gk2Finger.Step(+1); else if (ExamineScreen.Active) ExamineScreen.Step(+1); else if (Gk2Examine.Active) Gk2Examine.Step(+1); else if (Gk2Examine3D.Active) Gk2Examine3D.Step(+1); else if (Examine3D.Active) Examine3D.Step(+1); else if (Gk2Nav.Active) Gk2Nav.Step(+1); else Navigator.Step(+1); }   // ] next
-            if (Pressed(0xDC) && !ExamineScreen.Active && !Gk2Examine.Active && !Gk2Examine3D.Active && !Gk2Video.Active && !Gk2Luminol.Active && !Gk2Finger.Active) { if (Gk2Nav.Active) Gk2Nav.Walk(); else Navigator.WalkToSelected(); }
-            if (Pressed(0xDE) && !ExamineScreen.Active && !Gk2Examine.Active && !Gk2Examine3D.Active && !Gk2Video.Active && !Gk2Luminol.Active && !Gk2Finger.Active) { if (Gk2Nav.Active) Gk2Nav.Ping(); else Navigator.Ping(); }   // ' sound from where it is   // \ walk to it
+            if (PadChord(Pad.B.North)) Rooms.Speak();
+            if (Pressed(0xDB) | PadChord(Pad.B.L2) | PadChord(Pad.B.Left) | PadSolo(Pad.B.L1)) { if (Gk2Video.Active) Gk2Video.Step(-1); else if (Gk2Luminol.Active) Gk2Luminol.Step(-1); else if (Gk2Finger.Active) Gk2Finger.Step(-1); else if (ExamineScreen.Active) ExamineScreen.Step(-1); else if (Gk2Examine.Active) Gk2Examine.Step(-1); else if (Gk2Examine3D.Active) Gk2Examine3D.Step(-1); else if (Examine3D.Active) Examine3D.Step(-1); else if (Gk2Nav.Active) Gk2Nav.Step(-1); else Navigator.Step(-1); }   // [ previous
+            if (Pressed(0xDD) | PadChord(Pad.B.R2) | PadChord(Pad.B.Right) | PadSolo(Pad.B.R1)) { if (Gk2Video.Active) Gk2Video.Step(+1); else if (Gk2Luminol.Active) Gk2Luminol.Step(+1); else if (Gk2Finger.Active) Gk2Finger.Step(+1); else if (ExamineScreen.Active) ExamineScreen.Step(+1); else if (Gk2Examine.Active) Gk2Examine.Step(+1); else if (Gk2Examine3D.Active) Gk2Examine3D.Step(+1); else if (Examine3D.Active) Examine3D.Step(+1); else if (Gk2Nav.Active) Gk2Nav.Step(+1); else Navigator.Step(+1); }   // ] next
+            if ((Pressed(0xDC) | PadChord(Pad.B.R1) | PadChord(Pad.B.Down)) && !ExamineScreen.Active && !Gk2Examine.Active && !Gk2Examine3D.Active && !Gk2Video.Active && !Gk2Luminol.Active && !Gk2Finger.Active) { if (Gk2Nav.Active) Gk2Nav.Walk(); else Navigator.WalkToSelected(); }
+            if ((Pressed(0xDE) | PadChord(Pad.B.L1) | PadChord(Pad.B.Up)) && !ExamineScreen.Active && !Gk2Examine.Active && !Gk2Examine3D.Active && !Gk2Video.Active && !Gk2Luminol.Active && !Gk2Finger.Active) { if (Gk2Nav.Active) Gk2Nav.Ping(); else Navigator.Ping(); }   // ' sound from where it is   // \ walk to it
 #if DEVTOOLS
             if (Pressed(0x78)) PageExport.Start();   // F9: export evidence page pictures (for development)
             if (Pressed(0x79)) // F10: write map positions to the log (for development)
@@ -255,19 +275,38 @@ namespace AAIAccess
             _keyDown[vk] = down;
             return down && !was && GameFocused();
         }
+
+        /// <summary>True once when this controller button is pressed while the mod button is held.</summary>
+        private static bool PadChord(Pad.B b) => Pad.Chord(b) && GameFocused();
+        private static bool PadSolo(Pad.B b) => Pad.Solo(b) && GameFocused();
+
+        /// <summary>Screens where L1 / R1 alone pick the previous / next thing (what [ and ] step through):
+        /// walking in an investigation, and the examine, 3D, video, luminol and fingerprint screens.</summary>
+        private static bool SelectScreen()
+        {
+            // 3D examination first: it opens from the Organizer (an evidence's Check), with the Organizer still open.
+            if (Examine3D.Active || Gk2Examine3D.Active) return true;
+            if (Organizer.Active || LogicScreen.Active || EvidenceDetail.Active) return false;
+            if (ExamineScreen.Active || Examine3D.Active || Gk2Examine.Active || Gk2Examine3D.Active
+                || Gk2Video.Active || Gk2Luminol.Active || Gk2Finger.Active) return true;
+            return Gk2Map.InGame ? Gk2Nav.Active : Investigation.PlayerCanWalk;
+        }
     }
 
     internal static class Dialogue
     {
         private static string _lastLine = "";
         private static string _pendingLine = "";
+        /// <summary>A whole page read out before the game finished typing it (first game): while the window
+        /// shows the start of it, nothing more is read.</summary>
+        private static string _early = "", _earlyTyped = "", _aheadTried = "";
         private static float _pendingSince, _pendingLastSeen, _emptySince = -1f;
         private static bool _pendingSkipped, _vsSeen;
         private static float _vsLastAt = -10f;
         [DllImport("user32.dll")] private static extern short GetAsyncKeyState(int vKey);
-        /// <summary>The player pressed a key that advances or skips text (Space, Enter, left mouse button).</summary>
+        /// <summary>The player pressed a key that advances or skips text (Space, Enter, left mouse button, controller confirm).</summary>
         private static bool AdvanceKeyDown() =>
-            (GetAsyncKeyState(0x20) & 0x8000) != 0 || (GetAsyncKeyState(0x0D) & 0x8000) != 0 || (GetAsyncKeyState(0x01) & 0x8000) != 0;
+            KeyMap.Down(Il2CppGK_System.Controller.ButtonType.A) || (GetAsyncKeyState(0x0D) & 0x8000) != 0 || (GetAsyncKeyState(0x01) & 0x8000) != 0 || Pad.ConfirmDown;
         /// <summary>Read a line we never got to only if it was on screen just now and the player didn't skip it.</summary>
         private static bool CatchUpOk(float now) => !_pendingSkipped && now - _pendingLastSeen < 0.5f;
         private static float _nextScan;
@@ -281,14 +320,18 @@ namespace AAIAccess
         private static MessageWindowControl[] _controls = new MessageWindowControl[0];
 
         /// <summary>Builds "Name: text" for a window, or "" when it has no text.</summary>
-        private static string LineOf(MessageWindow win)
+        private static string LineOf(MessageWindow win) => LineOf(win, out _, out _);
+
+        private static string LineOf(MessageWindow win, out string text, out string speaker)
         {
-            string text = TextCleaner.Clean(win.Message?.GetMessageText());
+            speaker = "";
+            text = TextCleaner.Clean(win.Message?.GetMessageText());
             if (string.IsNullOrEmpty(text)) return "";
             string name = "";
             try { if (win.CharacterNameRoot != null && win.CharacterNameRoot.activeInHierarchy) name = TextCleaner.Clean(win.CharacterName); } catch { }
             if (!string.IsNullOrEmpty(name) && name != LastSpeaker) { LastSpeaker = name; Navigator.HeardSpeaker(name); Gk2Nav.HeardSpeaker(name); }
             if (!string.IsNullOrEmpty(name)) LastSpeakerAt = UnityEngine.Time.unscaledTime;
+            speaker = name;
             return string.IsNullOrEmpty(name) ? text : name + ": " + text;
         }
 
@@ -331,15 +374,19 @@ namespace AAIAccess
             {
                 var win = FindActiveWindow(out bool waiting, out bool vsArrows);
                 float tnow = UnityEngine.Time.unscaledTime;
-                string line = win == null ? "" : LineOf(win);
+                string text = "", speaker = "";
+                string line = win == null ? "" : LineOf(win, out text, out speaker);
                 // Once the message window has been closed or empty for a moment, the same line may be shown
                 // again (e.g. examining the same thing twice) and must be read again.
                 if (string.IsNullOrEmpty(line))
                 {
                     if (_emptySince < 0) _emptySince = tnow;
-                    else if (tnow - _emptySince > 0.5f && _lastLine.Length > 0 && (_pendingLine == _lastLine || string.IsNullOrEmpty(_pendingLine))) { _lastLine = ""; _pendingLine = ""; }
+                    else if (tnow - _emptySince > 0.5f && _lastLine.Length > 0 && (_pendingLine == _lastLine || string.IsNullOrEmpty(_pendingLine))) { _lastLine = ""; _pendingLine = ""; _early = ""; }
                 }
                 else { _emptySince = -1f; MessageSeenAt = tnow; }
+                // A new page starts with an empty window, or with text that doesn't continue the last.
+                if (_early.Length > 0 && (string.IsNullOrEmpty(text) || !Gk1Ahead.Norm(text).StartsWith(_earlyTyped, StringComparison.Ordinal))) _early = "";
+                if (_early.Length > 0) _earlyTyped = Gk1Ahead.Norm(text);
                 if (win == null) return;
                 if (!string.IsNullOrEmpty(line) && line == _pendingLine) _pendingLastSeen = tnow;
                 if (!string.IsNullOrEmpty(_pendingLine) && _pendingLine != _lastLine && AdvanceKeyDown()) _pendingSkipped = true;
@@ -356,6 +403,26 @@ namespace AAIAccess
                 }
 
                 float now = UnityEngine.Time.unscaledTime;
+                // Read the whole page as soon as it starts, from the game's script (both games).
+                if (_early.Length > 0)
+                {
+                    if (Gk1Ahead.Norm(_early).StartsWith(Gk1Ahead.Norm(text), StringComparison.Ordinal)) { _lastLine = line; _pendingLine = line; _pendingSince = now; _pendingLastSeen = now; return; }
+                    _early = "";
+                }
+                if (text != _aheadTried)
+                {
+                    _aheadTried = text;
+                    string page = Gk2Map.InGame ? Gk2Ahead.Page(text) : Gk1Ahead.Page(text);
+                    if (!string.IsNullOrEmpty(page))
+                    {
+                        string full = string.IsNullOrEmpty(speaker) ? page : speaker + ": " + page;
+                        Main.Log.Msg($"Whole page read early ({text.Length} of {page.Length} letters typed)");
+                        Speech.Say(full);
+                        _early = page; _earlyTyped = Gk1Ahead.Norm(text); _lastLine = line; _pendingLine = line; _pendingSince = now; _pendingLastSeen = now;
+                        LastSpokenAt = now;
+                        return;
+                    }
+                }
                 if (line != _pendingLine)
                 {
                     // A different line replaced one we never read (it advanced on its own): read the old one now.
@@ -381,7 +448,10 @@ namespace AAIAccess
                 // Wait for the typing to settle: the second game shows the arrow during dramatic pauses and while
                 // shouting a line one letter at a time. A line stopped in the middle of a word waits longer.
                 char lastCh = line[line.Length - 1];
-                float settle = char.IsLetterOrDigit(lastCh) ? 1.0f : 0.15f;
+                // Chinese, Japanese and Korean have no spaces between words, so a line can end on any character:
+                // only the Latin alphabet (and digits) can be "in the middle of a word".
+                bool midWord = char.IsLetterOrDigit(lastCh) && lastCh < 0x2E80;
+                float settle = midWord ? 1.0f : 0.15f;
                 if ((waiting && now - _pendingSince > settle) || now - _pendingSince > 1.5f)
                 {
                     // The line was read early and has since grown (the game was still typing it):

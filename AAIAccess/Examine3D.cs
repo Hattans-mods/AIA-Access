@@ -158,7 +158,7 @@ namespace AAIAccess
                 }
             }
             catch (Exception e) { Main.Log.Error("3D table read failed: " + e); }
-            Speech.Announce($"3D examination. {(_spots.Count == 1 ? "1 detail. " : _spots.Count > 1 ? _spots.Count + " details. " : "")}Press F1 for help.");
+            Speech.Announce($"3D examination. {(_spots.Count == 1 ? "1 detail. " : _spots.Count > 1 ? _spots.Count + " details. " : "")}" + Help.Hint());
         }
 
         /// <summary>The game's table of details for the evidence being shown.</summary>

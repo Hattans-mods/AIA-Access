@@ -16,25 +16,26 @@ namespace AAIAccess
         private static Dictionary<string, string> _whole;
         private static Dictionary<string, List<Box>> _boxes;
         private static DateTime _userStamp = DateTime.MinValue;
+        private static int _ver = -1;
         private static string UserFile => System.IO.Path.Combine(MelonLoader.Utils.MelonEnvironment.UserDataDirectory, "AAIAccess_closeups.txt");
 
         private static void Load()
         {
             DateTime stamp = DateTime.MinValue;
             try { if (System.IO.File.Exists(UserFile)) stamp = System.IO.File.GetLastWriteTimeUtc(UserFile); } catch { }
-            if (_whole != null && stamp == _userStamp) return;
-            _userStamp = stamp;
+            if (_whole != null && stamp == _userStamp && _ver == Loc.Version) return;
+            _userStamp = stamp; _ver = Loc.Version;
             _whole = new Dictionary<string, string>(); _boxes = new Dictionary<string, List<Box>>();
             try
             {
                 // The evidence page texts describe some of the same pictures.
-                using var pt = typeof(Closeups).Assembly.GetManifestResourceStream("pagetext.txt");
+                using var pt = Loc.Resource("pagetext.txt");
                 if (pt != null) { using var rd = new System.IO.StreamReader(pt); Parse(rd.ReadToEnd(), false); }
             }
             catch { }
             try
             {
-                using var st = typeof(Closeups).Assembly.GetManifestResourceStream("closeups.txt");
+                using var st = Loc.Resource("closeups.txt");
                 if (st != null) { using var rd = new System.IO.StreamReader(st); Parse(rd.ReadToEnd(), false); }
             }
             catch (Exception e) { Main.Log.Warning("Close-up descriptions: " + e.Message); }

@@ -93,7 +93,7 @@ namespace AAIAccess
                     // Presenting: the question first (read now if it hasn't been yet, and not cut off), then the
                     // screen, then the highlighted evidence.
                     if (present) Dialogue.FlushPending();
-                    Speech.Announce(Menus.Join(present ? "Present evidence" : "Organizer", tab, "Press F1 for help."), !present);
+                    Speech.Announce(Menus.Join(present ? "Present evidence" : "Organizer", tab, Help.Hint()), !present);
                 }
                 if (tab != _lastTab) { _lastTab = tab; _lastEntry = ""; Speech.Announce(tab, true); }
                 if (entry != _lastEntry && !string.IsNullOrEmpty(name))
@@ -123,13 +123,18 @@ namespace AAIAccess
             catch (Exception e) { Main.Log.Error("Organizer poll failed: " + e.Message); _nextScan = Time.unscaledTime + 1f; }
         }
 
-        /// <summary>The keys the game shows for switching tabs (they depend on the key settings).</summary>
-        public static string TabKeys()
+        /// <summary>How to switch tabs, when the Organizer has them. The game's own hint is a button picture (read as
+        /// "controller button 5"), so the mod names the keys itself: Q and E, or the controller's shoulder buttons
+        /// (the game's L1 and R1).</summary>
+        public static string TabKeys(bool pad = false)
         {
             var d = Current();
             if (d == null) return "";
             string l = T(d.Tab_L_KeyGuide), r = T(d.Tab_R_KeyGuide);
-            return l.Length > 0 || r.Length > 0 ? $"Switch between evidence and profiles with {Menus.Join(l, r).Replace(", ", " and ")}. " : "";
+            if (l.Length == 0 && r.Length == 0) return "";
+            return Pad.F("Press {0} and {1} to switch between evidence and profiles.",
+                pad ? Pad.Name(Pad.B.L1) : KeyMap.Name(Il2CppGK_System.Controller.ButtonType.L1),
+                pad ? Pad.Name(Pad.B.R1) : KeyMap.Name(Il2CppGK_System.Controller.ButtonType.R1));
         }
 
         /// <summary>F3: the highlighted entry again.</summary>

@@ -31,14 +31,15 @@ namespace AAIAccess
 
         // The text of each page picture (read from the pictures beforehand), by picture name.
         private static Dictionary<string, string> _texts;
+        private static int _textsVer = -1;
         private static string PageText(int page)
         {
-            if (_texts == null)
+            if (_texts == null || _textsVer != Loc.Version)
             {
-                _texts = new Dictionary<string, string>();
+                _texts = new Dictionary<string, string>(); _textsVer = Loc.Version;
                 try
                 {
-                    using var st = typeof(EvidenceDetail).Assembly.GetManifestResourceStream("pagetext.txt");
+                    using var st = Loc.Resource("pagetext.txt");
                     using var rd = new System.IO.StreamReader(st);
                     string l;
                     while ((l = rd.ReadLine()) != null)

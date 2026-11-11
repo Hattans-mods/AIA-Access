@@ -16,13 +16,19 @@ namespace AAIAccess
         public static string CurrentPrompt => _lastPrompt;
         private static string _pendingPrompt;
 
-        [System.Runtime.InteropServices.DllImport("user32.dll")] private static extern short GetAsyncKeyState(int vKey);
+        private static readonly Il2CppGK_System.Controller.ButtonType[] WalkButtons =
+        {
+            Il2CppGK_System.Controller.ButtonType.DPAD_Up, Il2CppGK_System.Controller.ButtonType.DPAD_Left,
+            Il2CppGK_System.Controller.ButtonType.DPAD_Down, Il2CppGK_System.Controller.ButtonType.DPAD_Right,
+            Il2CppGK_System.Controller.ButtonType.RS_Up, Il2CppGK_System.Controller.ButtonType.RS_Left,
+            Il2CppGK_System.Controller.ButtonType.RS_Down, Il2CppGK_System.Controller.ButtonType.RS_Right,
+        };
         private static bool WalkKeyHeld()
         {
             if (Navigator.HoldingKeys) return false;   // the mod is walking for you: speak right away
-            foreach (int k in new[] { 0x57, 0x41, 0x53, 0x44, 0x25, 0x26, 0x27, 0x28 })   // W A S D and arrows
-                if ((GetAsyncKeyState(k) & 0x8000) != 0) return true;
-            return false;
+            foreach (var b in WalkButtons)   // the game's move keys (W A S D) and look keys (arrows), as the player set them
+                if (KeyMap.Down(b)) return true;
+            return Pad.MoveHeld;   // left stick or D-pad
         }
         private static float _lastSeenButtons = -100f;
 
