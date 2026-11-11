@@ -1,0 +1,1528 @@
+# Close-up picture descriptions. name|whole picture, name@x,y,w,h|what is in that box (picture units: 1920px = 341).
+upcut_00_01|Regale mit Ordnern, beschriftet mit Zahlen und Buchstaben: 1A bis 1H in der oberen Reihe, 2A bis 2H in der Mitte und 3A, 3B, 3C, 0A, 0B, 0C, 0D, 0E in der unteren Reihe. Blutige Handabdrücke sind auf einige Ordner geschmiert. Rechts liegt eine Leiche im Anzug auf dem Boden, und unter den Regalen breitet sich eine Blutlache aus, links mit einem blutigen Handabdruck.
+upcut_00_01@90,15,150,40|die obere Ordnerreihe: 1A bis 1H
+upcut_00_01@95,40,20,25|ein blutiger Handabdruck auf Ordner 1A
+upcut_00_01@180,40,25,25|ein blutiger Handabdruck auf den Ordnern 1F und 1G
+upcut_00_01@90,65,165,35|die mittlere Ordnerreihe: 2A bis 2H
+upcut_00_01@90,100,150,35|die untere Ordnerreihe: 3A, 3B, 3C, 0A, 0B, 0C, 0D, 0E
+upcut_00_01@185,105,55,30|Blut auf den Ordnern 0C, 0D und 0E
+upcut_00_01@200,95,341,97|eine Leiche im Anzug auf dem Boden
+upcut_00_01@90,140,120,40|eine Blutlache auf dem Boden
+upcut_00_01@60,150,35,30|ein blutiger Handabdruck auf dem Boden
+upcut_00_01@0,0,90,140|Ordnerregale links
+upcut_00_01@255,0,86,95|Ordnerregale rechts
+upcut_00_03|Hohes, dunkles Bild: Unten rechts liegt eine Leiche auf dem Boden neben hohen Bücherregalen. Darüber stapeln sich heruntergefallene Bücher auf dem Boden, und neben ihrer Hand liegt ein kleiner, flacher, schwarzer Gegenstand.
+upcut_00_03@130,230,145,154|eine Leiche auf dem Boden
+upcut_00_03@140,330,30,40|eine Hand
+upcut_00_03@80,325,40,40|ein kleiner, flacher, schwarzer Gegenstand auf dem Boden
+upcut_00_03@35,130,160,160|heruntergefallene Bücher, auf dem Boden gestapelt
+upcut_00_03@230,0,111,384|hohe Bücherregale
+upcut_00_03@0,0,40,100|ein dunkler Gegenstand oben links
+upcut_00_08|Ein großes gerahmtes Porträt eines roten Mantels mit Rüschenhalstuch, an eine Wand gelehnt, links mit einem kleinen Loch im Glas. Davor steht ein rosa Sofa, rechts ein Bücherregal.
+upcut_00_08@90,10,95,130|ein gerahmtes Porträt eines roten Mantels mit Rüschenhalstuch
+upcut_00_08@100,85,20,15|ein kleines Loch im Glas
+upcut_00_08@20,130,230,62|ein rosa Sofa
+upcut_00_08@290,45,51,80|ein Bücherregal
+upcut_00_08@295,0,46,40|eine Pflanze
+upcut_00_09|Eine Polizeimarke in einer schwarzen Lederhülle. Polizeibehörde. Name: Buddy Faith. Rang: Detektiv. Nummer 1193964. Ein Foto eines jungen Mannes mit Mütze und seine Unterschrift.
+upcut_00_09@85,10,170,25|Polizeibehörde
+upcut_00_09@85,40,75,95|ein Foto eines jungen Mannes mit Mütze
+upcut_00_09@160,40,95,90|Name: Buddy Faith. Rang: Detektiv.
+upcut_00_09@85,125,50,15|Nummer 1193964
+upcut_00_09@190,110,65,25|eine Unterschrift: Buddy Faith
+upcut_00_09@100,160,170,32|eine Metallmarke
+upcut_00_10|Breites, sehr dunkles Bild: Ein Mann mit kahlgeschorenem Kopf steht im Schatten und richtet mit beiden Händen einen Revolver nach vorn. Rechts im Hintergrund ist eine schwache Gestalt.
+upcut_00_10@140,30,90,162|ein Mann mit kahlgeschorenem Kopf im Schatten
+upcut_00_10@195,115,50,40|ein Revolver in beiden Händen
+upcut_00_10@370,40,59,120|eine schwache Gestalt im Hintergrund
+upcut_00_11|Ordnerregale, umgeordnet: oben 0A, 0B, 0C, 0D, 0E, 1A, 1B, 1C; in der Mitte 1D, 1E, 1F, 1G, 1H, 2A, 2B, 2C; unten 2D, 2E, 2F, 2G, 2H, 3A, 3B, 3C. Unter der oberen Reihe sind blutige Handabdrücke verschmiert. Rechts liegt eine Leiche im Anzug auf dem Boden, und eine Blutlache breitet sich aus.
+upcut_00_11@90,15,150,40|die obere Ordnerreihe: 0A, 0B, 0C, 0D, 0E, 1A, 1B, 1C
+upcut_00_11@135,20,50,30|Blut auf den Ordnern 0C, 0D und 0E
+upcut_00_11@95,40,25,25|ein blutiger Handabdruck
+upcut_00_11@180,40,25,25|ein blutiger Handabdruck
+upcut_00_11@90,65,165,35|die mittlere Ordnerreihe: 1D, 1E, 1F, 1G, 1H, 2A, 2B, 2C
+upcut_00_11@90,100,150,35|die untere Ordnerreihe: 2D, 2E, 2F, 2G, 2H, 3A, 3B, 3C
+upcut_00_11@200,95,341,97|eine Leiche im Anzug auf dem Boden
+upcut_00_11@90,140,120,40|eine Blutlache auf dem Boden
+upcut_00_11@60,150,35,30|ein blutiger Handabdruck auf dem Boden
+upcut_00_12|Die umgeordneten Ordnerregale, davor eine gesichtslose Figur in braunem Anzug, zusammengesunken, als zeige sie, wie die Leiche saß. Die Ordner 0F, 0G, 0I und 0J unten rechts haben rote Spuren, und zwischen 0G und 0I ist eine Lücke.
+upcut_00_12@90,15,150,40|die obere Ordnerreihe: 0A bis 1C
+upcut_00_12@105,70,100,122|eine gesichtslose Figur in braunem Anzug, zusammengesunken
+upcut_00_12@255,100,86,35|die Ordner 0F, 0G, 0I und 0J mit roten Spuren
+upcut_00_12@290,100,20,35|eine Lücke zwischen den Ordnern 0G und 0I
+upcut_00_12@60,150,35,30|ein blutiger Handabdruck auf dem Boden
+upcut_00_12@185,145,35,25|Blut auf dem Boden
+upcut_00_13|Nahaufnahme von Ordnern: die obere Reihe 2B bis 2H und die untere Reihe 3B, 3C, 0A, 0B, 0C, 0D, 0E. Blut ist auf 0C, 0D und 0E verschmiert, und Ordner 0D hat ein kleines dunkles Loch. Rechts liegt eine Hand in einem Anzugärmel.
+upcut_00_13@0,0,260,60|die obere Ordnerreihe: 2B bis 2H
+upcut_00_13@0,75,70,60|die Ordner 3B und 3C
+upcut_00_13@70,75,75,60|die Ordner 0A und 0B
+upcut_00_13@145,75,40,60|Ordner 0C, mit Blut
+upcut_00_13@185,75,40,60|Ordner 0D, mit Blut und einem kleinen dunklen Loch
+upcut_00_13@200,105,15,15|ein kleines dunkles Loch in Ordner 0D
+upcut_00_13@225,75,30,60|Ordner 0E, mit Blut
+upcut_00_13@245,95,96,97|eine Hand in einem Anzugärmel
+upcut_00_13@0,165,240,27|Blut auf dem Boden
+upcut_00_18|Schwarzweißbild: Eine junge Frau in Polizeiuniform mit Brille und Mütze steht an einer Bürotür und hält den Griff. Rechts steht ein Mann mit stacheligem Haar und einer weißen Jacke über der Schulter mit dem Rücken zum Betrachter.
+upcut_00_18@95,40,80,152|eine junge Frau in Polizeiuniform mit Brille und Mütze
+upcut_00_18@150,125,25,20|ihre Hand am Türgriff
+upcut_00_18@90,20,85,172|eine Bürotür
+upcut_00_18@160,0,120,192|ein Mann mit stacheligem Haar und einer weißen Jacke über der Schulter, von hinten gesehen
+upcut_00_19|Schwarzweißbild eines Sicherheitsschalters mit Schiebeglasscheiben. Vorne auf der Theke liegt ein kleiner Schlüssel mit Anhänger. Unter der Theke links Schubladen, ein Werkzeug und ein Erste-Hilfe-Kasten.
+upcut_00_19@75,0,215,115|Schiebeglasscheiben eines Sicherheitsschalters
+upcut_00_19@190,120,50,15|ein kleiner Schlüssel mit Anhänger auf der Theke
+upcut_00_19@55,135,75,57|Schubladen unter der Theke
+upcut_00_19@130,155,50,37|ein Werkzeug
+upcut_00_19@195,170,55,22|ein Erste-Hilfe-Kasten
+upcut_00_20|Schwarzweißbild: Die junge Polizistin mit Brille schnappt nach Luft, die Hand vor dem Mund, neben einer Ansicht des Sicherheitsschalters und der Theke darunter.
+upcut_00_20@25,0,145,192|eine junge Polizistin mit Brille, die nach Luft schnappt
+upcut_00_20@180,0,161,130|der Sicherheitsschalter
+upcut_00_20@130,155,50,37|ein Werkzeug unter der Theke
+upcut_00_20@195,170,55,22|ein Erste-Hilfe-Kasten
+upcut_00_21|Hohes Bild: Ein Mann mit Stirnband und stacheligem Haar, in einem weiß-lila Sporttrikot mit einer Goldmedaille am Band, hält dem Betrachter eine Pistole entgegen. Hinter ihm ein dunkler Raum.
+upcut_00_21@100,0,150,120|sein Gesicht, mit Stirnband und stacheligem Haar
+upcut_00_21@200,220,45,60|eine Goldmedaille am Band
+upcut_00_21@55,100,215,200|ein weiß-lila Sporttrikot
+upcut_00_21@120,255,130,129|eine dem Betrachter entgegengehaltene Pistole
+upcut_00_21@240,40,101,150|etwas, das im dunklen Hintergrund hängt
+upcut_00_22|Eine lange beige gepolsterte Bank mit geknöpften Kissen vor einer lila Wand. Rechts ist etwas aus Metall unter die Bank geschoben.
+upcut_00_22@0,70,270,100|eine lange gepolsterte Bank
+upcut_00_22@195,130,60,30|etwas aus Metall unter der Bank
+upcut_00_23|Eine hölzerne Bürotür mit dem Nummernschild 1202, rechts ein Messingknauf mit Schlüsselloch und oben links ein Scharnier.
+upcut_00_23@155,85,30,15|das Nummernschild: 1202
+upcut_00_23@220,125,15,30|ein Messingknauf mit Schlüsselloch
+upcut_00_23@100,30,10,35|ein Scharnier
+upcut_00_23@90,30,150,162|eine hölzerne Bürotür
+upcut_00_24|Schwarzweißbild des Sicherheitsschalters: Ein junger Mann mit Mütze, Anzug und Krawatte lehnt sich durch die offene Glasscheibe und greift nach einem kleinen Schlüssel auf der Theke.
+upcut_00_24@205,0,90,120|ein junger Mann mit Mütze, Anzug und Krawatte
+upcut_00_24@195,110,50,30|seine Hand greift nach einem kleinen Schlüssel auf der Theke
+upcut_00_24@75,0,130,115|die Schiebeglasscheiben
+upcut_00_24@55,135,75,57|Schubladen unter der Theke
+upcut_00_24@195,170,55,22|ein Erste-Hilfe-Kasten
+upcut_00_25|Schwarzweißbild des Sicherheitsschalters: Eine Hand in einem dunklen Ärmel greift durch die offene Glasscheibe nach einem kleinen Schlüssel auf der Theke.
+upcut_00_25@200,0,95,120|ein Arm in einem dunklen Ärmel
+upcut_00_25@195,110,50,30|eine Hand greift nach einem kleinen Schlüssel auf der Theke
+upcut_00_25@75,0,130,115|die Schiebeglasscheiben
+upcut_00_25@55,135,75,57|Schubladen unter der Theke
+upcut_00_25@195,170,55,22|ein Erste-Hilfe-Kasten
+upcut_00_02@0,0,90,192|Arm und Bein des Opfers
+upcut_00_02@50,130,50,50|die blutige Hand des Opfers auf dem Boden
+upcut_00_02@145,35,30,60|Ordner 0F, mit roten Spuren
+upcut_00_02@170,35,30,60|Ordner 0G, mit roten Spuren
+upcut_00_02@200,35,30,60|eine Lücke, wo ein Ordner fehlt
+upcut_00_02@228,50,30,60|Ordner 0I, mit roten Spuren
+upcut_00_02@255,55,30,60|Ordner 0J, mit roten Spuren
+upcut_00_02@285,60,30,60|Ordner 0K
+upcut_00_02@315,60,26,65|Ordner 0L
+upcut_00_02@70,25,50,60|die Ordner 3B und 3C
+upcut_00_02@145,0,196,30|Ordner im Fach darüber
+upcut_00_04@50,0,140,90|ein Stapel heruntergefallener Akten
+upcut_00_04@125,30,155,160|das Opfer, auf der Seite liegend
+upcut_00_04@195,65,25,30|ein Blutfleck auf seinem Hemd
+upcut_00_04@140,135,30,35|seine blutige rechte Hand
+upcut_00_04@80,125,40,30|ein schwarzer, flacher Gegenstand auf dem Boden
+upcut_00_04@240,0,101,192|das Bücherregal
+upcut_00_07@100,35,135,90|ein kleiner, in die Wand eingelassener Tresor
+upcut_00_07@190,55,25,40|ein Zahlenfeld mit kleinem Display
+upcut_00_07@100,50,35,60|die Scharniere des Tresors
+upcut_00_07@225,55,15,45|der Griff des Tresors
+upcut_00_07@180,70,45,30|Schmierspuren auf der Tür um das Zahlenfeld
+upcut_00_16@90,30,150,230|eine hölzerne Bürotür
+upcut_00_16@150,85,30,15|das Nummernschild: 1203
+upcut_00_16@215,125,15,30|ein Messingknauf mit Schlüsselloch
+upcut_00_16@190,255,25,10|ein kleines Stück weißes Papier, das unter der Tür hervorragt
+upcut_00_16@255,0,86,290|ein Basketballkorb an einer Stange
+upcut_00_16@35,290,40,45|ein Basketball auf dem Teppich
+upcut_00_27@90,30,150,162|eine hölzerne Bürotür
+upcut_00_27@150,85,30,15|das Nummernschild: 1203
+upcut_00_27@215,125,15,30|ein Messingknauf mit Schlüsselloch
+upcut_00_27@255,0,86,192|ein Basketballkorb an einer Stange
+upcut_ov_01|Ein offenes Ringbuch mit handschriftlichen Notizen und Skizzen auf linierten Seiten.
+upcut_ov_03|Das Ringbuch schließt sich, seine Seiten blättern um.
+upcut_ov_05|Ein geschlossenes Notizbuch mit dunkelrotem Ledereinband.
+upcut_01_02|Schwarzweißbild im Flugzeug: Vorne links sitzt eine ältere Frau mit Locken und gestreiftem Hut neben einer großen Vase mit Blattmuster. Im Hintergrund drückt ein Mann mit weißem Haar, von hinten gesehen, einen Knopf neben einer Aufzugstür. An der Wand ein Filmplakat, unten rechts eine Flasche und Gläser auf einem Wagen.
+upcut_01_02@0,0,40,100|ein Flugzeugfenster
+upcut_01_02@20,40,80,152|eine ältere Frau mit Locken und gestreiftem Hut
+upcut_01_02@75,120,105,72|eine große Vase mit Blattmuster
+upcut_01_02@100,5,50,75|ein Filmplakat: License to Love, Laugh, Maim, and Murder
+upcut_01_02@165,5,85,170|ein Mann mit weißem Haar, von hinten gesehen, drückt den Aufzugsknopf
+upcut_01_02@240,25,25,35|ein Tastenfeld neben dem Aufzug
+upcut_01_02@255,105,86,87|ein Wagen mit einer Flasche, Gläsern und einem Teller
+upcut_01_03|Der Aufzug in der Lounge des Flugzeugs. Ein blonder Mann mit Brille sitzt zusammengesunken im offenen Aufzug, Geldscheine und eine kleine gelbe Figur liegen auf dem Boden. Edgeworth steht rechts und schaut auf eine Pfütze dunkelroter Flüssigkeit mit Glasscherben. Vorne links steht eine Flugbegleiterin, links eine grüne Statue.
+upcut_01_03@0,0,60,192|eine grüne Statue auf einem Sockel
+upcut_01_03@15,125,25,30|ein kleines Metallwerkzeug auf dem Boden
+upcut_01_03@35,55,145,137|eine Flugbegleiterin mit gestreiftem Halstuch, von hinten gesehen
+upcut_01_03@115,25,95,85|ein blonder Mann, zusammengesunken im Aufzug
+upcut_01_03@175,85,40,25|eine kleine gelbe Figur auf einem goldenen Block und Geldscheine auf dem Boden
+upcut_01_03@195,5,85,170|Edgeworth, von hinten gesehen
+upcut_01_03@200,95,141,45|eine Pfütze dunkelroter Flüssigkeit mit Glasscherben
+upcut_01_04@0,0,65,192|der Rand der Aufzugstüren und eine grüne Statue
+upcut_01_04@35,35,20,35|das Rufknopffeld des Aufzugs
+upcut_01_04@170,15,90,95|Kopf und Brust des Opfers, mit Brille und gelbem Band
+upcut_01_04@110,90,140,90|die Beine des Opfers
+upcut_01_04@235,125,30,25|die rechte Hand des Opfers auf dem Boden
+upcut_01_04@60,115,135,77|Geldscheine und Münzen, über den Boden verstreut
+upcut_01_04@210,145,55,35|eine kleine gelbe Figur auf einem goldenen Block
+upcut_01_04@195,160,30,25|eine Bank- oder Kreditkarte auf dem Boden
+upcut_01_04@115,155,30,25|eine Karte auf dem Boden
+upcut_01_09@20,0,160,70|der Sockel der grünen Statue
+upcut_01_09@60,70,25,15|eine kleine Glasscherbe
+upcut_01_09@90,55,45,30|eine zerbrochene grüne Flasche
+upcut_01_09@175,30,45,25|ein umgekipptes Weinglas
+upcut_01_09@0,40,200,130|eine große Lache dunkelroter Flüssigkeit
+upcut_01_09@170,60,170,50|kleinere rote Flecken, die nach rechts führen
+upcut_01_09@260,0,81,70|Geländer oben rechts
+upcut_01_14|Eine dunkle Holzvitrine im Laden. Links in den Fächern: Glasfiguren, goldene Statuetten und kleine Figuren in Anzügen. In der Mitte, hinter einer gesprungenen Glastür, oben zwei Halsketten und weiter unten ein paar Bücher. Rechts: gerahmte Bilder, Handtaschen und Bücherreihen.
+upcut_01_14@0,10,90,50|ein gläserner Schwan und eine rosa Korallenfigur
+upcut_01_14@10,65,70,55|zwei goldene Statuetten
+upcut_01_14@0,125,85,45|kleine Figuren von Männern in Anzügen
+upcut_01_14@125,5,55,50|eine Halskette mit Anhängern
+upcut_01_14@170,5,55,50|eine Perlenkette
+upcut_01_14@125,20,105,165|gesprungenes Glas in der Vitrinentür
+upcut_01_14@130,135,100,35|Bücher, die im Fach liegen
+upcut_01_14@225,95,30,70|die Messinggriffe der Vitrine
+upcut_01_14@255,20,80,40|zwei gerahmte Bilder
+upcut_01_14@255,65,86,50|Handtaschen
+upcut_01_14@255,125,86,45|eine Bücherreihe
+upcut_01_14@300,170,41,22|ein kleines rotes Spielzeugauto
+upcut_01_15|Eine Ecke des Ladens. Oben hängt ein großes Plakat mit SALE. Zwei gleiche gelbe GoYou-Koffer mit grünen Punkten und rosa Riemen stehen nebeneinander. Links ein weißer Beistelltisch mit einer Vase, und lila Blumen liegen auf dem Boden. Rechts eine dunkle Vitrine mit Figuren.
+upcut_01_15@0,0,30,30|ein Flugzeugfenster
+upcut_01_15@30,0,70,140|ein weißer Beistelltisch mit einer verzierten Vase
+upcut_01_15@40,145,60,40|lila Blumen auf dem Boden
+upcut_01_15@130,0,80,30|ein Plakat mit SALE
+upcut_01_15@95,35,70,125|der linke gelbe GoYou-Koffer
+upcut_01_15@160,35,70,125|der rechte gelbe GoYou-Koffer
+upcut_01_15@230,0,111,140|eine dunkle Vitrine mit kleinen Figuren
+upcut_01_16|Ein gelber GoYou-Koffer mit Gepäckanhänger hinter zwei roten Feuerlöschern. Links ein Karton und ein Metallrahmen, rechts eine graue Wand und eine Türkante.
+upcut_01_16@0,35,60,157|ein Karton
+upcut_01_16@45,60,30,132|ein Metallrahmen oder Geländer
+upcut_01_16@80,85,100,107|zwei rote Feuerlöscher
+upcut_01_16@125,35,140,157|ein gelber GoYou-Koffer
+upcut_01_16@175,85,35,40|ein Gepäckanhänger mit Strichcode
+upcut_01_16@190,0,151,95|eine graue Wand und eine Tür
+upcut_01_17|Hohes Bild im Frachtraum. Eine riesige Steinstatue eines Gesichts mit leuchtenden Augen steht in einem Glaskasten auf einer Metallpalette. Links hängt ein goldbraunes Tuch, mit einem Seil gebunden, darauf ein schwarzer Buchstabe und das Wort -ress. Rechts sind gelbe GoYou-Koffer gestapelt. Auf dem Boden ist eine orange Markierung gemalt.
+upcut_01_17@0,0,80,330|ein goldbraunes Tuch links, mit aufgedruckter Schrift
+upcut_01_17@30,0,45,360|ein Seil
+upcut_01_17@80,15,185,295|eine Steinstatue eines Gesichts mit leuchtenden Augen, in einem Glaskasten
+upcut_01_17@75,295,190,40|die Metallpalette unter dem Glaskasten
+upcut_01_17@270,190,71,130|gestapelte gelbe GoYou-Koffer
+upcut_01_17@60,325,180,59|eine orange Markierung auf dem Boden
+upcut_01_19|Ein Reisepass. Republik Borginia, Reisepass. Passnummer 122750921K. Typ: P. Name: Hicks. Vornamen: Akbey. Staatsangehörigkeit: Republik Borginia. Geschlecht: M. Eine Unterschrift. Foto eines blonden Mannes mit Brille und roter Krawatte. Unten: Passbehörde der Republik Borginia.
+upcut_01_19@40,15,110,30|der Titel: Republik Borginia, Reisepass
+upcut_01_19@50,50,75,105|das Foto: ein blonder Mann mit Brille
+upcut_01_19@130,40,130,105|die Angaben: Hicks, Akbey, Republik Borginia, Geschlecht M
+upcut_01_19@200,30,141,20|die Passnummer 122750921K
+upcut_01_19@190,125,110,35|eine Unterschrift
+upcut_01_19@20,155,300,30|die maschinenlesbaren Codezeilen und der Name der Passbehörde
+upcut_01_21|Bild in rotem Licht im Frachtraum: links ein drapiertes Tuch mit Seil, oben rechts rote Koffer und in der Mitte ein bläulich leuchtender Fleck auf dem Boden.
+upcut_01_21@0,0,130,160|ein über etwas drapiertes Tuch und ein Seil
+upcut_01_21@110,45,110,80|ein bläulich leuchtender Fleck auf dem Boden
+upcut_01_21@240,0,101,125|Koffer
+upcut_01_21@0,130,190,62|Markierungen auf dem Boden
+upcut_01_24|Eine geschlossene Aufzugstür, von vorne gesehen, umrahmt von roten Vorhängen, die von grünen Statuenhänden gehalten werden. Der Rufknopf ist links.
+upcut_01_24@0,0,60,60|eine grüne Statuenhand, die den roten Vorhang hält, links
+upcut_01_24@280,0,61,60|eine grüne Statuenhand, die den roten Vorhang hält, rechts
+upcut_01_24@40,110,25,50|der Rufknopf des Aufzugs
+upcut_01_24@75,30,195,162|die geschlossenen Aufzugstüren
+upcut_01_25|Dieselbe Aufzugstür, die sich gerade öffnet, helles Licht fällt durch den Spalt in der Mitte.
+upcut_01_25@0,0,60,60|eine grüne Statuenhand, die den roten Vorhang hält, links
+upcut_01_25@280,0,61,60|eine grüne Statuenhand, die den roten Vorhang hält, rechts
+upcut_01_25@40,110,25,50|der Rufknopf des Aufzugs
+upcut_01_25@150,20,40,172|Licht durch den Spalt zwischen den Türen
+upcut_01_25@75,30,195,162|die Aufzugstüren
+upcut_01_26|Derselbe Aufzug, die Türen halb offen, innen helles weißes Licht.
+upcut_01_26@0,0,60,60|eine grüne Statuenhand, die den roten Vorhang hält, links
+upcut_01_26@280,0,61,60|eine grüne Statuenhand, die den roten Vorhang hält, rechts
+upcut_01_26@40,110,25,50|der Rufknopf des Aufzugs
+upcut_01_26@130,25,75,167|helles Licht im Aufzug
+upcut_01_26@70,30,265,162|die Aufzugstüren, halb offen
+upcut_01_27|Derselbe Aufzug mit weit offenen Türen, voller weißem Licht.
+upcut_01_27@0,0,60,60|eine grüne Statuenhand, die den roten Vorhang hält, links
+upcut_01_27@280,0,61,60|eine grüne Statuenhand, die den roten Vorhang hält, rechts
+upcut_01_27@40,110,25,50|der Rufknopf des Aufzugs
+upcut_01_27@85,25,170,167|helles Licht, das den offenen Aufzug füllt
+upcut_01_28|Hohes Bild: Edgeworth steht in seinem roten Anzug mit Rüschenhalstuch da und schaut auf die Uhr an seinem linken Handgelenk. In der rechten Hand an der Hüfte hält er eine rote Brieftasche, aus der zwei kleine rote Tropfen fallen. Unten rechts steht eine Flugbegleiterin in weißer Uniform mit gestreiftem Halstuch, die Hände gefaltet.
+upcut_01_28@100,10,75,60|Edgeworths Gesicht
+upcut_01_28@100,70,80,60|sein weißes Rüschenhalstuch
+upcut_01_28@120,135,80,45|seine Hände, die auf die Uhr am Handgelenk schauen
+upcut_01_28@30,80,200,180|Edgeworths roter Anzug
+upcut_01_28@70,210,80,70|eine rote Brieftasche in seiner Hand, aus der zwei kleine rote Tropfen fallen
+upcut_01_28@50,260,180,124|seine Beine
+upcut_01_28@210,215,90,169|eine Flugbegleiterin in weißer Uniform mit gestreiftem Halstuch
+upcut_01_28@0,0,50,384|der dunkelrote Hintergrund links
+upcut_01_28@290,0,51,215|der dunkelrote Hintergrund rechts
+upcut_01_29|Schwarzweißes Actionbild: Ein Mann mit weißem Haar und Brille fällt auf den Betrachter zu, ein rotes Handy an einem Band fliegt hoch, während eine Frau hinter ihm an einem Geländer die Arme hebt. Oben ein Schild.
+upcut_01_29@50,90,250,102|ein Mann mit weißem Haar und Brille, der nach vorne fällt
+upcut_01_29@130,30,45,50|ein Handy an einem Band
+upcut_01_29@165,0,70,70|eine Frau mit langen Haaren, die die Arme hebt
+upcut_01_29@0,40,341,50|ein Geländer
+upcut_01_29@110,0,60,20|ein Schild
+upcut_01_31|Ein Foto des Frachtraums von oben: Kartons mit der Aufschrift Bettlaken und Holzkisten, mit Ketten festgezurrt, eine orange Markierung auf dem Boden, unten rechts ein Metallgeländer und unten links die Oberseiten gelber Koffer.
+upcut_01_31@60,20,140,90|Kartons mit der Aufschrift Bettlaken und Holzkisten
+upcut_01_31@190,20,105,120|Kartons mit der Aufschrift Zerbrechlich, mit Ketten festgezurrt
+upcut_01_31@55,85,100,60|eine orange Markierung auf dem Boden
+upcut_01_31@50,135,55,35|die Oberseiten gelber Koffer
+upcut_01_31@110,80,185,90|ein Metallgeländer
+upcut_01_32|Hohes Bild: Der blonde Mann mit Brille sitzt zusammengesunken an der Wand, den Kopf gesenkt. Eine rote Krawatte und ein gelbes Band mit einer roten Perle und einem leeren Metallclip am Ende. Geldscheine liegen auf seinen Beinen und dem Boden verstreut.
+upcut_01_32@115,0,140,140|sein Kopf, mit blondem Haar und Brille
+upcut_01_32@205,110,50,130|seine rote Krawatte
+upcut_01_32@210,70,131,210|ein gelbes Band
+upcut_01_32@255,210,40,75|das Ende des Bandes: eine rote Perle und ein leerer Metallclip
+upcut_01_32@0,240,190,144|seine Beine
+upcut_01_32@150,245,190,139|Geldscheine auf seinen Beinen und dem Boden verstreut
+upcut_01_32@0,0,115,240|die graue Wand hinter ihm
+upcut_01_34|Schwarzweißbild: Der Mann mit weißem Haar kauert in einem offenen Koffer mit Herzmusterfutter und umfasst seine Knie. Oben rechts fliegen eine Brieftasche und Geldscheine heraus, und eine Münze rollt weg.
+upcut_01_34@95,20,180,172|der Mann mit weißem Haar, im offenen Koffer kauernd
+upcut_01_34@195,15,80,35|eine herausfliegende Brieftasche
+upcut_01_34@225,15,50,100|herausfliegende Geldscheine
+upcut_01_34@250,125,20,20|eine Münze
+upcut_01_34@30,20,290,172|ein Koffer mit Herzmusterfutter
+upcut_01_35|Schwarzweißbild in der Lounge der ersten Klasse: Vorne links verzieht die ältere Frau mit Locken und gestreiftem Hut das Gesicht und umklammert ihre Perlenkette. Hinter ihr sitzt der Mann mit weißem Haar an einer Theke und tippt auf einem kleinen Handgerät, neben ihm eine Tasse Kaffee.
+upcut_01_35@0,15,110,177|die ältere Frau mit Locken und gestreiftem Hut, das Gesicht verzogen
+upcut_01_35@90,155,40,37|ihre Hand umklammert eine Perlenkette
+upcut_01_35@185,35,80,120|der Mann mit weißem Haar, von hinten gesehen
+upcut_01_35@180,70,30,25|ein kleines Handgerät in seinen Händen
+upcut_01_35@165,80,25,20|eine Tasse Kaffee
+upcut_01_35@90,30,30,40|eine Lampe
+upcut_01_35@135,5,40,60|ein Flugzeugfenster
+upcut_01_35@215,5,45,50|ein Flugzeugfenster
+upcut_01_35@255,40,86,152|ein großer Sessel
+upcut_01_33@110,0,115,105|eine große, mit goldbraunem Tuch bedeckte Form, mit einem Vogellogo und den Worten Zheng Fa Express
+upcut_01_33@225,0,100,170|eine zweite große, mit Tuch bedeckte Form, mit Seilen gebunden
+upcut_01_33@165,105,100,55|ein großer Karton mit der Aufschrift Bettlaken, Trocken lagern, BOR nach USA
+upcut_01_33@115,105,55,50|ein Karton mit der Aufschrift Traubensaft, Zerbrechlich
+upcut_01_33@0,75,100,117|Holzkisten links
+upcut_01_33@70,140,270,52|Holzkisten unten
+upcut_01_33@325,85,16,90|der Rand eines gelben Koffers
+upcut_01_33@0,0,110,75|die dunkle Wand des Frachtraums
+upcut_01_08@50,25,135,140|eine riesige dunkle Steinstatue eines Gesichts mit roten Augen
+upcut_01_08@185,30,105,140|das Opfer, ein blonder Mann mit Brille
+upcut_01_08@225,130,25,40|ein rotes Handy an seinem gelben Band
+upcut_01_08@50,110,140,60|ein Geländer im oberen Stockwerk
+upcut_01_08@55,60,130,100|Museumsbesucher im Stockwerk darunter
+upcut_02_02|Ein altmodisches, von Kerzen beleuchtetes Speisezimmer. Edgeworth, von hinten gesehen, hält ein Handy ans Ohr. Ein runder Tisch ist mit Kerzenständern, Gläsern, Tellern und einer Weinflasche gedeckt. Dahinter brennt ein Feuer im Kamin unter einem Porträt. Oben links hängen ein Hirschkopf und eine Uhr an der Wand.
+upcut_02_02@40,0,45,55|ein ausgestopfter Hirschkopf
+upcut_02_02@95,0,25,40|eine Wanduhr
+upcut_02_02@140,0,55,40|ein gerahmtes Porträt
+upcut_02_02@140,55,60,55|ein Kamin mit Feuer
+upcut_02_02@70,40,30,60|eine Öllampe
+upcut_02_02@65,60,105,132|Edgeworth, von hinten gesehen, am Telefon
+upcut_02_02@165,80,140,75|ein runder Tisch, gedeckt mit Kerzen, Gläsern, Tellern und Besteck
+upcut_02_02@270,90,25,40|eine Weinflasche
+upcut_02_02@215,10,90,40|Kerzen in Wandleuchtern
+upcut_02_02@255,125,60,67|ein Holzstuhl
+upcut_02_03|Ein düsterer Flur mit alten Gemälden und Wandlampen. Edgeworth, von hinten gesehen, steht rechts an einer offenen Tür. Weiter hinten im Flur liegt eine Ritterrüstung in Stücken auf dem Boden, und eine kleine blaue Gestalt kauert noch weiter hinten.
+upcut_02_03@10,30,60,95|ein Gemälde in einem Goldrahmen
+upcut_02_03@0,20,15,50|eine Wandlampe
+upcut_02_03@65,45,20,35|eine Wandlampe
+upcut_02_03@85,95,55,65|eine umgefallene Ritterrüstung in Stücken
+upcut_02_03@130,90,20,20|eine kleine blaue Gestalt, die hinten im Flur kauert
+upcut_02_03@160,130,25,15|etwas, das auf dem Boden liegt
+upcut_02_03@180,40,110,152|Edgeworth, von hinten gesehen
+upcut_02_03@290,0,51,192|eine offene Tür mit Messinggriff
+upcut_02_04|Durch ein Fenster mit Metallrahmen: ein grauer Raum mit einem blauen Schiffscontainer rechts, einer offenen Luke im Boden mit Leiter, an die linke Wand gelehnten Klappstühlen und einer Tür hinten.
+upcut_02_04@55,85,45,60|an die Wand gelehnte Klappstühle
+upcut_02_04@95,80,70,55|eine offene Luke im Boden mit Leiter
+upcut_02_04@185,45,50,65|eine Tür hinten
+upcut_02_04@205,60,80,90|ein blauer Schiffscontainer
+upcut_02_04@0,0,341,45|der Metallrahmen des Fensters
+upcut_02_06|Zeitungen. Ganz oben die Mercurial News: Der Yatagarasu ist zurück! Firmengeschäfte aufgedeckt! Darunter eine Speedy Times mit einer Schlagzeile, die mit Meisterdieb beginnt. Eine andere Schlagzeile beginnt mit Drei Personen...
+upcut_02_06@60,15,250,100|Mercurial News: Der Yatagarasu ist zurück! Firmengeschäfte aufgedeckt!
+upcut_02_06@235,60,55,30|eine schwarze Karte mit weißem Vogelsymbol, in der Zeitung abgedruckt
+upcut_02_06@50,115,210,77|Speedy Times: Meisterdieb...
+upcut_02_06@0,110,110,82|eine Schlagzeile: Drei Personen...
+upcut_02_06@250,110,50,50|ein Tortendiagramm
+upcut_02_08|Sandiger Boden vor Holzgebäuden, übersät mit vielen sich überlagernden Schuhabdrücken. Oben links stehen Holzfässer auf einer Veranda, und oben rechts kommt ein Regenrohr aus Metall herunter.
+upcut_02_08@0,0,75,60|Holzfässer auf einer Veranda
+upcut_02_08@210,0,30,95|ein Regenrohr aus Metall
+upcut_02_08@100,0,240,45|ein Holzsteg und Stufen
+upcut_02_08@0,45,341,147|sandiger Boden voller Schuhabdrücke
+upcut_02_17|Der düstere Flur mit alten Gemälden und der umgefallenen Ritterrüstung. Edgeworth schaut jetzt zum Betrachter, rechts neben der offenen Tür.
+upcut_02_17@10,30,60,95|ein Gemälde in einem Goldrahmen
+upcut_02_17@85,95,60,65|eine umgefallene Ritterrüstung in Stücken
+upcut_02_17@130,90,20,20|eine kleine blaue Gestalt, die hinten im Flur kauert
+upcut_02_17@150,50,115,142|Edgeworth, dem Betrachter zugewandt
+upcut_02_17@225,40,40,60|ein Speer und Verzierungen an der Wand
+upcut_02_17@290,0,51,192|eine offene Tür mit Messinggriff
+upcut_02_18|Derselbe Flur: Hinter Edgeworth steht eine Gestalt in einem blauen Narrenkostüm mit gelber Maske und hält ein Schwert.
+upcut_02_18@10,30,60,95|ein Gemälde in einem Goldrahmen
+upcut_02_18@85,110,60,50|eine umgefallene Ritterrüstung in Stücken
+upcut_02_18@125,65,40,90|eine Gestalt in einem blauen Narrenkostüm mit gelber Maske, die ein Schwert hält
+upcut_02_18@150,50,115,142|Edgeworth, dem Betrachter zugewandt
+upcut_02_18@290,0,51,192|eine offene Tür mit Messinggriff
+upcut_02_19|Derselbe Flur: Die Gestalt im blauen Narrenkostüm hebt ein Schwert hoch über Edgeworth.
+upcut_02_19@10,30,60,95|ein Gemälde in einem Goldrahmen
+upcut_02_19@105,15,95,30|ein erhobenes Schwert
+upcut_02_19@115,25,65,145|eine Gestalt in einem blauen Narrenkostüm mit gelber Maske
+upcut_02_19@150,50,115,142|Edgeworth, dem Betrachter zugewandt
+upcut_02_19@290,0,51,192|eine offene Tür mit Messinggriff
+upcut_02_24|Schwarzweißbild in einem Freizeitpark: Vorne ein Dachs-Maskottchen, von hinten gesehen, mit einem Gürtel, in dem ein Buch steckt, richtet eine Waffe auf drei andere Maskottchen, die mit erhobenen Armen posieren. Oben links ein Riesenrad, dahinter hohe Gebäude und eine Achterbahn.
+upcut_02_24@65,20,105,170|ein Dachs-Maskottchen von hinten, mit Gürtel, das eine Waffe richtet
+upcut_02_24@140,55,30,30|eine Waffe
+upcut_02_24@160,75,45,90|ein Dachs-Maskottchen mit kronenartigem Kopf, die Arme erhoben
+upcut_02_24@205,65,65,100|ein Dachs-Maskottchen mit einem Gurt über der Brust
+upcut_02_24@245,85,45,75|ein kleines Dachs-Maskottchen mit Schleife
+upcut_02_24@0,0,90,60|ein Riesenrad
+upcut_02_24@230,25,90,60|eine Achterbahn
+upcut_02_24@100,0,140,70|hohe Gebäude
+upcut_02_24@290,60,51,132|ein gestreiftes Zelt und Büsche
+upcut_02_25|Ein leeres blaues Dachs-Maskottchenkostüm liegt ohne Kopf auf einem grünen Boden. Es hat einen braunen Gürtel um die Taille und ein Loch in einem Handschuh. Oben stehen Klappstühle, oben links eine bunte Kiste.
+upcut_02_25@85,40,155,125|ein leeres blaues Dachskostüm ohne Kopf
+upcut_02_25@135,65,60,40|ein brauner Gürtel am Kostüm
+upcut_02_25@85,85,25,30|ein Handschuh mit einem Loch
+upcut_02_25@20,0,65,70|ein Klappstuhl
+upcut_02_25@70,0,75,45|eine bunte Kiste
+upcut_02_25@145,10,120,30|eine goldene Verzierung an der Wand
+upcut_02_25@255,0,65,60|zusammengeklappte Stühle
+upcut_02_27|Ein grüner Boden mit einem blauen Kreideumriss einer Leiche, die auf dem Bauch liegt, die Arme nach vorne gestreckt. Oben sind das Rad und die Front eines Autos.
+upcut_02_27@60,80,185,55|ein blauer Kreideumriss einer Leiche
+upcut_02_27@145,0,130,35|das Rad und die Front eines Autos
+upcut_02_27@0,0,110,140|ein Schatten auf dem Boden
+upcut_02_28|Ein Arenaboden aus Erde. Oben links parkt ein rosa Lastwagen, und oben verläuft der geschwungene Rand der Tribüne.
+upcut_02_28@0,0,85,65|ein rosa Lastwagen
+upcut_02_28@80,0,261,60|der geschwungene Rand der Tribüne
+upcut_02_28@0,60,341,132|der Erdboden der Arena
+upcut_02_29|Der Arenaboden aus Erde in rosa Licht, übersät mit schwachen Schuhabdrücken. Eine Reihe orange leuchtender Schuhabdrücke führt durch die Mitte nach rechts. Oben links steht ein rosa Lastwagen.
+upcut_02_29@0,0,85,65|ein rosa Lastwagen
+upcut_02_29@155,85,186,60|eine Reihe orange leuchtender Schuhabdrücke
+upcut_02_29@0,60,341,132|schwache Schuhabdrücke überall auf dem Boden
+upcut_02_33|Eine kleine Garage unter einem Schild. Links parkt ein kleines blaues dreirädriges Auto mit einer Krone obendrauf. Daneben liegt ein alter Mann auf dem Rücken in einer Parklücke, auf einem gemalten Maskottchengesicht. In der nächsten Lücke ist ein weiteres Maskottchengesicht gemalt. Darüber hängt ein Hufeisen.
+upcut_02_33@50,30,65,100|ein kleines blaues dreirädriges Auto mit einer Krone obendrauf
+upcut_02_33@120,95,60,40|ein alter Mann, auf dem Rücken liegend
+upcut_02_33@150,105,40,30|ein gemaltes rosa Maskottchengesicht unter dem Mann
+upcut_02_33@205,100,70,30|ein gemaltes Maskottchengesicht in der nächsten Parklücke
+upcut_02_33@160,0,25,25|ein Hufeisen
+upcut_02_33@90,0,180,12|ein Schild
+upcut_02_33@0,0,40,165|ein Holzpfosten
+upcut_02_33@300,0,41,140|eine Holzwand
+upcut_02_36|Schwarzweißbild eines Metallraums: hinten eine Tür, an deren Griff ein Schwert hängt, unten links eine offene Luke im Boden mit Leiter und unten rechts Holzfässer.
+upcut_02_36@145,25,85,115|eine Metalltür
+upcut_02_36@200,60,45,50|ein Schwert, das am Türgriff hängt
+upcut_02_36@0,100,105,75|eine offene Luke im Boden mit Leiter
+upcut_02_36@250,115,80,77|Holzfässer
+upcut_02_38|Nahaufnahme des blauen Dachs-Maskottchenkostüms auf einem Fliesenboden, daneben der Kopf mit großen Augen und drei gelbe Kugeln. Ein brauner Gürtel mit Schnallen ist um den Körper. Am Ende eines Ärmels hängt etwas Kleines, Silbernes.
+upcut_02_38@0,60,195,110|der Körper des blauen Kostüms, auf dem Boden liegend
+upcut_02_38@5,60,120,85|ein brauner Gürtel mit Schnallen
+upcut_02_38@130,105,45,35|etwas Kleines, Silbernes, das am Ärmel hängt
+upcut_02_38@165,10,170,145|der Kopf des Maskottchens, mit großen Augen und gelben Kugeln
+upcut_02_38@295,0,30,60|ein blauer Pfosten
+upcut_02_38@0,0,341,45|ein Steinbrunnen oder eine Steinmauer oben
+upcut_02_39|Ein durchsichtiger Plastikanhänger in Form eines Flügels mit dem Namen Lauren D., an einer langen Kette.
+upcut_02_39@80,5,150,145|ein flügelförmiger Plastikanhänger mit dem Namen Lauren D.
+upcut_02_39@125,35,105,150|eine lange Kette
+upcut_02_40|Der Metallraum in Farbe: hinten eine Tür mit Griff, unten links eine offene Luke mit Leiter, unten rechts Holzfässer, und vor der Tür liegen ein abgebrochenes Stück eines Schwertstichblatts und eine zerbrochene Klinge auf dem Boden.
+upcut_02_40@145,25,85,115|eine Metalltür
+upcut_02_40@210,60,20,45|der Türgriff
+upcut_02_40@190,130,25,25|ein abgebrochenes gebogenes Stichblatt auf dem Boden
+upcut_02_40@215,140,35,25|ein abgebrochenes Klingenstück auf dem Boden
+upcut_02_40@0,100,105,75|eine offene Luke im Boden mit Leiter
+upcut_02_40@250,115,80,77|Holzfässer
+upcut_02_41|Schwarzweißes Actionbild: Ein Mann mit dunklem Haar ringt mit einem älteren Mann mit grauem Haar und hält eine Waffe hoch in die Luft, während der ältere Mann seinen Arm packt.
+upcut_02_41@150,0,60,40|eine hochgehaltene Waffe
+upcut_02_41@90,30,110,162|ein Mann mit dunklem Haar, von der Seite gesehen
+upcut_02_41@190,55,90,137|ein älterer Mann mit grauem Haar, der den Arm des anderen packt
+upcut_02_42|Schwarzweißbild: Ein junger Mann steckt halb in einem Maskottchenkostüm, schwitzt und trägt den Kostümkopf auf seinem eigenen, daneben eine junge Frau mit gepunktetem Kopftuch, die besorgt aussieht. Links Pappbecher auf einem kleinen Tisch, rechts ein gesprungener Spiegel.
+upcut_02_42@85,0,95,192|ein junger Mann, halb im Maskottchenkostüm, schwitzend
+upcut_02_42@190,30,85,100|eine junge Frau mit gepunktetem Kopftuch
+upcut_02_42@130,110,150,82|ein Maskottchenkopf vorne
+upcut_02_42@25,110,60,82|Pappbecher auf einem kleinen Tisch
+upcut_02_42@30,0,50,55|ein runder Ventilator an der Wand
+upcut_02_42@270,40,71,152|ein gesprungener Spiegel mit verziertem Rahmen
+upcut_02_45|Ein silbernes Emblem eines sich aufbäumenden geflügelten Pferdes.
+upcut_02_45@95,5,160,185|ein silbernes geflügeltes Pferd
+upcut_02_46|Ein Pausenraum: ein Metalltisch mit Kaffeemaschine und Pappbechern, Klappstühle drumherum, ein Plakat mit dem Parkplan an der Wand, ein Schlüsselkasten und rechts ein großes Schild Fotorallye mit dem blauen Badger.
+upcut_02_46@120,20,45,60|eine Kaffeemaschine
+upcut_02_46@85,50,35,50|Stapel von Pappbechern
+upcut_02_46@155,55,60,40|Pappbecher mit Kaffee auf dem Tisch
+upcut_02_46@70,55,175,60|ein Metalltisch
+upcut_02_46@160,30,45,30|ein kleiner Kasten an der Wand mit Schlüsseln
+upcut_02_46@135,0,90,30|ein Plan des Parks an der Wand
+upcut_02_46@65,100,75,92|ein Klappstuhl
+upcut_02_46@155,105,70,87|ein Klappstuhl
+upcut_02_46@230,90,60,70|ein Klappstuhl
+upcut_02_46@270,0,71,130|ein Schild: Fotorallye mit dem blauen Badger
+upcut_02_46@0,30,40,162|ein dunkler Durchgang links
+upcut_02_47|Ein dunkler Flur mit rotem Teppich, übersät mit Glasscherben. Zwei hohe Spiegel in Goldrahmen hängen an der Wand, der linke zersplittert. Spitze Wandlampen dazwischen, rechts ein roter Fleck an der Wand, links eine Holztür und unten links ein umgefallener Bilderrahmen auf dem Boden.
+upcut_02_47@0,10,80,115|eine Holztür
+upcut_02_47@145,30,60,90|ein hoher Spiegel in Goldrahmen, zersplittert
+upcut_02_47@255,30,65,90|ein hoher Spiegel in Goldrahmen
+upcut_02_47@90,30,25,55|eine spitze Wandlampe
+upcut_02_47@220,30,25,55|eine spitze Wandlampe, aus
+upcut_02_47@325,30,16,55|eine spitze Wandlampe
+upcut_02_47@310,70,31,40|ein roter Fleck an der Wand
+upcut_02_47@120,125,150,25|Glasscherben auf dem Teppich
+upcut_02_47@0,165,85,27|ein umgefallener Bilderrahmen auf dem Boden
+upcut_02_48|Ein Raum mit Betonwänden: oben links ein Schild Handelsposten, an der Wand ein Tierschädel und ein runder Schild, ein Tisch mit Kaffeemaschine und Tassen, Klappstühle, das Schild Fotorallye mit dem blauen Badger, ein hoher Spiegel in Goldrahmen mit einem Sprung, gestapelte Stühle, eine offene Luke im Boden und unten eine blaue Wanne.
+upcut_02_48@0,0,50,30|ein Schild: Handelsposten
+upcut_02_48@0,30,20,40|ein Tierschädel
+upcut_02_48@20,25,30,35|ein runder Schild
+upcut_02_48@60,40,55,30|ein Plan des Parks an der Wand
+upcut_02_48@35,65,85,45|ein Tisch mit Kaffeemaschine und Tassen
+upcut_02_48@30,105,90,50|Klappstühle
+upcut_02_48@135,50,30,70|das Schild Fotorallye mit dem blauen Badger
+upcut_02_48@160,30,60,90|ein hoher Spiegel in Goldrahmen mit einem Sprung
+upcut_02_48@205,75,30,50|gestapelte Klappstühle
+upcut_02_48@240,85,65,70|eine offene Luke im Boden mit Leiter
+upcut_02_48@100,165,125,27|eine blaue Wanne
+upcut_02_48@230,175,60,17|Fässer
+upcut_02_51|Der Spukflur in grünem Licht. Ein Maskottchen in einem narrenartigen Kostüm mit Sonnenbrille steht hinter Edgeworth und hebt einen leuchtend roten Stab über seinen Kopf.
+upcut_02_51@10,30,60,95|ein gerahmtes Gemälde
+upcut_02_51@85,0,100,50|ein leuchtend roter Stab, erhoben
+upcut_02_51@80,20,85,172|ein Maskottchen in einem narrenartigen Kostüm mit Sonnenbrille
+upcut_02_51@150,50,115,142|Edgeworth, dem Betrachter zugewandt
+upcut_02_51@290,0,51,192|eine offene Tür
+upcut_02_52|Der Spukflur in grünem Licht. Das Maskottchen mit Sonnenbrille steht hinter Edgeworth und hebt ein Schwert über seinen Kopf.
+upcut_02_52@10,30,60,95|ein gerahmtes Gemälde
+upcut_02_52@85,0,95,50|ein erhobenes Schwert
+upcut_02_52@80,20,85,172|ein Maskottchen in einem narrenartigen Kostüm mit Sonnenbrille
+upcut_02_52@150,50,115,142|Edgeworth, dem Betrachter zugewandt
+upcut_02_52@290,0,51,192|eine offene Tür
+upcut_02_54|Ein grün beleuchteter leerer Raum mit rissigen Wänden und einem Fenster. In der Mitte sitzt eine Gestalt im Narrenkostüm zusammengesunken an der Wand, die Beine ausgestreckt.
+upcut_02_54@110,45,95,110|eine Gestalt im Narrenkostüm, an die Wand gesunken
+upcut_02_54@170,0,95,55|ein Fenster
+upcut_02_54@0,0,60,150|die Ecke des Raums
+upcut_02_56|Derselbe grün beleuchtete Raum, jetzt leer: rissige Wände, oben ein Fenster und ein kahler Boden.
+upcut_02_56@170,0,90,55|ein Fenster
+upcut_02_56@0,0,341,110|rissige Wände
+upcut_02_56@0,110,341,82|der kahle Boden
+upcut_02_57|Sepiabild einer Flughafenlounge: Ein junger Edgeworth mit Schal steht neben einem großen Mann im langen Mantel vor einem großen Fenster, draußen ein GoYou-Flugzeug. Links eine Theke, rechts Topfpalmen und eine Bank, und auf dem Boden das Wort GoYou.
+upcut_02_57@120,30,30,95|ein junger Edgeworth mit Schal
+upcut_02_57@165,20,40,95|ein großer Mann im langen Mantel
+upcut_02_57@120,25,120,55|ein GoYou-Flugzeug vor dem Fenster
+upcut_02_57@0,55,105,137|eine Theke
+upcut_02_57@250,25,91,75|Topfpalmen
+upcut_02_57@205,80,105,30|eine Bank
+upcut_02_57@90,110,60,82|das Wort GoYou auf dem Boden
+upcut_02_57@0,0,75,50|eine Abflugtafel
+upcut_02_60|Ein Grundriss: ein langer Korridor von links nach rechts, links ein Raum, der vom Korridor nach oben geht, und oben rechts das Speisezimmer mit einer Doppeltür zum Korridor.
+upcut_02_60@95,30,45,55|ein Raum, der vom Korridor nach oben geht
+upcut_02_60@190,30,100,55|das Speisezimmer
+upcut_02_60@225,70,30,15|die Doppeltür des Speisezimmers
+upcut_02_60@45,80,296,45|der lange Korridor
+upcut_02_61|Der Grundriss mit Markierungen: ein roter Kreis A und ein blauer Kreis E im Korridor vor der Tür des Speisezimmers und ein grüner Kreis B ganz links am Ende des Korridors.
+upcut_02_61@190,30,100,55|das Speisezimmer
+upcut_02_61@205,85,25,25|ein roter Kreis mit A, vor der Tür des Speisezimmers
+upcut_02_61@230,85,25,25|ein blauer Kreis mit E, vor der Tür des Speisezimmers
+upcut_02_61@50,90,25,30|ein grüner Kreis mit B, am linken Ende des Korridors
+upcut_02_61@45,80,296,45|der Korridor
+upcut_02_62|Der Grundriss mit Markierungen: Das linke Ende des Korridors ist schraffiert und schräg abgeschnitten. Ein grüner Kreis B ist im Raum, der links nach oben geht, und ein blauer Kreis E vor der Tür des Speisezimmers.
+upcut_02_62@105,35,30,30|ein grüner Kreis mit B, im Raum oben links
+upcut_02_62@230,85,25,25|ein blauer Kreis mit E, vor der Tür des Speisezimmers
+upcut_02_62@45,80,95,45|ein schraffierter Teil des Korridors, schräg abgeschnitten
+upcut_02_62@190,30,100,55|das Speisezimmer
+upcut_02_63|Der Grundriss mit Markierungen: ein grüner Kreis B und ein roter Kreis A im Raum, der links nach oben geht, und ein blauer Kreis E vor der Tür des Speisezimmers.
+upcut_02_63@105,35,30,30|ein grüner Kreis mit B, im Raum oben links
+upcut_02_63@110,60,30,25|ein roter Kreis mit A, im Raum oben links
+upcut_02_63@230,85,25,25|ein blauer Kreis mit E, vor der Tür des Speisezimmers
+upcut_02_63@190,30,100,55|das Speisezimmer
+upcut_02_63@45,80,296,45|der Korridor
+upcut_02_65|Schwarzweißbild eines runden Brunnens auf einem Platz, mit einem Leuchtschild GATEWATER und einer Skulptur von Fahrgeschäften in der Mitte. Auf beiden Seiten stehen kurze Pfosten mit Seilen, und ganz links schaut ein Maskottchen herein.
+upcut_02_65@100,40,180,60|ein Leuchtschild: GATEWATER
+upcut_02_65@90,0,170,70|eine Skulptur von Gebäuden und Fahrgeschäften
+upcut_02_65@50,55,240,65|das runde Brunnenbecken
+upcut_02_65@0,55,30,45|ein Maskottchen am Bildrand
+upcut_02_65@0,65,60,40|kurze Pfosten
+upcut_02_65@285,65,56,45|kurze Pfosten und ein Ständer
+upcut_02_65@0,110,341,82|gemusterte Pflastersteine
+upcut_02_66|Schwarzweißbild einer kleinen Freilichtbühne: ein Schlagzeug, ein Keyboard und zwei Gitarren auf einem Podest, links große Lautsprecher und ein Beleuchtungsgerüst aus Metall. Rechts Stufen und eine Seilabsperrung an Pfosten.
+upcut_02_66@85,65,65,60|ein Schlagzeug
+upcut_02_66@140,40,40,25|ein Keyboard auf einem Ständer
+upcut_02_66@155,45,40,35|zwei Gitarren auf Ständern
+upcut_02_66@20,70,60,90|ein großer Lautsprecher
+upcut_02_66@20,0,60,70|ein Beleuchtungsgerüst aus Metall
+upcut_02_66@90,10,55,60|ein Banner mit einem Blitzsymbol
+upcut_02_66@230,65,111,35|eine Seilabsperrung an Pfosten
+upcut_02_66@200,0,141,60|Stufen
+upcut_02_66@55,130,170,62|die Metallstützen der Bühne
+upcut_02_67|Schwarzweißbild des dunklen Flurs mit zwei hohen Spiegeln in verzierten Rahmen, der linke zersplittert, spitze Wandlampen, Glasscherben auf dem Boden, links eine Holztür und unten links ein umgefallener Bilderrahmen.
+upcut_02_67@0,10,80,115|eine Holztür
+upcut_02_67@145,30,60,90|ein hoher Spiegel in verziertem Rahmen, zersplittert
+upcut_02_67@255,30,65,90|ein hoher Spiegel in verziertem Rahmen
+upcut_02_67@90,30,25,55|eine spitze Wandlampe
+upcut_02_67@220,30,25,55|eine spitze Wandlampe, aus
+upcut_02_67@325,30,16,55|eine spitze Wandlampe
+upcut_02_67@120,125,150,25|Glasscherben auf dem Boden
+upcut_02_67@0,165,85,27|ein umgefallener Bilderrahmen auf dem Boden
+upcut_02_68|Schwarzweißbild einer Wildweststraße: links ein Holzgebäude mit Fässern auf der Veranda, darüber ein Kuhschädel und ein Sheriffstern, ein Regenrohr, und rechts ein Saloon mit Schwingtüren und einem Schaukelstuhl. Vorne Schuhabdrücke im Sand.
+upcut_02_68@60,85,45,30|Holzfässer auf der Veranda
+upcut_02_68@70,25,45,35|ein vergittertes Fenster
+upcut_02_68@110,0,25,30|ein Kuhschädel
+upcut_02_68@140,0,30,25|ein Schild in Form eines Sheriffsterns
+upcut_02_68@130,30,20,35|ein Steckbrief
+upcut_02_68@165,0,20,130|ein Regenrohr
+upcut_02_68@215,50,60,35|die Schwingtüren des Saloons
+upcut_02_68@185,0,156,20|das Schild des Saloons
+upcut_02_68@310,40,31,75|Flaschen in einem Fenster und ein Schaukelstuhl
+upcut_02_68@100,105,90,55|Schuhabdrücke im Sand
+upcut_02_05@0,60,50,40|ein Blatt Papier, an die Wand geheftet
+upcut_02_05@50,60,10,25|ein Schlüssel, der an der Wand hängt
+upcut_02_05@65,40,215,55|das obere Fach: vier Kartons mit Dachsgesichtern
+upcut_02_05@65,105,215,55|das untere Fach: vier Kartons mit Dachsgesichtern
+upcut_02_05@225,95,55,30|etwas Rosafarbenes mit roter Schleife, das hinter einem Karton hervorragt
+upcut_02_05@300,0,41,192|ein Metalltürrahmen rechts
+upcut_02_13@25,0,230,55|ein kleines blaues dreirädriges Auto
+upcut_02_13@105,80,105,75|Kopf und Brust des alten Mannes, mit einem Blutfleck
+upcut_02_13@130,90,35,30|eine Schnur mit einem silbernen Dachsanhänger um seinen Hals
+upcut_02_13@175,30,135,60|seine Beine
+upcut_02_13@190,90,105,60|ein auf den Boden gemaltes Gesicht des rosa Dachses
+upcut_02_13@0,85,110,107|der Rand von Pflaster und Sand
+upcut_02_13@70,20,230,75|weiße Parklinien
+upcut_02_32@0,0,140,155|die Front eines blauen dreirädrigen Autos
+upcut_02_32@160,80,85,80|die Leiche des alten Mannes in der nächsten Parklücke
+upcut_02_32@200,110,30,20|ein Blutfleck auf seiner Brust
+upcut_02_32@130,70,211,20|Parkbegrenzungen aus Beton
+upcut_02_32@230,100,111,60|ein auf den Boden gemaltes Dachsgesicht
+upcut_02_44@45,0,110,90|der Kopf des Kostüms, mit Sonnenbrille
+upcut_02_44@95,95,50,30|eine Spielzeugpistole auf der linken Seite des Gürtels
+upcut_02_44@180,70,45,40|eine Spielzeugpistole auf der rechten Seite des Gürtels
+upcut_02_44@150,80,90,90|Körper und Gürtel des Kostüms
+upcut_02_44@130,110,80,60|die Beine des Kostüms
+upcut_02_44@40,0,255,192|ein flacher Wagen mit Griff
+upcut_02_44@0,0,341,192|Ziegelpflaster
+upcut_03_04|Gerichtsplan (Ausschnitt). Oben in der Mitte ein Innenhof. Darunter nebeneinander Wartebereich Nr. 2 und Wartebereich Nr. 1, jeder mit einer Tür unten zu einem Flur. Links die Toilette. Rechts vom Innenhof der Wartebereich im 3. Stock und ganz rechts der Gerichtssaal mit einer Doppeltür zum Wartebereich im 3. Stock.
+upcut_03_04@50,60,25,70|die Toilette
+upcut_03_04@75,20,135,40|der Innenhof
+upcut_03_04@100,60,55,50|Wartebereich Nr. 2
+upcut_03_04@155,60,55,50|Wartebereich Nr. 1
+upcut_03_04@100,110,115,20|der Flur unter den Wartebereichen
+upcut_03_04@210,20,50,110|der Wartebereich im 3. Stock
+upcut_03_04@260,25,81,105|der Gerichtssaal
+upcut_03_07|Zwei Männer liegen tot auf einem Fliesenboden. Der obere, mit dunklem Haar und Schnurrbart, hält ein blutiges Messer in der rechten Hand, hat einen Blutfleck auf der Brust und ein gelbes Armband am Handgelenk. Der untere, mit langen braunen Haaren und gemustertem Schal, hält eine Pistole in der rechten Hand und hat einen Blutfleck auf der Brust. Zwischen ihnen liegt ein kleiner roter Gegenstand, und weiße Klebebandlinien ziehen sich über den Boden.
+upcut_03_07@0,0,260,95|der obere Mann, mit dunklem Haar und Schnurrbart
+upcut_03_07@95,30,60,45|ein blutiges Messer in der Hand des oberen Mannes
+upcut_03_07@170,25,30,20|ein gelbes Armband an seinem Handgelenk
+upcut_03_07@120,10,40,20|ein Blutfleck auf der Brust des oberen Mannes
+upcut_03_07@135,90,30,20|ein kleiner roter Gegenstand auf dem Boden
+upcut_03_07@50,100,291,92|der untere Mann, mit langen braunen Haaren und gemustertem Schal
+upcut_03_07@215,105,45,50|eine Pistole in der Hand des unteren Mannes
+upcut_03_07@150,145,35,20|ein Blutfleck auf der Brust des unteren Mannes
+upcut_03_07@200,0,141,110|weiße Klebebandlinien auf dem Boden
+upcut_03_08|Schwarzweiße Nahaufnahme von zwei Händen, die einen aufrecht gehaltenen Dolch mit verzierter Klinge und rundem, geschmücktem Stichblatt umklammern.
+upcut_03_08@150,0,145,110|die Klinge eines Dolchs, mit verziertem Muster
+upcut_03_08@155,85,35,30|das runde, geschmückte Stichblatt
+upcut_03_08@70,75,140,117|zwei Hände, die den Griff umklammern
+upcut_03_09|Beweisbeutel auf einem Holztisch: eine Pistole, ein Messer mit blutiger Spitze und Holzgriff und eine schwarze Brieftasche. Rechts liegt ein großer brauner Umschlag mit Schnurverschluss.
+upcut_03_09@80,20,95,70|eine Pistole in einem Beweisbeutel
+upcut_03_09@45,95,75,70|ein Messer mit blutiger Spitze, in einem Beweisbeutel
+upcut_03_09@125,95,70,70|eine schwarze Brieftasche in einem Beweisbeutel
+upcut_03_09@200,40,90,115|ein großer brauner Umschlag mit Schnurverschluss
+upcut_03_12|Ein stämmiger Mann mit stacheligem dunklem Haar, Bartstoppeln und Goldkette in braunem Hemd steht im Gerichtssaal am Zeugenstand, stützt sich mit beiden Händen auf und verzieht das Gesicht.
+upcut_03_12@135,30,85,80|das Gesicht des Mannes, verzogen
+upcut_03_12@145,110,40,20|eine Goldkette um seinen Hals
+upcut_03_12@60,60,220,105|der Körper des Mannes, auf den Stand gestützt
+upcut_03_12@65,155,220,37|der hölzerne Zeugenstand
+upcut_03_12@0,0,90,150|eine verzierte Säule und ein rotes Banner links
+upcut_03_12@255,0,86,150|eine verzierte Säule und ein rotes Banner rechts
+upcut_03_13|Mercurial News, Sonderausgabe: Yatagarasu sucht Botschaft heim! Der edle Yatagarasu, Rächer der Geschäftswelt, ist zurück! Ein Foto einer geflügelten Silhouette vor dem Himmel und weiter unten das Vogelsymbol des Yatagarasu.
+upcut_03_13@95,10,200,45|Mercurial News, Sonderausgabe: Yatagarasu sucht Botschaft heim!
+upcut_03_13@60,55,105,75|ein Foto einer dunklen geflügelten Silhouette
+upcut_03_13@170,60,115,40|Der edle Yatagarasu, Rächer der Geschäftswelt, ist zurück!
+upcut_03_13@190,125,55,40|das Vogelsymbol des Yatagarasu
+upcut_03_13@20,130,170,62|das Kleingedruckte des Artikels
+upcut_03_14|Körniges Bild einer Überwachungskamera von oben: Ein Mann mit Mütze und brauner Jacke hält eine Pistole und blickt auf einen Mann in dunklem Anzug, der neben einer Wand bäuchlings auf dem Gehweg liegt, Blut nahe seiner Brust.
+upcut_03_14@110,5,40,95|ein Mann mit Mütze und brauner Jacke, der eine Pistole hält
+upcut_03_14@135,45,15,15|eine Pistole in seiner Hand
+upcut_03_14@115,95,130,85|ein Mann in dunklem Anzug, bäuchlings liegend
+upcut_03_14@160,135,30,20|Blut auf dem Gehweg
+upcut_03_14@0,0,70,192|eine Wand links
+upcut_03_14@170,0,171,192|ein Bordstein und die Straße rechts
+upcut_03_15|Schwarzweißbild eines leeren Gerichtssaals: hinten die Richterbank unter einem Waagensymbol, in der Mitte der Zeugenstand, auf beiden Seiten die Anwaltsbänke und vorne Seilabsperrungen.
+upcut_03_15@145,15,55,45|ein Waagensymbol an der Wand
+upcut_03_15@115,70,110,50|die Richterbank
+upcut_03_15@140,115,60,60|der Zeugenstand
+upcut_03_15@0,60,110,132|die Bank der Verteidigung und Seilabsperrungen links
+upcut_03_15@230,60,111,132|die Bank der Anklage und Seilabsperrungen rechts
+upcut_03_16|Schwarzweißbild in einem Aufzug: Links sitzt ein Mann mit Brille im Anzug auf dem Boden, in der Mitte kniet ein Mann mit Mütze, lachend oder weinend, die Hände am Kragen, und rechts sitzt ein junger Mann mit dunklem Haar mit dem Rücken zum Betrachter.
+upcut_03_16@40,60,90,110|ein Mann mit Brille im Anzug, auf dem Boden sitzend
+upcut_03_16@145,20,60,135|ein kniender Mann mit Mütze, die Hände am Kragen
+upcut_03_16@215,75,105,100|ein junger Mann mit dunklem Haar, von hinten gesehen
+upcut_03_16@135,15,25,120|das Tastenfeld des Aufzugs
+upcut_03_16@165,0,145,140|die Aufzugstüren
+upcut_03_17|Schwarzweißbild in einem Aufzug: Ein Mann mit Brille im Anzug sitzt zusammengesunken in der Ecke, die Augen geschlossen. Neben ihm das Tastenfeld, und eines der Türfenster oben hat einen Sprung.
+upcut_03_17@50,55,110,130|ein Mann mit Brille, in der Ecke zusammengesunken
+upcut_03_17@125,10,35,140|das Tastenfeld des Aufzugs
+upcut_03_17@185,5,40,45|ein Sprung im Türfenster
+upcut_03_17@165,0,155,192|die Aufzugstüren
+upcut_03_18|In einem Wartebereich des Gerichts umarmt ein junges Mädchen mit schwarzem Pferdeschwanz und rosa Kleidung Edgeworth fest, während er erschrocken aufschreit, die Hände ausgebreitet. Sie trägt eine Tasche mit Schnallen auf dem Rücken.
+upcut_03_18@165,0,85,70|Edgeworths Gesicht, aufschreiend
+upcut_03_18@120,50,80,90|ein Mädchen mit schwarzem Pferdeschwanz
+upcut_03_18@90,120,60,60|eine Tasche mit Schnallen auf ihrem Rücken
+upcut_03_18@40,125,60,50|Edgeworths linke Hand
+upcut_03_18@225,135,70,45|Edgeworths rechte Hand
+upcut_03_18@180,60,161,132|Edgeworths roter Mantel
+upcut_03_18@0,0,160,120|hölzerne Gerichtsmöbel dahinter
+upcut_03_19|Hohes Bild einer Flurwand: Oben ein Fenster mit einem Topfkaktus auf dem Fensterbrett und einem kleinen rosa Gegenstand daneben. Eine dünne gepunktete Spur kleiner dunkler Flecken läuft vom Fenster die Wand hinunter bis zum Boden unter einer langen braunen Bank unten.
+upcut_03_19@60,25,230,140|ein Fenster mit Blick auf ein Backsteingebäude
+upcut_03_19@75,100,40,60|ein Topfkaktus auf dem Fensterbrett
+upcut_03_19@125,150,25,15|ein kleiner rosa Gegenstand auf dem Fensterbrett
+upcut_03_19@210,140,45,215|eine dünne gepunktete Spur kleiner dunkler Flecken die Wand hinunter
+upcut_03_19@55,275,235,75|eine lange braune Bank
+upcut_03_19@200,335,40,30|kleine dunkle Flecken auf dem Boden unter der Bank
+upcut_03_19@0,320,341,64|der Fliesenboden
+upcut_03_20|Ein Automat: Schnellimbiss und Milch. Obere Reihe: Hotdog 7 $, Beef Jerky 9 $, Schinkensandwich 8 $. Untere Reihe: Orangensaft 9 $, Milch 7 $, Biskuitrollen 6 $. Rechts: ein Schild Kreditkarten akzeptiert, ein Kartenschlitz, ein Münzschlitz, ein Geldscheinschlitz und Tasten. Unten Angebote für kurze Zeit.
+upcut_03_20@40,0,200,25|das Schild: Schnellimbiss und Milch
+upcut_03_20@45,25,60,60|Hotdog, 7 Dollar
+upcut_03_20@105,25,65,60|Beef Jerky, 9 Dollar
+upcut_03_20@170,25,65,60|Schinkensandwich, 8 Dollar
+upcut_03_20@45,95,60,65|Orangensaft, 9 Dollar
+upcut_03_20@105,95,65,65|Milch, 7 Dollar
+upcut_03_20@170,95,65,65|Biskuitrollen, 6 Dollar
+upcut_03_20@235,20,60,35|ein Schild: Kreditkarten akzeptiert
+upcut_03_20@245,55,50,35|ein Kartenschlitz und ein Münzschlitz
+upcut_03_20@240,100,55,45|ein Schlitz für Geldscheine
+upcut_03_20@245,160,40,25|zwei Tasten
+upcut_03_20@45,165,190,27|Angebote für kurze Zeit
+upcut_03_21|Schwarzweißbild im Gerichtssaal: Ein großer Mann mit langen Haaren, Bart und zerlumptem Mantel lehnt am Zeugenstand. Hinten rechts sitzt ein junger Mann mit Schal auf einer Bank. Vorne breitet eine Frau mit sehr langen schwarzen Haaren, von hinten gesehen, die Arme aus und hält ein großes Papier.
+upcut_03_21@60,10,85,170|ein großer Mann mit Bart und zerlumptem Mantel am Zeugenstand
+upcut_03_21@225,10,50,55|ein junger Mann mit Schal auf der hinteren Bank
+upcut_03_21@135,60,155,132|eine Frau mit sehr langen schwarzen Haaren, von hinten, die Arme ausgebreitet
+upcut_03_21@265,45,60,65|ein großes Papier in ihrer Hand
+upcut_03_21@40,60,155,75|Seilabsperrungen an Pfosten
+upcut_03_22|Ein Raum mit einem Fenster, das von dunkellila Vorhängen bedeckt ist, draußen Gitter. Rechts in der Ecke steht ein Flachbildfernseher auf einem schwarzen Möbel mit Videorekordern.
+upcut_03_22@60,20,135,95|ein Fenster mit dunkellila Vorhängen
+upcut_03_22@125,25,40,80|Gitter am Fenster
+upcut_03_22@0,20,15,95|der Rand eines anderen Vorhangs
+upcut_03_22@185,70,85,80|ein Flachbildfernseher
+upcut_03_22@175,120,95,72|ein schwarzes Möbel mit Videorekordern
+upcut_03_22@0,155,175,37|ein Holzboden
+upcut_03_24|Eine Frau mit langen schwarzen Haaren im blauen Kostüm steht im Gerichtssaal an einer Holzbank, den Arm ausgestreckt, und richtet einen Revolver nach links. Sie trägt eine rote Krawatte und einen goldenen Ohrring.
+upcut_03_24@45,10,65,55|ein Revolver
+upcut_03_24@70,30,140,50|ihr ausgestreckter Arm
+upcut_03_24@185,20,60,65|ihr Gesicht, mit langen schwarzen Haaren und goldenem Ohrring
+upcut_03_24@180,60,90,95|ihr blaues Kostüm und ihre rote Krawatte
+upcut_03_24@0,140,341,52|die Holzbank
+upcut_03_26|Im Gerichtssaal steht Edgeworth mit verschränkten Armen und geschlossenen Augen da, während Kommissar Gumshoe im Trenchcoat neben ihm grinsend salutiert.
+upcut_03_26@20,15,175,177|Edgeworth, Arme verschränkt, Augen geschlossen
+upcut_03_26@150,20,140,172|Gumshoe im Trenchcoat, salutierend
+upcut_03_26@270,0,71,192|die Holzmöbel des Gerichtssaals
+upcut_03_34|Schwarzweißbild: Eine junge Frau mit langen Haaren und Mantel umklammert mit beiden Händen einen Dolch und steht einem großen Mann mit zurückgebundenen langen Haaren gegenüber, der sich von ihr abwendet.
+upcut_03_34@55,45,105,147|eine junge Frau mit langen Haaren, die einen Dolch hält
+upcut_03_34@135,110,30,40|ein Dolch
+upcut_03_34@160,0,150,192|ein großer Mann mit zurückgebundenen langen Haaren
+upcut_03_35|Kommissar Gumshoe sitzt auf der Bank unter dem Fenster im Flur und ruft aufgeregt, eine Biskuitrolle in einer Hand und ein Stück in der anderen. Auf dem Fensterbrett steht eine Topfpflanze.
+upcut_03_35@100,0,30,45|eine Topfpflanze auf dem Fensterbrett
+upcut_03_35@90,0,165,48|das Fenster
+upcut_03_35@160,50,105,142|Gumshoe, rufend, mit einer Biskuitrolle
+upcut_03_35@195,105,25,25|eine Biskuitrolle
+upcut_03_35@85,135,175,57|die lange braune Bank
+upcut_03_36|Derselbe Flur: Ein Mädchen mit schwarzem Pferdeschwanz in rosa Oberteil und Shorts sitzt neben Gumshoe auf der Bank, grinst und hält eine Biskuitrolle. An die Topfpflanze auf dem Fensterbrett ist ein rosa Ballon gebunden.
+upcut_03_36@100,0,30,50|eine Topfpflanze mit einem angebundenen rosa Ballon
+upcut_03_36@105,35,15,100|die Schnur des Ballons
+upcut_03_36@105,70,70,120|ein Mädchen mit Pferdeschwanz, grinsend, mit einer Biskuitrolle
+upcut_03_36@160,50,105,142|Gumshoe, rufend, mit einer Biskuitrolle
+upcut_03_36@85,135,175,57|die lange braune Bank
+upcut_03_39|Ein Mann mit langen braunen Haaren und gemustertem blauem Schal im dunklen Mantel steht im Gerichtssaal an einer Holzbank, beißt die Zähne zusammen, die Faust auf der Bank.
+upcut_03_39@135,0,65,60|sein Gesicht, mit langen braunen Haaren, die Zähne zusammengebissen
+upcut_03_39@155,40,40,30|ein gemusterter blauer Schal
+upcut_03_39@90,45,190,120|sein dunkler Mantel
+upcut_03_39@60,135,45,35|seine geballte Faust
+upcut_03_39@0,150,341,42|die Holzbank
+upcut_03_45|Ein Flur im Gericht: eine Doppeltür mit dem Schild Wartebereich Angeklagte Nr. 2, Recyclingbehälter für Dosen und Müll, ein Automat mit der Aufschrift Gerichtsangebote, Schnellimbiss und Milch, und ein blauer Getränkeautomat. Links unter einem Fenster die lange Bank.
+upcut_03_45@75,15,70,30|ein Schild: Wartebereich Angeklagte Nr. 2
+upcut_03_45@55,20,90,105|eine hölzerne Doppeltür
+upcut_03_45@150,80,40,50|Recyclingbehälter für Dosen und Müll
+upcut_03_45@185,35,65,100|ein Automat: Gerichtsangebote, Schnellimbiss und Milch
+upcut_03_45@250,25,65,110|ein blauer Getränkeautomat
+upcut_03_45@0,30,25,80|ein Fenster
+upcut_03_45@0,115,55,35|das Ende einer langen Bank
+upcut_03_45@35,140,20,15|kleine dunkle Flecken auf dem Boden nahe der Bank
+upcut_03_45@325,20,16,100|eine weitere Tür rechts
+upcut_03_46|Ein Warteraum: zwei Fenster mit grünen Vorhängen, dazwischen ein Topfbaum, in der Ecke ein Flachbildfernseher auf einem schwarzen Möbel, und vorne ein langer Holztisch mit einer Thermoskanne, zwei kleinen Tassen und einer rosa Schachtel, dahinter zwei Stühle.
+upcut_03_46@0,15,95,65|ein Fenster mit grünen Vorhängen
+upcut_03_46@125,15,95,65|ein Fenster mit grünen Vorhängen
+upcut_03_46@65,35,50,85|ein Topfbaum
+upcut_03_46@210,45,65,100|ein Flachbildfernseher auf einem schwarzen Möbel
+upcut_03_46@65,150,30,35|eine Thermoskanne
+upcut_03_46@85,165,20,20|zwei kleine Tassen
+upcut_03_46@105,165,25,15|eine rosa Schachtel
+upcut_03_46@100,135,95,57|zwei schwarze Stühle
+upcut_03_46@50,165,260,27|ein langer Holztisch
+upcut_03_06@50,60,50,40|eine Pistole in der rechten Hand des Mannes mit langen braunen Haaren
+upcut_03_06@115,70,170,55|der Mann mit langen braunen Haaren, quer über dem anderen liegend
+upcut_03_06@220,90,50,50|das Gesicht des anderen Mannes, mit kurzem dunklem Haar
+upcut_03_06@250,135,45,35|ein blutiges Messer in der Hand des anderen Mannes
+upcut_03_06@30,95,70,55|ein Beweisbeutel auf dem Boden
+upcut_03_06@35,135,70,57|ein Beweisbeutel mit einem Blutfleck
+upcut_03_06@105,120,60,50|ein Beweisbeutel auf dem Boden
+upcut_03_06@0,0,341,192|Kreideumrisse auf dem Fliesenboden
+upcut_04_01|Mercurial News, Abendausgabe: Yatagarasu schickt Karte an Botschaft! Ein Foto einer weißen Karte mit schwarzem Vogelsymbol, Bildunterschrift: Die Karte, die die Botschaft erhielt. Ein weiteres Foto zeigt eine dunkle geflügelte Silhouette.
+upcut_04_01@0,10,300,40|Mercurial News, Abendausgabe
+upcut_04_01@0,50,300,30|die Schlagzeile: Yatagarasu schickt Karte an Botschaft!
+upcut_04_01@40,80,75,50|ein Foto einer weißen Karte mit schwarzem Vogelsymbol
+upcut_04_01@40,130,75,30|die Bildunterschrift: Die Karte, die die Botschaft erhielt
+upcut_04_01@160,135,120,57|ein Foto einer dunklen geflügelten Silhouette
+upcut_04_01@115,80,180,55|das Kleingedruckte des Artikels
+upcut_04_02|Hohes Bild eines Bühnenbilds: ein Vollmond und Wolken am Nachthimmel, Berge und Kiefern. Auf der Bühne eine Frau in rot-rosa Kostüm mit großer Frisur, ein Darsteller in silbernem Rüstungskostüm mit langen Röhren auf dem Rücken, kniend mit Schwert und Fächer, rechts eine kleine Gestalt in einem Holzkarren und links eine Neujahrsdekoration aus Bambus und Kiefer.
+upcut_04_02@140,0,115,105|ein Vollmond
+upcut_04_02@0,40,341,40|Wolken
+upcut_04_02@60,105,280,100|Berge und Kiefern
+upcut_04_02@65,210,60,140|eine Frau in rot-rosa Kostüm mit großer Frisur
+upcut_04_02@105,225,130,150|ein Darsteller in silbernem Rüstungskostüm mit langen Röhren, kniend, mit Schwert und Fächer
+upcut_04_02@220,275,65,75|eine kleine Gestalt in einem Holzkarren
+upcut_04_02@35,275,50,100|eine Dekoration aus Bambus und Kiefer
+upcut_04_03|Ein Bühnenbild mit Kiefern im Scheinwerferlicht: eine Frau in rot-rosa Kostüm mit großer Frisur, ein Darsteller in silbernem Rüstungskostüm mit langen Röhren auf dem Rücken, kniend mit Schwert und Fächer, rechts eine kleine Gestalt in einem Holzkarren und links eine Dekoration aus Bambus und Kiefer.
+upcut_04_03@65,20,60,140|eine Frau in rot-rosa Kostüm mit großer Frisur
+upcut_04_03@105,30,130,145|ein Darsteller in silbernem Rüstungskostüm mit langen Röhren, kniend, mit Schwert und Fächer
+upcut_04_03@220,80,70,85|eine kleine Gestalt in einem Holzkarren
+upcut_04_03@35,85,50,100|eine Dekoration aus Bambus und Kiefer
+upcut_04_03@0,0,341,80|Kiefern im Hintergrund
+upcut_04_06|Edgeworth, von hinten gesehen, blickt nachts zu einem brennenden Hochhaus hinauf. Aus vielen Fenstern schlagen Flammen, und oben rechts steigt Rauch auf. Davor steht ein Metallgerüst.
+upcut_04_06@105,55,130,137|Edgeworth, von hinten gesehen
+upcut_04_06@0,0,341,110|ein Hochhaus mit Flammen in den Fenstern
+upcut_04_06@260,0,81,50|Rauch
+upcut_04_06@20,110,320,82|ein Metallgerüst
+upcut_04_07|Schwarzweißbild bei Nacht: Ein Mädchen mit langen Haaren und Haarschmuck, von hinten gesehen, kauert im Gras und beobachtet oben rechts eine Tür, durch die gerade die Beine einer Person verschwinden. Links ein Zaun, Stufen führen zur Tür hinauf.
+upcut_04_07@20,0,145,192|ein Mädchen mit langen Haaren und Haarschmuck, von hinten gesehen
+upcut_04_07@255,0,40,55|die Beine einer Person, die durch die Tür gehen
+upcut_04_07@205,0,90,60|eine offene Tür
+upcut_04_07@165,40,175,50|Stufen, die zur Tür hinaufführen
+upcut_04_07@0,0,70,90|ein Drahtzaun
+upcut_04_07@180,170,45,22|eine Hand am unteren Rand
+upcut_04_10|Ein kleiner weißer Tresor mit weit offener Tür steht in der Ecke eines fleckigen Raums. Er ist leer bis auf ein Stück Papier auf seinem Boden. Rechts liegt Schutt auf dem Boden.
+upcut_04_10@120,25,105,135|ein weißer Tresor, offen
+upcut_04_10@130,60,85,85|das Innere des Tresors
+upcut_04_10@170,125,25,15|ein Stück Papier im Tresor
+upcut_04_10@215,55,80,135|die offene Tresortür
+upcut_04_10@0,0,100,192|eine fleckige Wand und ein Durchgang links
+upcut_04_10@290,125,51,67|Schutt auf dem Boden
+upcut_04_11|Zwei Seiten eines Dokuments in einer fremden Schrift, die nicht lesbar ist. Die vordere Seite, markiert mit 1 von 3, hat eine Zahlentabelle. Die hintere Seite, markiert mit 3 von 3, ist mit Manny Coachen unterschrieben.
+upcut_04_11@60,10,155,170|Seite 1 von 3, mit einer Zahlentabelle
+upcut_04_11@80,105,90,60|eine Zahlentabelle
+upcut_04_11@165,5,105,175|Seite 3 von 3
+upcut_04_11@180,130,90,40|eine Unterschrift: Manny Coachen
+upcut_04_17|Ein Messer mit gebogenem, verziertem Holzgriff, die Klinge voller Blut.
+upcut_04_17@80,55,135,105|eine Klinge voller Blut
+upcut_04_17@175,10,110,85|ein verzierter Holzgriff mit goldenen Schnörkeln
+upcut_04_18|Eine Ausstellungstafel an einer rußigen Wand mit Plätzen für drei Messer: links ein Messer und rechts ein Messer, dazwischen ein leerer Platz, an dem nur die Haken übrig sind. Oben hängt etwas Braunes.
+upcut_04_18@110,65,45,75|ein Messer links
+upcut_04_18@150,80,45,60|ein leerer Platz mit Haken zwischen den Messern
+upcut_04_18@195,65,50,75|ein Messer rechts
+upcut_04_18@85,60,180,90|die Ausstellungstafel
+upcut_04_18@90,0,160,45|etwas Braunes, das oben hängt
+upcut_04_24|Eine Freilichtbühne bei Nacht vor einer großen Flagge: oben gelb, in der Mitte weiß mit einem Blumenwappen in einem Kranz, unten rot. Ein lila Rednerpult mit Wappen und Mikrofonen steht auf einem lila verhängten Podest. Rechts Rosenbüsche, oben rechts Stacheldraht, unten links ein kleiner Hocker.
+upcut_04_24@40,10,200,120|eine große Flagge mit einem Blumenwappen in einem Kranz
+upcut_04_24@150,95,35,60|ein lila Rednerpult mit Wappen und Mikrofonen
+upcut_04_24@75,145,160,40|ein lila verhängtes Podest mit Stufen
+upcut_04_24@225,100,116,75|Rosenbüsche
+upcut_04_24@255,0,86,30|Stacheldraht an der Wand
+upcut_04_24@0,150,35,30|ein kleiner Hocker
+upcut_04_24@40,165,301,27|der Rand eines Beckens
+upcut_04_25|Dieselbe Bühne in einem gelben Lichtblitz: Der riesige Schatten einer geflügelten Gestalt fällt über die Flagge oberhalb des Rednerpults.
+upcut_04_25@40,10,200,120|die Flagge, mit einem geflügelten Schatten darauf
+upcut_04_25@80,5,130,120|der Schatten einer geflügelten Gestalt
+upcut_04_25@150,95,35,60|das Rednerpult
+upcut_04_25@225,100,116,75|Rosenbüsche
+upcut_04_25@0,150,35,30|ein kleiner Hocker
+upcut_04_26|Schwarzweißbild hoch oben an einem Gebäude bei Nacht: Ein junger Mann im T-Shirt kauert auf einem Sims neben einer Gestalt in einem Kostüm mit langen Röhren, die bäuchlings auf dem Dach liegt. Unten rechts die beleuchteten Fenster des Gebäudes und Stacheldraht.
+upcut_04_26@105,25,60,95|ein junger Mann im T-Shirt, auf dem Sims kauernd
+upcut_04_26@10,75,110,95|eine Gestalt in einem Kostüm mit langen Röhren, bäuchlings liegend
+upcut_04_26@180,30,161,162|die beleuchteten Fenster des Gebäudes
+upcut_04_26@270,130,71,30|Stacheldraht
+upcut_04_27|Ein Mann in grün-goldener Uniform mit einer weißen Augenmaske liegt auf dem Rücken auf einem gemusterten Teppich, Blut am Hals. Sein grüner Hut mit weißen Federn ist heruntergefallen. Ein blutiges Schwert mit rot umwickeltem Griff liegt quer über ihm, und ein grün gemustertes Tuch bedeckt seine Beine. Rechts steht ein dunkler Schreibtisch mit Namensschild.
+upcut_04_27@140,40,80,40|das Gesicht des Mannes, mit einer weißen Augenmaske
+upcut_04_27@180,60,30,30|Blut an seinem Hals
+upcut_04_27@165,15,75,40|ein grüner Hut mit weißen Federn
+upcut_04_27@85,60,130,65|eine grün-goldene Uniform
+upcut_04_27@120,25,30,20|ein kleiner Gegenstand in seiner Hand über dem Kopf
+upcut_04_27@175,70,80,95|ein blutiges Schwert mit rot umwickeltem Griff
+upcut_04_27@130,120,140,72|ein grün gemustertes Tuch
+upcut_04_27@0,90,130,102|seine Beine, in roter Hose und Stiefeln
+upcut_04_27@255,0,86,192|ein dunkler Schreibtisch mit Namensschild
+upcut_04_28|Eine Wand im Büro des Botschafters: Oben hängen eine Armbrust und ein Speer, darunter hält eine Ausstellungstafel drei Messer mit verzierten Griffen. Rechts steht eine goldene Statue eines Ritters mit Schwert auf einem weißen Sockel, links ein Topfbaum mit geschnitztem Gesicht, und rechts an der Wand ein großes Blumenwappen.
+upcut_04_28@115,30,85,50|eine Armbrust
+upcut_04_28@60,30,60,162|ein Speer
+upcut_04_28@120,80,95,45|eine Ausstellungstafel mit drei Messern
+upcut_04_28@0,45,80,147|ein Topfbaum mit geschnitztem Gesicht
+upcut_04_28@215,70,75,122|eine goldene Statue eines Ritters mit Schwert
+upcut_04_28@280,0,61,120|ein großes Blumenwappen an der Wand
+upcut_04_31|Zwei Stücke einer zerbrochenen hölzernen Messerscheide mit goldenen Schnörkeln: links das Ende der Scheide, rechts der Griff mit einem goldenen, blumenförmigen Handschutz.
+upcut_04_31@70,25,85,95|das abgebrochene Ende der Scheide
+upcut_04_31@165,35,115,95|der Griff mit einem goldenen, blumenförmigen Handschutz
+upcut_04_34|Das Büro des Botschafters in rotem Licht: oben links eine Ausstellungstafel mit drei Messern, in der Mitte eine Ritterstatue mit Schwert auf einem verzierten Sockel und rechts an der Wand ein großes Wappen. Auf dem Kopf der Statue leuchtet es schwach blau.
+upcut_04_34@10,25,110,55|eine Ausstellungstafel mit drei Messern
+upcut_04_34@140,15,75,140|eine Ritterstatue mit Schwert
+upcut_04_34@165,15,15,20|ein schwaches blaues Leuchten auf dem Kopf der Statue
+upcut_04_34@120,120,100,72|ein verzierter Sockel
+upcut_04_34@200,0,141,120|ein großes Wappen an der Wand
+upcut_04_39|Eine blanke Messerklinge mit graviertem Muster, ohne Griff. Die Angel oben rechts hat ein kleines Loch.
+upcut_04_39@80,60,140,100|die Klinge, mit graviertem Muster
+upcut_04_39@200,20,60,60|die Angel, mit einem kleinen Loch und einer kleinen Gravur
+upcut_04_40|Eine Frau mit weißem Haar und schwarzer Federboa packt ein Mädchen von hinten und hält ihr eine Waffe an den Kopf. Das Mädchen mit langem schwarzem Pferdeschwanz und Haarschmuck verzieht das Gesicht und hat die Fäuste erhoben. Hinter ihnen ein sonniges Fenster.
+upcut_04_40@140,25,50,50|das Gesicht der Frau, mit weißem Haar
+upcut_04_40@150,65,35,25|eine Waffe am Kopf des Mädchens
+upcut_04_40@165,40,85,80|das Gesicht des Mädchens, mit schwarzem Haar und Haarschmuck
+upcut_04_40@160,95,50,30|die erhobenen Fäuste des Mädchens
+upcut_04_40@95,70,80,122|die schwarze Federboa und die dunkle Kleidung der Frau
+upcut_04_40@140,120,85,72|das rosa Oberteil und der Gürtel des Mädchens
+upcut_04_40@30,35,200,155|ein sonniges Fenster
+upcut_04_41|Schwarzweißbild: Eine junge Frau mit langen schwarzen Haaren, Sommersprossen und großen Kreolen, in dunklem Mantel mit Krawatte, unter einem Lichtstrahl.
+upcut_04_41@95,40,65,70|ihr Gesicht, mit Sommersprossen und Kreolen
+upcut_04_41@85,95,95,97|ihr dunkler Mantel und ihre Krawatte
+upcut_04_42|Schwarzweißbild: Die junge Frau mit langen schwarzen Haaren und Kreolen, neben ihr ein großer Mann mit zurückgebundenen langen Haaren und gemustertem Schal, beide unter Lichtstrahlen.
+upcut_04_42@95,40,65,70|das Gesicht der jungen Frau
+upcut_04_42@85,95,85,97|dunkler Mantel und Krawatte der jungen Frau
+upcut_04_42@185,10,70,70|das Gesicht des Mannes, mit zurückgebundenen langen Haaren
+upcut_04_42@195,65,60,40|ein gemusterter Schal
+upcut_04_42@165,60,110,132|der dunkle Mantel des Mannes
+upcut_04_43|Schwarzweißbild: Die junge Frau mit langen schwarzen Haaren und Kreolen, der große Mann mit zurückgebundenen langen Haaren und gemustertem Schal, und zwischen ihnen im Hintergrund ein dritter Mann mit kurzem Haar, von hinten gesehen.
+upcut_04_43@95,40,65,70|das Gesicht der jungen Frau
+upcut_04_43@85,95,85,97|dunkler Mantel und Krawatte der jungen Frau
+upcut_04_43@140,5,55,90|ein Mann mit kurzem Haar im Hintergrund, von hinten gesehen
+upcut_04_43@185,10,70,70|das Gesicht des großen Mannes, mit zurückgebundenen langen Haaren
+upcut_04_43@195,65,60,40|ein gemusterter Schal
+upcut_04_43@165,60,110,132|der dunkle Mantel des großen Mannes
+upcut_04_44|Breites Bild: Ein Mann mit Schnurrbart, zurückgekämmtem Haar und zerlumptem Mantel über schwarzem Hemd und weißer Krawatte steht mit einer Pistole vor einem sonnigen Fenster. Links eine Flagge an einem Mast, in der Mitte eine Säule, rechts ein hohes dunkles Fenster mit Bäumen.
+upcut_04_44@125,30,60,50|das Gesicht des Mannes, mit Schnurrbart
+upcut_04_44@85,60,120,132|ein zerlumpter Mantel über schwarzem Hemd und weißer Krawatte
+upcut_04_44@165,95,40,40|eine Pistole in seiner Hand
+upcut_04_44@0,30,25,162|eine Flagge an einem Mast
+upcut_04_44@25,35,200,157|ein sonniges Fenster
+upcut_04_44@255,0,85,192|eine Säule
+upcut_04_44@350,0,162,192|ein hohes dunkles Fenster mit Bäumen draußen
+upcut_04_45|Hohes Bild eines Handgemenges: Ein Mann mit Schnurrbart und zerlumptem Mantel richtet von hinten links eine Pistole. Ein Mann mit stacheligem Haar und Mantel mit Pelzkragen hält eine Waffe hoch, während sich eine Frau mit weißem Haar und schwarzer Federboa an seinen Arm klammert. Unten links sitzt ein Mädchen mit schwarzem Haar und Haarschmuck mit offenem Mund auf dem Boden. Ein rot-gold gestreifter Teppich.
+upcut_04_45@45,20,100,260|ein Mann mit Schnurrbart und zerlumptem Mantel, der eine Pistole richtet
+upcut_04_45@95,70,25,25|seine Pistole
+upcut_04_45@140,20,140,150|ein Mann mit stacheligem Haar und Mantel mit Pelzkragen
+upcut_04_45@140,30,30,30|eine hochgehaltene Waffe
+upcut_04_45@195,95,90,105|eine Frau mit weißem Haar und schwarzer Federboa
+upcut_04_45@140,165,175,219|das lange schwarze Kleid der Frau
+upcut_04_45@45,190,100,140|ein Mädchen mit schwarzem Haar und Haarschmuck, auf dem Boden sitzend
+upcut_04_45@85,250,80,134|die Stiefel und Beine eines Mannes
+upcut_04_45@0,185,341,199|ein rot-gold gestreifter Teppich
+upcut_04_46|Ein Stapel Papiere. Die oberste Seite trägt den Titel Vorfall KG-8, Seite 7 von 10, mit Text und einem Foto von zwei Männern mit langen Haaren in Anzügen vor einer Messlatte.
+upcut_04_46@170,15,100,20|der Titel: Vorfall KG-8
+upcut_04_46@130,90,80,40|ein Foto von zwei Männern vor einer Messlatte
+upcut_04_46@155,30,110,60|Kleingedruckter Text
+upcut_04_46@100,130,120,40|weiteres Kleingedrucktes
+upcut_04_47|Ein Stapel Papiere. Die oberste Seite trägt den Titel Vorfall KG-8, Seite 8 von 10, mit Text und einem Bild einer schwarzen Karte mit weißem Vogelsymbol.
+upcut_04_47@170,15,100,20|der Titel: Vorfall KG-8
+upcut_04_47@135,90,70,45|eine schwarze Karte mit weißem Vogelsymbol
+upcut_04_47@155,30,110,60|Kleingedruckter Text
+upcut_04_47@100,130,120,40|weiteres Kleingedrucktes
+upcut_04_48|Hohes Sepiabild eines leeren Gerichtssaals von der Galerie aus: hinten die Richterbank unter einem Waagensymbol, in der Mitte der Zeugenstand, auf jeder Seite die Bänke von Verteidigung und Anklage, vorne ein Stuhl mit Blick zum Stand und Seilabsperrungen an Pfosten.
+upcut_04_48@130,5,80,45|ein Waagensymbol
+upcut_04_48@90,90,165,80|die Richterbank
+upcut_04_48@130,150,85,45|der Zeugenstand
+upcut_04_48@75,185,60,105|die Bank der Verteidigung
+upcut_04_48@210,185,60,105|die Bank der Anklage
+upcut_04_48@140,265,60,60|ein Stuhl in der Mitte
+upcut_04_48@60,240,40,110|Absperrpfosten links
+upcut_04_48@245,240,40,110|Absperrpfosten rechts
+upcut_04_48@0,340,341,44|eine Seilabsperrung vorne
+upcut_04_48@0,150,70,100|Zuschauerplätze links
+upcut_04_48@275,150,66,100|Zuschauerplätze rechts
+upcut_04_50|Eine schwarze Karte mit einem großen weißen Vogelsymbol in der Mitte und kleinen weißen Federmarken in jeder Ecke.
+upcut_04_50@140,50,65,80|ein weißes Vogelsymbol
+upcut_04_50@60,10,215,182|eine schwarze Karte
+upcut_04_51|Ein Raum in grünem Licht: in der Mitte ein Steinkamin mit Holzscheiten, rechts ein kleiner Tresor mit Drehrad und links der Rand eines Vorhangs, gelb umrandet. An der Rückwand des Kamins ist eine kleine X-förmige Markierung.
+upcut_04_51@90,15,170,150|ein Steinkamin
+upcut_04_51@150,105,70,40|Holzscheite im Kamin
+upcut_04_51@155,85,20,15|eine kleine X-förmige Markierung an der Rückwand des Kamins
+upcut_04_51@270,55,71,100|ein kleiner Tresor mit Drehrad
+upcut_04_51@0,0,25,115|der Rand eines Vorhangs, gelb umrandet
+upcut_04_51@130,0,90,25|etwas auf dem Kaminsims
+upcut_04_52|Ein verrußter Raum: ein Steinkamin mit verbranntem Schutt und ein paar verkohlten Gegenständen darin, und eine kleine X-förmige Markierung an seiner Rückwand eingeritzt. Rechts steht ein kleiner grauer Tresor mit Drehrad.
+upcut_04_52@90,15,170,150|ein Steinkamin
+upcut_04_52@170,105,55,40|verbrannter Schutt und verkohlte Gegenstände im Kamin
+upcut_04_52@160,95,25,25|eine kleine X-förmige Markierung an der Rückwand des Kamins
+upcut_04_52@130,0,90,25|verbrannte Dinge auf dem Kaminsims
+upcut_04_52@270,55,71,100|ein kleiner grauer Tresor mit Drehrad
+upcut_04_52@0,0,90,192|eine verrußte Wand und ein verrußter Boden links
+upcut_04_53|Ein verbrannter Schreibtisch von oben, voller Ruß: links ein umgekippter Bürostuhl, auf dem Tisch eine blaue Schachtel, ein kleines Tintenfass, ein Telefon, eine schwarze Schachtel und ein Stapel verbrannter Papiere. Schutt liegt auf dem Boden verstreut.
+upcut_04_53@20,15,165,150|ein umgekippter Bürostuhl
+upcut_04_53@205,50,50,35|eine blaue Schachtel
+upcut_04_53@195,85,30,30|ein kleines Tintenfass
+upcut_04_53@165,115,50,30|ein Telefon
+upcut_04_53@235,95,40,45|eine schwarze Schachtel
+upcut_04_53@240,10,60,40|ein Stapel verbrannter Papiere
+upcut_04_53@290,10,30,30|ein kleiner runder Gegenstand
+upcut_04_53@0,0,80,90|Schutt auf dem Boden
+upcut_04_55|Das Büro des Botschafters in grünem Licht, mit eingezeichneten Umrissen: links eine Ritterstatue auf einem Sockel, an der Wand eine Ausstellungstafel mit Messern, ein Messer gelb umrandet, Regale mit Dekoration, eine Standuhr weiß und gelb umrandet und rechts eine Tür.
+upcut_04_55@25,20,45,150|eine Ritterstatue auf einem Sockel
+upcut_04_55@70,30,60,35|eine Ausstellungstafel mit Messern
+upcut_04_55@90,35,20,25|ein gelb umrandetes Messer
+upcut_04_55@195,20,65,150|eine Standuhr, weiß und gelb umrandet
+upcut_04_55@155,0,60,95|Regale mit Dekoration
+upcut_04_55@255,25,65,165|eine Tür
+upcut_04_56|Das Büro des Botschafters in Farbe: links eine goldene Ritterstatue auf einem blauen Sockel, an der Wand eine Ausstellungstafel mit zwei Messern, Regale mit einer kleinen Freiheitsstatue, einem Adler und einer Bärenfigur, eine hohe Standuhr und rechts eine Holztür. Unten links liegen zerbrochene Stücke auf dem Boden, in der Mitte verbrannter Schutt.
+upcut_04_56@25,20,45,85|eine goldene Ritterstatue
+upcut_04_56@25,100,45,80|ein blauer Sockel
+upcut_04_56@70,30,60,35|eine Ausstellungstafel mit zwei Messern
+upcut_04_56@155,0,60,25|eine kleine Freiheitsstatue
+upcut_04_56@160,40,40,20|eine Adlerfigur
+upcut_04_56@165,60,30,25|eine Bärenfigur
+upcut_04_56@195,25,50,140|eine hohe Standuhr
+upcut_04_56@255,25,65,165|eine Holztür
+upcut_04_56@0,140,95,52|zerbrochene Stücke auf dem Boden
+upcut_04_56@160,150,80,42|verbrannter Schutt auf dem Boden
+upcut_04_56@70,0,60,30|etwas, das oben hängt
+upcut_04_58|Nahaufnahme der Hand eines Mannes an seiner Seite, im dunklen Anzug, die eine schwarze Karte mit weißem Vogelsymbol hält, neben einer Autotür.
+upcut_04_58@140,10,55,90|die Hand eines Mannes
+upcut_04_58@130,65,65,85|eine schwarze Karte mit weißem Vogelsymbol
+upcut_04_58@190,0,151,192|der dunkle Anzug eines Mannes
+upcut_04_58@0,75,190,117|eine Autotür
+upcut_04_61|Schwarzweißbild bei Nacht: Aus einem Fenster oben links schießen zwei Hände mit einer Armbrust. Vom Bolzen zieht sich ein Kabel über die Lücke zu einem Fenster des gegenüberliegenden Gebäudes.
+upcut_04_61@0,0,110,90|Hände, die an einem Fenster eine Armbrust halten
+upcut_04_61@80,10,90,50|eine Armbrust
+upcut_04_61@110,55,140,45|ein Kabel, das sich über die Lücke zieht
+upcut_04_61@195,60,60,40|ein Bolzen, der das gegenüberliegende Gebäude trifft
+upcut_04_61@200,0,141,192|das gegenüberliegende Gebäude mit beleuchteten Fenstern
+upcut_04_61@0,90,200,102|die Wand des nahen Gebäudes
+upcut_04_62|Das Büro des Botschafters in Farbe: an der Wand ein Schwert, eine Armbrust und ein Speer, eine Ausstellungstafel mit drei Messern mit goldenen Griffen, in der Mitte eine goldene Ritterstatue auf einem weiß-blauen Sockel, links ein Topfbaum mit geschnitztem Gesicht, ein Deckenventilator über einem großen Blumenwappen und rechts ein kleiner Schreibtisch mit Vase und Bilderrahmen.
+upcut_04_62@75,30,65,15|ein Schwert
+upcut_04_62@80,40,45,45|eine Armbrust
+upcut_04_62@50,60,35,100|ein Speer
+upcut_04_62@80,85,55,35|eine Ausstellungstafel mit drei Messern
+upcut_04_62@140,80,40,80|eine goldene Ritterstatue
+upcut_04_62@135,145,55,47|ein weiß-blauer Sockel
+upcut_04_62@0,60,55,125|ein Topfbaum mit geschnitztem Gesicht
+upcut_04_62@130,0,155,60|ein Deckenventilator
+upcut_04_62@165,20,120,125|ein großes Blumenwappen an der Wand
+upcut_04_62@280,85,61,80|ein kleiner Schreibtisch mit Vase und Bilderrahmen
+upcut_04_68|Ein Mann mit stacheligem Haar, Sonnenbrille und großem Mantel mit Pelzkragen steht grinsend in der Mitte, auf jeder Seite zwei Wachen in Uniform und Mütze, alle von hinten beleuchtet.
+upcut_04_68@120,10,110,182|ein Mann mit stacheligem Haar, Sonnenbrille und Mantel mit Pelzkragen
+upcut_04_68@0,75,120,117|zwei Wachen in Uniform und Mütze links
+upcut_04_68@220,75,121,117|zwei Wachen in Uniform und Mütze rechts
+upcut_04_68@140,140,60,20|ein Gürtel mit großer Schnalle
+upcut_04_70|Kommissar Gumshoe im grünen Mantel salutiert und grinst aufgeregt, den Griff eines Holzwagens oder Holztischs vor sich, hinter ihm strahlendes Licht. Rechts an der Wand ein Plakat und Papiere.
+upcut_04_70@105,0,150,192|Gumshoe im grünen Mantel, salutierend
+upcut_04_70@65,120,185,72|eine Holzkiste oder ein Holzwagen
+upcut_04_70@175,95,70,50|ein Griff in seiner Hand
+upcut_04_70@270,75,71,117|Plakate und Papiere an der Wand
+upcut_04_70@30,70,35,45|ein weißes Papier an der Wand
+upcut_04_71|Eine Frau in rot-rosa Kostüm mit großer Frisur steht mit einem dünnen Schwert da. Neben ihr kniet ein Darsteller in silbernem Rüstungskostüm mit langen Röhren auf dem Rücken, einen Fächer in der Hand, die Hand auf dem Kopf einer kleinen silbernen Roboterfigur mit einem leuchtenden Fleck auf der Brust und Tropfen auf dem Boden ringsum.
+upcut_04_71@70,20,65,150|eine Frau in rot-rosa Kostüm mit einem dünnen Schwert
+upcut_04_71@115,35,135,145|ein Darsteller in silbernem Rüstungskostüm mit langen Röhren, kniend
+upcut_04_71@205,55,40,40|ein Fächer
+upcut_04_71@225,120,35,60|eine kleine silberne Roboterfigur mit einem leuchtenden Fleck auf der Brust
+upcut_04_71@225,165,35,20|Tropfen auf dem Boden
+upcut_04_73|Der blumenförmige Handschutz eines Messergriffs aus geschnitztem Holz, mit fünf Blütenblättern und Spitzen dazwischen. Ein Blütenblatt oben rechts fehlt.
+upcut_04_73@100,20,140,140|ein blumenförmiger Handschutz mit fünf Blütenblättern
+upcut_04_73@180,35,55,60|die Stelle, an der ein Blütenblatt fehlt
+upcut_04_73@140,0,100,30|der dunkle Griff über dem Handschutz
+upcut_04_74|Der blumenförmige Handschutz eines Messergriffs aus geschnitztem Holz, mit fünf vollständigen Blütenblättern und Spitzen dazwischen.
+upcut_04_74@100,20,140,140|ein blumenförmiger Handschutz mit fünf vollständigen Blütenblättern
+upcut_04_74@140,0,100,30|der dunkle Griff über dem Handschutz
+upcut_04_76|Ein Büro mit einem Steinkamin in der Mitte, Flaggen auf dem Kaminsims und verbrannten Scheiten darin. An der Rückwand des Kamins ist eine kleine X-förmige Markierung. Links ein hölzerner Sekretär mit einer Blumenvase und einem gerahmten Foto, vorne ein Schreibtisch mit Büchern und Federkiel, rechts ein Fenster mit einem Wasserkessel.
+upcut_04_76@95,10,155,150|ein Steinkamin
+upcut_04_76@120,0,110,30|Flaggen auf dem Kaminsims
+upcut_04_76@140,100,55,30|verbrannte Scheite im Kamin
+upcut_04_76@175,80,15,15|eine kleine X-förmige Markierung an der Rückwand des Kamins
+upcut_04_76@0,45,115,105|ein hölzerner Sekretär
+upcut_04_76@40,15,25,40|eine Blumenvase
+upcut_04_76@60,30,35,25|ein gerahmtes Foto
+upcut_04_76@125,135,95,57|ein Schreibtisch mit Büchern und Federkiel
+upcut_04_76@315,60,26,45|ein Wasserkessel am Fenster
+upcut_04_77|Dasselbe Büro: Die Scheite im Kamin sind zur Seite geschoben, und die Rückwand des Kamins ist wie eine Geheimtür geöffnet, mit der X-förmigen Markierung darauf.
+upcut_04_77@95,10,155,150|ein Steinkamin
+upcut_04_77@160,65,45,60|die Rückwand des Kamins, wie eine Geheimtür geöffnet
+upcut_04_77@140,100,30,30|zur Seite geschobene Scheite
+upcut_04_77@0,45,115,105|ein hölzerner Sekretär
+upcut_04_77@40,15,55,45|eine Blumenvase und ein gerahmtes Foto
+upcut_04_77@125,135,95,57|ein Schreibtisch mit Büchern und Federkiel
+upcut_04_78|Der verbrannte Schreibtisch von oben, die Schublade herausgezogen: in der Schublade Stifte, ein kleiner orangefarbener Notizblock mit seltsamer Form, wie ein Felsen mit flacher Oberseite auf einem breiten Sockel, der zu beiden Seiten spitz ausläuft, und eine Schere. Links ein umgekippter Bürostuhl, auf dem Tisch eine blaue Schachtel, ein Tintenfass, ein Telefon, eine schwarze Schachtel und verbrannte Papiere.
+upcut_04_78@105,70,60,85|eine offene Schublade
+upcut_04_78@160,80,30,15|ein Stift in der Schublade
+upcut_04_78@140,95,25,20|ein kleiner orangefarbener Notizblock in der Schublade mit seltsamer Form: ein Block mit flacher Oberseite auf einem breiten Sockel, der zu beiden Seiten spitz ausläuft, wie eine Felsformation in der Wüste
+upcut_04_78@130,115,35,20|ein Stift in der Schublade
+upcut_04_78@20,15,140,150|ein umgekippter Bürostuhl
+upcut_04_78@205,50,50,35|eine blaue Schachtel
+upcut_04_78@195,85,30,30|ein kleines Tintenfass
+upcut_04_78@165,115,50,30|ein Telefon
+upcut_04_78@235,95,40,45|eine schwarze Schachtel
+upcut_04_78@240,10,60,40|ein Stapel verbrannter Papiere
+upcut_04_79|Ein schwarzes Auto von der Seite. Durch die Fenster sieht man hinten einen Mann mit langen braunen Haaren im dunklen Anzug und vorne einen Beifahrer.
+upcut_04_79@105,45,180,90|ein Mann mit langen braunen Haaren im dunklen Anzug, auf dem Rücksitz
+upcut_04_79@0,50,105,100|das vordere Fenster, mit einem Beifahrer
+upcut_04_79@130,50,15,15|ein kleines Emblem am Auto
+upcut_04_79@0,135,341,57|die Autotür und Griffe
+upcut_04_80|Eine Flagge mit gelben, weißen, roten, weißen und gelben Streifen. In der Mitte ein dunkler Schild mit gelbem Blumenwappen zwischen zwei dunklen, mit grünen Ranken umwachsenen Türmen, darunter ein rot-gelbes Band.
+upcut_04_80@140,40,65,90|ein dunkler Schild mit gelbem Blumenwappen
+upcut_04_80@115,40,30,90|ein dunkler Turm mit grünen Ranken, links
+upcut_04_80@195,40,30,90|ein dunkler Turm mit grünen Ranken, rechts
+upcut_04_80@145,110,55,20|ein rot-gelbes Band
+upcut_04_80@65,10,210,150|die gestreifte Flagge
+upcut_04_83|Der kleine weiße Tresor mit offener Tür, jetzt mit Inhalt: im oberen Fach eine grüne Statuette einer Schlange oder eines Drachen und ein runder Teller mit einem Bergbild, im unteren Fach eine goldene Figur und ein Blatt Papier.
+upcut_04_83@120,25,105,135|ein weißer Tresor, offen
+upcut_04_83@135,60,30,45|eine grüne Statuette einer Schlange oder eines Drachen
+upcut_04_83@165,60,40,35|ein runder Teller mit einem Bergbild
+upcut_04_83@135,105,30,20|eine goldene Figur
+upcut_04_83@160,105,40,30|ein Blatt Papier
+upcut_04_83@215,55,80,135|die offene Tresortür
+upcut_04_84|Ein dunkles Büro bei Nacht mit Blick auf die Stadt und den Mond durch ein großes Fenster. Eine schattenhafte Gestalt in der Mitte richtet eine Waffe auf Edgeworth, der rechts neben Bücherregalen steht. Ein großer Schreibtisch mit Telefon, links ein Sofa und Dekoration auf dem Regal unter dem Fenster.
+upcut_04_84@165,95,60,97|eine schattenhafte Gestalt, die eine Waffe richtet
+upcut_04_84@205,105,20,15|eine Waffe
+upcut_04_84@230,80,30,75|Edgeworth
+upcut_04_84@105,80,130,55|ein großer Schreibtisch
+upcut_04_84@200,75,25,20|ein Telefon
+upcut_04_84@0,80,85,60|ein Sofa
+upcut_04_84@95,0,160,60|ein großes Fenster mit Blick auf die Stadt und den Mond
+upcut_04_84@100,10,40,35|eine Blumenvase
+upcut_04_84@135,30,120,30|Dekoration auf dem Regal
+upcut_04_84@250,0,91,160|Bücherregale
+upcut_04_87|Breites Bild eines Gartens: in der Mitte ein runder Brunnen mit Blumen auf dem Wasser, dahinter ein lila Rednerpult auf einer Bühne mit rotem Teppich unter einer Flagge, links die Statue eines knienden Ritters, der ein Schwert hebt, am rechten Rand des Brunnens die Statue einer knienden Frau, Rosenbüsche, ein kleiner Hocker, oben links eine Tür mit Stufen und Scheinwerfer.
+upcut_04_87@195,75,230,70|ein runder Brunnen mit Blumen auf dem Wasser
+upcut_04_87@265,10,55,40|ein lila Rednerpult
+upcut_04_87@205,30,140,50|eine Bühne mit rotem Teppich
+upcut_04_87@180,0,170,30|eine Flagge
+upcut_04_87@55,30,55,135|die Statue eines knienden Ritters, der ein Schwert hebt
+upcut_04_87@365,75,50,100|die Statue einer knienden Frau
+upcut_04_87@160,30,25,30|ein kleiner Hocker
+upcut_04_87@60,0,90,75|eine Tür mit Stufen
+upcut_04_87@10,85,40,55|Scheinwerfer links
+upcut_04_87@415,130,40,40|ein Scheinwerfer rechts
+upcut_04_87@0,0,55,110|Rosenbüsche links
+upcut_04_87@420,0,92,192|Rosenbüsche rechts
+upcut_04_87@0,175,512,17|Blumen am unteren Rand
+upcut_04_88|Die Freilichtbühne in einem gelben Lichtblitz: Der Schatten einer Gestalt mit spitzem Horn oder Kamm fällt auf die Flagge hinter dem Rednerpult.
+upcut_04_88@40,10,200,120|die Flagge, mit einem Schatten darauf
+upcut_04_88@110,10,95,100|der Schatten einer Gestalt mit spitzem Horn oder Kamm
+upcut_04_88@150,95,35,60|das Rednerpult
+upcut_04_88@225,100,116,75|Rosenbüsche
+upcut_04_88@0,150,35,30|ein kleiner Hocker
+upcut_04_89|Die Freilichtbühne in einem gelben Lichtblitz: Der Schatten einer Frau mit erhobenen Armen in Tanzpose fällt auf die Flagge hinter dem Rednerpult.
+upcut_04_89@40,10,200,120|die Flagge, mit einem Schatten darauf
+upcut_04_89@90,15,110,95|der Schatten einer Frau mit erhobenen Armen
+upcut_04_89@150,95,35,60|das Rednerpult
+upcut_04_89@225,100,116,75|Rosenbüsche
+upcut_04_89@0,150,35,30|ein kleiner Hocker
+upcut_04_90|Die Freilichtbühne in einem gelben Lichtblitz: Der Schatten einer Gestalt mit spitzem Kamm fällt auf die Flagge, darüber grüne Umrisse von Flügeln gezeichnet.
+upcut_04_90@40,10,200,120|die Flagge, mit einem Schatten darauf
+upcut_04_90@60,5,80,75|grüne Umrisse von Flügeln
+upcut_04_90@110,10,95,100|der Schatten einer Gestalt mit spitzem Kamm
+upcut_04_90@150,95,35,60|das Rednerpult
+upcut_04_90@225,100,116,75|Rosenbüsche
+upcut_04_90@0,150,35,30|ein kleiner Hocker
+upcut_04_91|Die Freilichtbühne in einem gelben Lichtblitz: Zwei Schatten überlagern sich auf der Flagge, eine Gestalt mit spitzem Kamm und eine Frau mit erhobenen Armen.
+upcut_04_91@40,10,200,120|die Flagge, mit Schatten darauf
+upcut_04_91@90,10,115,100|zwei sich überlagernde Schatten: eine Gestalt mit spitzem Kamm und eine Frau mit erhobenen Armen
+upcut_04_91@150,95,35,60|das Rednerpult
+upcut_04_91@225,100,116,75|Rosenbüsche
+upcut_04_91@0,150,35,30|ein kleiner Hocker
+upcut_04_92|Eine Steinstatue einer knienden Frau auf einem Sockel am Rand eines Brunnens, ein Arm erhoben, der andere über das Wasser gestreckt. Bunte Rosen schwimmen im Brunnen, und rechts steht ein Rosenbusch mit roten und orangen Rosen.
+upcut_04_92@135,25,90,145|eine Steinstatue einer knienden Frau
+upcut_04_92@180,25,30,30|ihre erhobene Hand
+upcut_04_92@95,105,40,20|ihre ausgestreckte Hand
+upcut_04_92@115,140,120,52|der Sockel der Statue
+upcut_04_92@0,25,220,95|im Brunnen schwimmende Rosen
+upcut_04_92@115,0,95,60|eine dunkle, geschwungene Skulptur oben
+upcut_04_92@265,0,76,140|ein Rosenbusch mit roten und orangen Rosen
+upcut_04_93|Eine Schnittzeichnung von zwei nebeneinanderstehenden Gebäuden. Das grüne links ist beschriftet mit Büro des Botschafters von Allebahst, oben ein grüner Raum. Das orange rechts ist beschriftet mit Büro des Sekretariats von Babahl, weiter unten ein oranger Raum. Eine Mauer trennt sie, und am Fuß des grünen Gebäudes ist ein blauer Fleck auf dem Boden.
+upcut_04_93@60,20,120,115|das grüne Gebäude: Büro des Botschafters von Allebahst
+upcut_04_93@80,35,40,25|ein grüner Raum oben
+upcut_04_93@130,115,20,15|ein blauer Fleck auf dem Boden
+upcut_04_93@145,25,40,125|eine Mauer zwischen den Gebäuden
+upcut_04_93@175,20,110,140|das orange Gebäude: Büro des Sekretariats von Babahl
+upcut_04_93@230,85,40,30|ein oranger Raum
+upcut_04_94|Eine weiße Karte mit einem großen schwarzen Vogelsymbol in der Mitte und kleinen schwarzen Federmarken in jeder Ecke.
+upcut_04_94@140,50,65,80|ein schwarzes Vogelsymbol
+upcut_04_94@60,10,215,182|eine weiße Karte
+upcut_04_96|Schwarzweißbild einer Garderobe: links ein Whiteboard auf Rollen mit der Aufschrift The Steel Samurai vs. The Jammin' Ninja und angehefteten Notizen, eine kleine Gestalt in einem Holzkarren, runde Hocker und rechts an der Wand Schminktische mit Spiegeln.
+upcut_04_96@25,0,105,85|ein Whiteboard: The Steel Samurai vs. The Jammin' Ninja
+upcut_04_96@90,65,70,70|eine kleine Gestalt in einem Holzkarren
+upcut_04_96@150,90,190,60|runde Hocker
+upcut_04_96@160,0,181,85|Schminktische mit Spiegeln
+upcut_04_97|Dieselbe Garderobe: Die kleine Gestalt sitzt im Holzkarren, und vor dem Karren stapeln sich viele Snackschachteln auf dem Boden.
+upcut_04_97@25,0,105,85|ein Whiteboard: The Steel Samurai vs. The Jammin' Ninja
+upcut_04_97@90,60,70,75|eine kleine Gestalt in einem Holzkarren
+upcut_04_97@105,115,95,50|Snackschachteln, auf dem Boden gestapelt
+upcut_04_97@150,90,190,60|runde Hocker
+upcut_04_97@160,0,181,85|Schminktische mit Spiegeln
+upcut_04_99|Ein zerlumpter dunkler Mantel, zusammengelegt, mit Knöpfen, einem Gürtel mit Goldschnalle und einem herabhängenden Ärmel. Das Innenfutter ist blau.
+upcut_04_99@70,20,205,120|ein zerlumpter dunkler Mantel
+upcut_04_99@75,65,40,70|das blaue Innenfutter
+upcut_04_99@195,95,30,40|eine Goldschnalle am Ärmel
+upcut_04_99@120,25,25,15|eine Goldschnalle am Kragen
+upcut_04_a1|Ein Plan von zwei nebeneinanderstehenden Gebäuden: links Allebahst und rechts Babahl, jedes mit zwei Fenstern. Von oben führt eine Lücke zwischen sie hinein, darin ein dunkler Streifen. An jeder äußeren Ecke stehen kleine Torpfosten.
+upcut_04_a1@60,20,80,110|das Gebäude von Allebahst
+upcut_04_a1@200,20,80,110|das Gebäude von Babahl
+upcut_04_a1@140,20,60,75|eine Lücke zwischen den Gebäuden
+upcut_04_a1@155,0,30,65|ein dunkler Streifen in der Lücke
+upcut_04_a1@50,105,15,25|ein Torpfosten links
+upcut_04_a1@280,105,15,25|ein Torpfosten rechts
+upcut_04_a2|Ein Fensterbrett bei Nacht: links eine Kupfergießkanne und ein Pflanzkasten mit zwei Passionsblumen, die an roten Stäben ranken, jede mit einer weiß-lila Blüte. Draußen Stadtgebäude mit beleuchteten Fenstern.
+upcut_04_a2@45,80,65,70|eine Kupfergießkanne
+upcut_04_a2@125,90,165,100|ein Pflanzkasten mit Erde
+upcut_04_a2@155,25,50,100|eine Passionsblume mit weiß-lila Blüte an einem roten Stab
+upcut_04_a2@215,20,60,100|eine Passionsblume mit weiß-lila Blüte an einem roten Stab
+upcut_04_a2@70,0,271,90|Stadtgebäude mit beleuchteten Fenstern
+upcut_04_a4|Der Raum mit dem Kamin in grünem Licht: Der Schutt im Kamin ist gelb umrandet. An der Rückwand ist eine kleine X-förmige Markierung, rechts ein kleiner Tresor mit Drehrad und links der gelb umrandete Rand eines Vorhangs.
+upcut_04_a4@145,110,75,30|Schutt im Kamin, gelb umrandet
+upcut_04_a4@155,85,20,15|eine kleine X-förmige Markierung an der Rückwand des Kamins
+upcut_04_a4@90,15,170,150|ein Steinkamin
+upcut_04_a4@270,55,71,100|ein kleiner Tresor mit Drehrad
+upcut_04_a4@0,0,25,115|der Rand eines Vorhangs, gelb umrandet
+upcut_04_a6|Eine 3D-Zeichnung der beiden Botschaftsgebäude in einem ummauerten Gelände: links ein grünes Gebäude, rechts ein oranges, und davor zwischen ihnen ein niedriges Gebäude.
+upcut_04_a6@55,15,125,115|das grüne Gebäude links
+upcut_04_a6@175,20,115,145|das orange Gebäude rechts
+upcut_04_a6@70,105,125,75|ein niedriges Gebäude davor
+upcut_04_a6@0,50,341,142|die umgebende Mauer
+upcut_04_a7|Ein Grundriss: links die Freilichtbühne, in der Mitte zwei Räume mit einem Quadrat quer über der Wand zwischen ihnen, unten der Aufzug und rechts der Flur mit einer Tür von jedem Raum. Im oberen Raum an seiner Tür ist ein grüner Kreis mit S, im unteren Raum ein blauer Kreis mit K.
+upcut_04_a7@0,20,95,150|die Freilichtbühne
+upcut_04_a7@95,20,140,60|der obere Raum
+upcut_04_a7@95,80,140,60|der untere Raum
+upcut_04_a7@110,65,35,35|ein Quadrat quer über der Wand zwischen den Räumen
+upcut_04_a7@185,55,25,25|ein grüner Kreis mit S
+upcut_04_a7@170,105,25,25|ein blauer Kreis mit K
+upcut_04_a7@95,140,40,40|der Aufzug
+upcut_04_a7@235,20,55,160|der Flur
+upcut_04_a8|Eine Flagge: oben gelb, in der Mitte weiß und unten rot, mit einem Blumenwappen in einem grünen Kranz und einem rot-gelben Band in der Mitte.
+upcut_04_a8@125,40,95,90|ein Blumenwappen in einem grünen Kranz
+upcut_04_a8@65,10,210,150|die gestreifte Flagge
+upcut_04_a9|Eine Flagge: links ein rotes Dreieck, oben rechts weiß und unten rechts gelb. Im roten Dreieck ein dunkler Schild mit gelbem Wappen zwischen zwei dunklen Türmen, darunter ein weiß-gelbes Band.
+upcut_04_a9@85,60,60,50|ein dunkler Schild mit gelbem Wappen
+upcut_04_a9@70,60,15,50|ein dunkler Turm links
+upcut_04_a9@120,60,15,50|ein dunkler Turm rechts
+upcut_04_a9@65,10,105,150|ein rotes Dreieck
+upcut_04_a9@170,10,105,75|oben rechts weiß
+upcut_04_a9@170,85,105,75|unten rechts gelb
+upcut_04_b0|Nahaufnahme eines Schwerts: eine lange Klinge mit einem eingravierten Muster entlang, und ein goldenes Stichblatt mit einem rosa-weißen Blumenwappen in einem Kranz. Oben rechts ein Holzgriff.
+upcut_04_b0@0,60,230,132|eine lange Klinge mit eingraviertem Muster
+upcut_04_b0@180,5,115,90|ein goldenes Stichblatt mit rosa-weißem Blumenwappen
+upcut_04_b0@260,0,81,70|ein Holzgriff
+upcut_04_b1|Zwei Wappen nebeneinander, getrennt durch eine schwarze Linie. Links ein Blumenwappen mit gelben Blütenblättern auf einem orangen Kreis in einem grünen Kranz mit rot-gelbem Band. Rechts ein dunkler Schild mit gelbem Wappen zwischen zwei dunklen Türmen mit weiß-gelbem Band.
+upcut_04_b1@35,15,135,120|ein Blumenwappen in einem grünen Kranz mit rot-gelbem Band
+upcut_04_b1@205,25,70,95|ein dunkler Schild mit gelbem Wappen
+upcut_04_b1@170,20,35,105|ein dunkler Turm
+upcut_04_b1@275,20,35,105|ein dunkler Turm
+upcut_04_b1@150,0,50,192|eine schwarze Linie zwischen den Wappen
+upcut_04_b2|Ein Plakat des Jammin' Ninja: Ein Ninja in Blau mit gelbem Stern auf der Maske sitzt unter einem Baum und spielt eine rote Gitarre, umgeben von einem Hasen, einem Marderhund, einem kleinen grünen Vogel und einem Hirsch. Der Titel Jammin' Ninja steht oben links auf einer roten Gitarrenform.
+upcut_04_b2@30,0,130,65|der Titel: Jammin' Ninja
+upcut_04_b2@150,25,150,160|ein Ninja in Blau, der eine rote Gitarre spielt
+upcut_04_b2@175,65,130,55|eine rote Gitarre
+upcut_04_b2@30,125,40,60|ein weißer Hase
+upcut_04_b2@50,100,65,50|ein Marderhund
+upcut_04_b2@105,140,25,20|ein kleiner grüner Vogel
+upcut_04_b2@245,115,85,77|ein Hirsch
+upcut_04_b2@210,0,100,120|ein Baum
+upcut_04_b2@0,65,341,60|ein Kiefernwald
+upcut_04_b3|Schwarzweißbild des Brunnens mit dem GATEWATER-Schild: Davor stehen ein Mädchen mit Haarknoten und kurzem Rock, Edgeworth mit verschränkten Armen und Kommissar Gumshoe im Trenchcoat, der sich am Kopf kratzt.
+upcut_04_b3@100,80,40,85|ein Mädchen mit Haarknoten und kurzem Rock
+upcut_04_b3@160,75,40,90|Edgeworth, Arme verschränkt
+upcut_04_b3@215,85,45,90|Gumshoe im Trenchcoat, sich am Kopf kratzend
+upcut_04_b3@100,40,140,60|ein Leuchtschild: GATEWATER
+upcut_04_b3@50,55,240,65|das runde Brunnenbecken
+upcut_04_b3@0,65,40,50|ein Maskottchen am Bildrand
+upcut_04_09@135,15,65,140|eine goldene Statue eines Ritters mit Schwert
+upcut_04_09@120,125,95,67|ein weißer Sockel mit goldenen Verzierungen
+upcut_04_09@215,30,110,55|eine Vitrine mit zwei Messerklingen und einem leeren Platz dazwischen
+upcut_04_09@0,0,110,120|ein großes Wappen an der Wand
+upcut_04_09@220,0,100,30|etwas Verbranntes, das oben hängt
+upcut_04_09@230,150,111,42|Ruß auf dem Boden
+upcut_04_08@60,30,200,150|der Mann mit langen braunen Haaren, auf dem Teppich liegend
+upcut_04_08@130,45,40,25|eine blutige Wunde an seiner Brust
+upcut_04_08@190,40,50,20|ein blutiges Messer neben ihm
+upcut_04_08@145,85,25,20|eine kleine goldene Nadel an seiner Jacke
+upcut_04_08@225,20,116,140|zerbrochene goldene Stücke, auf dem Boden verstreut
+upcut_04_08@0,0,60,192|ein dunkler Holzschrank links
+upcut_04_29@5,25,115,55|eine Vitrine mit drei Messern in verzierten Scheiden
+upcut_04_29@140,15,65,140|eine goldene Statue eines Ritters mit Schwert
+upcut_04_29@120,120,100,72|ein weißer Sockel mit goldenen Verzierungen
+upcut_04_29@195,0,146,120|ein großes Blumenwappen an der Wand
+upcut_04_57@190,15,65,177|ein Mann mit langen braunen Haaren im dunklen Anzug
+upcut_04_57@185,125,20,20|eine schwarze Karte in seiner rechten Hand
+upcut_04_57@235,125,20,30|ein Messer in seiner linken Hand
+upcut_04_57@95,10,155,155|gläserne Eingangstüren
+upcut_04_57@235,30,20,25|ein Parkschild draußen
+upcut_04_57@160,55,15,25|ein Einfahrt-verboten-Schild draußen
+upcut_04_57@95,165,190,27|eine Fußmatte
+upcut_04_59@95,80,145,55|ein dunkles Auto mit kleinen Fahnen vorne
+upcut_04_59@120,105,20,15|kleine Fahnen vorne am Auto
+upcut_04_59@185,85,30,20|ein Mann mit langen braunen Haaren, der im Auto sitzt
+upcut_04_59@230,25,20,110|ein Parkschild
+upcut_04_59@95,10,155,155|gläserne Eingangstüren
+upcut_04_63@10,20,65,20|die Uhrzeit: 17:21 Uhr
+upcut_04_63@60,40,80,55|ein Wachmann, der an seinem Schreibtisch schreibt
+upcut_04_63@50,75,30,25|ein Namensschild und ein Stempel auf dem Schreibtisch
+upcut_04_63@105,75,25,20|ein gelbes Buch auf dem Schreibtisch
+upcut_04_63@145,0,40,50|ein Plakat: Allebahst heißt Sie willkommen
+upcut_04_63@150,50,35,45|kleine Plakate an der Wand
+upcut_04_63@100,85,241,107|ein roter Teppich, der zu einer Tür führt
+upcut_04_63@300,25,30,35|ein Schild an der Wand
+upcut_04_64@10,20,65,20|die Uhrzeit: 17:22 Uhr
+upcut_04_64@60,40,80,55|ein Wachmann, der an seinem Schreibtisch schreibt
+upcut_04_64@145,0,40,50|ein Plakat: Allebahst heißt Sie willkommen
+upcut_04_64@160,100,80,92|ein alter Mann mit langen grauen Haaren und dunklem Umhang, über einen Stock gebeugt
+upcut_04_64@100,85,241,107|ein roter Teppich
+upcut_04_65@10,20,65,20|die Uhrzeit: 17:23 Uhr
+upcut_04_65@60,40,80,55|ein Wachmann, der an seinem Schreibtisch schreibt
+upcut_04_65@145,0,40,50|ein Plakat: Allebahst heißt Sie willkommen
+upcut_04_65@225,30,65,140|ein Mann in weißem Anzug mit Schläuchen auf dem Rücken und einem Speer, der einen Wagen schiebt
+upcut_04_65@185,105,65,75|ein Holzwagen mit einer großen Stoffpuppe darin
+upcut_04_65@100,85,241,107|ein roter Teppich
+upcut_04_66@10,20,65,20|die Uhrzeit: 17:25 Uhr
+upcut_04_66@0,0,95,110|eine goldene Tür
+upcut_04_66@155,0,40,35|ein Plakat
+upcut_04_66@160,30,35,60|ein Plakat: Babahl
+upcut_04_66@245,45,45,45|ein Wachmann an seinem Schreibtisch hinter einem Fenster
+upcut_04_66@205,70,130,80|ein Schreibtisch mit einer Zeitung, einem Telefon und einem Notizblock
+upcut_04_66@0,85,230,107|ein blauer Teppich
+upcut_04_20@50,25,65,145|ein Mann in weißem Anzug mit Schläuchen auf dem Rücken
+upcut_04_20@155,40,45,90|eine goldene Ritterstatue
+upcut_04_20@50,45,45,35|eine Messersammlung an der Wand
+upcut_04_20@205,70,85,100|ein alter Mann mit langen grauen Haaren und Bart, in grünem Mantel mit roter Schärpe
+upcut_04_20@155,135,45,30|zwei Männer, die sich die Hand geben
+upcut_04_38@50,20,240,100|die Vorderseite eines Botschaftsgebäudes bei Nacht, mit erleuchteten Fenstern
+upcut_04_38@150,60,35,25|eine dunkle Gestalt, die durch die Luft fliegt
+upcut_04_38@95,120,95,50|eine große Flagge mit Blumenwappen, von einem Scheinwerfer beleuchtet
+upcut_04_38@175,110,60,55|Rollen von Stacheldraht
+# Second game close-ups (key: the picture's data name, cutXX_YYY).
+cut00_001|Der Rand der Bühne am See. Links eine Bühne mit rotem Vorhang und einer Reihe weißer und rosa Blumen oben. Eine Stange lehnt an der Bühne, und in der Mitte hängt eine hohe gestreifte Flagge in Dunkelviolett, Orange und Gelb; auf der Flagge ist ein kleines grünes Zeichen. Rechts füllt ein riesiges blaues Ballongesicht des Stählernen Samurai mit rotem Stirnband das Bild. Holzpfosten, durch ein Seil verbunden, stehen unten entlang, mit einem rosa Blütenbusch unten rechts.
+cut00_004|Ein einfacher Plan des Bühnenbereichs von oben. Die Bühne ist oben, mit einer Treppe in der Mitte, die nach unten führt. Darunter markieren Reihen von Seilabsperrungen einen Weg, mit Zuschauerbereichen links und rechts, von Bäumen gesäumt.
+cut00_006|Ein Schnappschuss der Bühne. Ein bärtiger Mann mit wildem orangefarbenem Haar im violetten Anzug steht hinter dem Rednerpult, mit einem roten Zeichen auf der Stirn. Zwei Leibwächter in schwarzen Anzügen stehen davor, jeder mit einem Metallkoffer; der rechte trägt eine weiße Halskrause. Oben rechts hängt eine gestreifte Flagge.
+cut00_009|Ein Foto aus der Menge. Ein lächelndes Mädchen mit einem großen Schlüssel im Haar posiert links im Vordergrund. Hinter ihr blickt eine Menge zur Bühne, wo ein Mann in Rosa neben dem Pult den Arm hebt, flankiert von Leibwächtern. In der Menge unten rechts hat jemand etwas Rotes am Kopf.
+cut00_00a|Ein Foto von panischen Menschen, die über den Rasen rennen, von unten gesehen. Die Beine eines Mannes und eine große Tasche füllen die Mitte. In der Menge, nahe der Mitte, ist eine Person in Rot.
+cut00_00b|Ein Blick aus der Nähe auf das Gras neben dem Samurai-Dogs-Stand. Links liegt eine Papierlaterne an einer Stange umgefallen im Gras. Die Glastheke des Stands und ein Samurai-Dogs-Banner sind rechts, mit einem Schießstand-Tisch unten rechts. Ein kleiner roter Gegenstand liegt unter dem Rand des Stands, und ein kleiner Gegenstand liegt unten im Gras neben einem weißen Hut.
+cut00_00c|Dieselbe Stelle neben dem Samurai-Dogs-Stand, jetzt mit einer roten Jacke, die offen im Gras liegt. Ihr Innenfutter und eine Tasche sind zu sehen. Der Stand und sein Banner sind rechts, und ein kleiner Gegenstand liegt unten im Gras.
+cut00_00d|Die Oberfläche eines Holzschreibtischs im Flugzeug. Ein violetter Ordner und Papiere liegen darauf, daneben eine schwarze Schutzweste mit der Aufschrift B.D.G.D. Hinten steht eine grün-goldene Drachenfigur, und ein Stapel kleiner bunter Beutel liegt in der rechten Ecke, nahe einem schwarzen Stuhl.
+cut00_010|Ein Papierplan mit dem Titel Sicherheitsplan Präsident, 19. März. Er markiert die Bühne mit Schachfiguren: Leitung, Turm, und Zweiter, Springer. Rote Handschrift sagt: Auch abgedeckt bei Angriff vom Wasser. Die Sicherheit des Präsidenten hat oberste Priorität! Zuschauerbereich muss jederzeit abgedeckt sein! Ein König steht in der Mitte der Bühne, und zwei Bauern stehen oben an der Treppe.
+cut00_011|Ein Mann im dunklen Anzug liegt tot auf einem roten Teppich, die Arme ausgebreitet, mit Blut unter der Brust. Ein offener Metallkoffer liegt rechts neben ihm. Eine Pistole liegt oben nahe seinem Kopf, und grüne Ärmel und Schuhe ragen um ihn herum hervor.
+cut00_012|Eine Wand aus neun kleinen Überwachungsmonitoren in einem Holzschrank. Die obere Reihe zeigt das Heck des Flugzeugs und Rauschen. Die mittlere Reihe zeigt ein rotes Plüschtier mit Hörnern, die Kabine des Flugzeugs mit Leuten darin und den Flügel des Flugzeugs. Die untere Reihe zeigt den Park mit Blütenbäumen und das Cockpit.
+cut01_01f|Weites Bild des Gefängnishofs. Links ein Hochspannungszaun mit Warnschild und ein steiniger Graben mit einem Skelett unten links. Entlang der Mauer: die Tür zum Stromraum, eine Sackkarre, zwei Rechen, ein Basketballkorb mit einem Ballwagen und ein Steinbrunnen rechts.
+cut02_027|Ein altes Schwarzweißfoto der Botschaftshalle. Links ein Brunnen mit Engelsstatuen, in der Mitte steht eine Frau im Dienstmädchenkleid, und ein Mann in Mantel und Hut und ein Junge mit Mütze stehen ihr gegenüber. Rechts steht ein Tisch voller Kuchen und Süßigkeiten.
+cut03_020|Der Dachgarten bei Nacht. Links leuchtet ein großer Blütenbaum, in der Mitte steht ein rosa Gewächshaus mit einem Rosenbogen und zwei Wasserspeier-Statuen, und rechts ist ein Zuckerwattestand. Vorne steht ein leuchtender Pegasus aus Lichtern.
+cut04_02c|Eine Nachtsicht-Ansicht des verschneiten Hofs vor einem Gebäude mit Uhrturm. Links vom Eingang steht eine Laterne, und Fußspuren führen durch den Schnee an Blumenbeeten vorbei. Vorne rechts steht ein Schneemann.
+cut01_000|Ein Mann liegt tot auf grauem Boden, den Kopf links. An seiner Kehle ist eine Wunde, darunter Blut. Eine gestreifte Decke, mit einem Seil verheddert, bedeckt rechts seine Beine. Eine kleine grüne Schachbrettschachtel liegt über seinem Kopf, und ein rosa Papier mit einem dunklen Fleck liegt an seiner Schulter.
+cut01_004|Ein Grundriss: Werkstatt A und Werkstatt B oben, drei Zellen, ein langer Gang mit einem runden Bereich und rechts der Hochsicherheitstrakt.
+cut01_007|Ein Regal an einer Zellenwand. Ein kleiner Schrank mit offenen Türen zeigt Bilder von Essen. Daneben eine Reihe Bücher, darunter 200 Tage bis zur Freiheit, Leben als Tierfriseur, Tiergefühle verstehen und Geld verdienen hinter Gittern. Ein Papier mit einem Kästchengitter liegt unten auf dem Tisch.
+cut01_008|Ein Grundriss mit dem Titel Untersuchungsgefängnis/Gefängnis (Auszug): Arrestzellen und Untersuchungsgefängnis links, Bürobereich und Büro des Direktors in der Mitte, ein schmaler Durchgang, der Hof, dann Gefängnis und Zellen rechts, unten durch einen Verbindungsgang verbunden.
+cut01_00b|Ein Werkstattboden aus Strohmatten. In der Mitte steht ein hölzernes Schachspiel mit laufender Partie. Meißel und ein Holzhammer liegen rechts auf einer Bank. Links stehen eine Tasse und ein Teller mit runden Crackern, und vorne liegen eine kleine Schnitzerei und ein Glöckchen. Unten rechts liegt eine hölzerne Gebetskette.
+cut01_00c|Eine kleine Zelle zum Trainieren. Rechts hängt ein roter Boxsack mit einer Zeichnung, und in der Mitte hängt ein Reifen an einer Kette. Plakate an der Wand sagen Champion und 5 Kilo abnehmen. Flaschen stehen auf einem Regal über dem Bett, links ist eine Sanduhr, und in der Ecke unten rechts steht ein Heizgerät.
+cut01_017|Nachtsicht-Ansicht eines Steinbrunnens unter einem Holzgestell mit einer Rolle. Vorne: eine gefaltete Decke mit zwei Metallklammern darauf, ein aufgerolltes Seil mit Haken, ein kleiner Stab und ein Gewicht mit der Aufschrift 30 lb. Rechts ist ein Fenster.
+cut01_019|Nachtsicht-Ansicht des Brunnens neben der Zirkusbühne. Ein Seil läuft von der Rolle oben am Holzgestell hinunter in den Brunnen, mit einer schräg darüberliegenden Stange. Vorne liegt eine Decke, und rechts steht das 30-lb-Gewicht.
+cut01_01b|Eine Reihe Schalter an einer Wand, jeder mit der Beschriftung ON oder OFF. Die oberen sind mit Hochspannung und Hof beschriftet. Die untere Reihe mit Kameras, Sensor A, Sensor B und Sensor C.
+cut01_025|Eine Ecke eines Lagerraums. Links steht ein hohes hölzernes Hebegestell mit Seil und Haken, neben Metallrohren. In der Mitte steht ein vergitterter Käfig. Vorne liegt eine gestreifte Decke mit einer Peitsche, und ein aufgerolltes Seil liegt auf dem Boden.
+cut01_027|Ein Blatt Papier mit einem handgezeichneten Schachbrett mit Türmen, Bauern, einem König und einem eingekreisten Läufer. Notizen daneben sagen: Nächster Zug: Läufer nach g2. Und dann? Turm... Nein... Bauer nach g6?
+cut01_028|Nahansicht eines Zellenbetts. Ein Kissen und eine offene Zeitung liegen am Kopfende, dunkle Kleidung liegt auf dem Bett, und daneben ist der Holzboden.
+cut01_02e|Der Werkstattboden aus Strohmatten mit dem hölzernen Schachspiel in der Mitte und Meißeln und einem Holzhammer auf der Bank rechts.
+cut01_030|Wieder die Trainingszelle: der rote Boxsack, der Reifen an der Kette, das Schild 5 Kilo abnehmen, die Flaschen auf dem Regal, die Sanduhr, das Heizgerät und jetzt eine kleine Schachtel auf dem Boden.
+cut01_036|Der Grundriss mit Werkstatt A oben links hervorgehoben.
+cut01_038|Der Grundriss Untersuchungsgefängnis/Gefängnis mit dem Untersuchungsgefängnis links hervorgehoben.
+cut01_03b|Der tote Mann auf dem grauen Boden, die Wunde an der Kehle, die gestreifte Decke und das Seil über den Beinen. Seine vordere Hand hält jetzt etwas. Die grüne Schachbrettschachtel liegt über seinem Kopf und das fleckige rosa Papier an seiner Schulter.
+cut02_005|Eine Küchenwand. Ein großer goldener Rahmen enthält ein Engelsgemälde mit dem Titel Das Kochbuch des Engels, darunter ein Schild mit Engel Bebe von Thorns. Am linken Rand des Rahmens ist ein kleines Zeichen. Darunter auf der Theke: ein offenes Buch namens Tagebuch der Verzweiflung mit einem Tintenfass und einer Feder und ein Kerzenleuchter mit der Aufschrift Das Licht des Lebens. Rechts an der Wand sind zwei orange Knöpfe.
+cut02_006|Dieselbe Küchenwand mit dem Engelsgemälde im goldenen Rahmen, dem offenen Buch, Tintenfass und Feder, dem Kerzenleuchter und den zwei orangen Knöpfen. Neben den Knöpfen ist jetzt ein Bedienfeld mit einer kleinen Anzeige und Schiebereglern zu sehen.
+cut02_008|Weites Bild einer Skulptur: ein Segelschiff, das durch braune Wellen bricht, mit einer offenen Schatztruhe davor. Etwas ragt aus dem Deckel der Truhe. Ein kleines Teil liegt auf dem runden Sockel, und rechts steht eine Tafel über das Schiff.
+cut02_00d|Die Vorderseite der Schlosstorte, ihre Tür offen. Im dunklen Eingang ein Klumpen und ein zusammengerolltes Papier. Auf jeder Seite hält ein kleiner Turm einen leeren Lampenhalter.
+cut02_00e|Die Vorderseite der Schlosstorte mit geschlossener Tür. Leuchtende rosa Vorhänge hängen davor, und auf jeder Seite steht eine goldene Lampe in einem Halter. Rechts sind ein Stecker und ein Kabel.
+cut02_017|Ein Foto zweier Glasvitrinen: eine mit einer Statue einer Frau und eines Jungen mit Leier, eine mit einer Ziegenstatue. Dahinter steht eine leuchtende Lampe auf dem Tisch.
+cut02_018|Ein blasses Gemälde der Meerjungfrauenstatue in ihrer Glasvitrine, mit roten Streifen darauf. Daneben liegt eine umgefallene Leiter, und vorne links steht ein Absperrpfosten.
+cut02_024|Ein Servierwagen mit rosa Tischdecke. Darauf: goldene Tassen und Untertassen, ein Korb mit Löffeln, ein Mondornament, sternförmige Schalen und rechts ein kleiner roter Karton.
+cut03_007|Der Sockel einer Statue auf einem Steinboden, umgeben von einer großen roten Blutlache.
+cut03_008|Eine Frau im weißen Anzug liegt tot auf dem Richtertisch, den Kopf links, mit Blut auf der Brust. Eine kleine violette Blume liegt auf ihrer Brust, etwas ist in ihrer vorderen Hand, und ein Notizbuch mit der Aufschrift Notizbuch, Kay liegt an ihrer anderen Hand. Unten rechts sind ein Richterhammer und sein Ständer.
+cut03_00d|Der Fuß eines großen Baums auf dem Dach bei Nacht, umgeben von abgefallenen Blütenblättern in einem runden Blumenbeet. Vorne ist ein quadratischer Deckel im Gras eingelassen, neben einem Geländer und einer Lampe.
+cut03_00e|Ein Fernsehnachrichtenbild mit der Markierung LIVE: SIEBZEHNJÄHRIGE IM ZUSAMMENHANG MIT ANWALTSMORD GESUCHT. Es zeigt ein hohes Gebäude bei Nacht mit einem Zifferblatt an der Seite und einem leuchtenden Streifen am Dach.
+cut03_00f|Ein Regal mit Waren und Preisschildern. Oben: ein flaches violettes Tuch für 240, eine kleine grüne Figur für 8.400 und eine Puppenstatue für 6.700. Rechts steht eine Schaufensterpuppe. Unten: ein Metalltresor, eine goldene Laterne, eine kleine Flasche und eine rosa Vase für 400.
+cut03_011|Eine Wand mit Masken an einem Gitter zum Preis von 50.000. Obere Reihe: eine goldene Maske, eine Blumenmaske, zwei Helmmasken. Mittlere Reihe: eine Maske mit roten Haaren, ein Vorhängeschloss, zwei silberne Masken. Unten eine Kiste mit Gegenständen zum Preis von 2.200. Links ist eine Leiter und rechts der riesige Steinkopf.
+cut03_012|Ein Foto einer Person in einem roten Kapuzenanzug von hinten, bei einer Leiter und einer Schaufensterpuppe, mit etwas in der Hand.
+cut03_019|Eine rot getönte Ansicht einer angeketteten Holzkiste. Etwas leuchtet schwach darin.
+cut03_01a|Eine rot getönte Ansicht einer Leiter an der Maskenwand. Zwei schwach leuchtende Stellen sind auf der Leiter, eine oben und eine unten.
+cut03_01b|Eine rot getönte Ansicht des Aufzugkäfigs. Eine schwach leuchtende Stelle ist auf seinem Boden.
+cut04_001|Ein Mann im violetten Mantel liegt tot in einem rissigen Loch in einem Betonboden, die Arme ausgebreitet. Ein goldener hornförmiger Gegenstand liegt am rechten Rand des Lochs, und oben links ist eine Treppe.
+cut04_007|Ein Foto eines Filmsets: eine Frau mit Brille und ein Junge in roter Jacke stehen neben einem großen roten Stiermonster. Links bei der Treppe steht ein Kamerakran.
+cut04_00b|Ein Dach. Ein riesiger roter Stierkopf mit großen Hörnern und einem Nasenring steht auf einer blauen Plane. Davor: eine violette Maschine und Farbeimer links, ein Holzgestell und rechts ein großer Ventilator auf hohem Ständer neben einem blauen Werkzeugkasten.
+cut04_00e|Ein dunkles Filmset bei Nacht. Ein Junge in roter Jacke steht mit ausgebreiteten Armen neben einem Loch im Boden. Links hängt ein Schild an einem Wagen.
+cut04_010|Ein Stadtplan: Bahnhof Sunset an einer gelben Bahnlinie, Dusk Street, Dawn Street, Sunrise Hall, das Bigg Building, Sunshine Harbor, die Deponie Daybreak, die Kläranlage Sundown, das Einkaufszentrum Day's End, der Mornington Park und das Sunshine Coliseum.
+cut04_012|Eine Garage. In der Mitte steht ein Motorrad mit einem Totenkopf vorne. Links ist eine grüne Werkzeugkiste, Werkzeuge hängen an der Wand, rechts sind Taschen gestapelt, und vor der Werkzeugkiste liegt etwas Rotes auf dem Boden.
+cut04_015|Ein grünes Metalltor mit Vorhängeschloss. Ein Schild sagt Müllabfuhr täglich 11 Uhr. Rechts liegt eine kleine Schachtel auf dem Boden, neben einer weißen Pfütze.
+cut04_01c|Ein Paar rot-schwarze Handschuhe mit Flammenmuster, bedeckt mit Schmutz und Glas. Auf den Fingern sind Buchstaben.
+cut04_021|Ein Loch im Boden neben einem Kamerakranarm. Rechts ist ein Tuch über einen Tisch gelegt, mit Kameras darunter.
+cut04_027|Nachtsicht-Ansicht eines Mannes, der zwischen Blumenbeeten im Schnee liegt. Überall sind Fußspuren. Rechts an seinem Kopf liegt eine Schachtel, seine Schuhe sind links, Gegenstände liegen an seiner Hand, ein kleiner Gegenstand liegt im Schnee, und oben links ist eine Blume im Beet.
+cut04_028|Nachtsicht-Ansicht des Schnees zwischen den Blumenbeeten mit Fußspuren ringsum. Ein großer Fleck und kleinere Flecken sind in der Mitte, oben links ist eine Blume, und rechts liegt eine Schachtel.
+cut04_02a|Nachtsicht-Ansicht am Hoftor. Ein Schneemann steht am Backsteinpfeiler unter einer Lampe, ein Mann mit ausgestrecktem Arm steht dahinter, und rechts steht ein Mann in langem Mantel und Hut.
+cut04_03c|Nachtsicht-Ansicht des vorderen Hofs. Links führen Fußspuren durch den Schnee hinauf, der Kopf eines Schneemanns liegt im Schnee, und rechts verläuft eine Hecke entlang des Geländers.
+cut04_03e|Wieder der Stadtplan, mit dem Sunshine-Depot nahe der Deponie Daybreak hervorgehoben.
+cut00_000|Schwarzweißbild: der bärtige Präsident von Zheng Fa im Anzug winkt aus der Tür seines Flugzeugs oben an der Treppe.
+cut00_002|Ein Plakat des Stählernen Samurai: der Held mit Silbermaske in rotem Hakama, einen Speer haltend, posiert unter dem Vollmond vor einer japanischen Burg. Große flammende Buchstaben sagen Stählerner Samurai.
+cut00_003|Eine Zeitung, Mercurial News, Abendausgabe. Schlagzeile: Präsident von Zheng Fa kommt zu Besuch. Das Foto zeigt den bärtigen Präsidenten im violetten Anzug, der mit erhobenem Finger in ein Mikrofon ruft.
+cut00_005|Eine Zeitung, Mercurial News, Abendausgabe. Schlagzeile: Yatagarasu schickt Karte an Botschaft! Ein Foto zeigt eine weiße Karte mit einem Krähensymbol, Bildunterschrift: Die Karte, die die Botschaft erhielt; ein anderes zeigt eine dunkle Krähensilhouette.
+cut00_007|Ein Papierplan mit dem Titel Sicherheitsplan Präsident, 24. März, mit Leitung: Turm und Zweiter: Springer. Rote Handschrift sagt: Jetzt weniger Deckung am See, diesen Bereich im Auge behalten. Turm wegen Verletzung des Springers umpositioniert. Springer bringt den Präsidenten im Notfall sofort zum Flugzeug. Wachsam bleiben, wir wissen, wer im Publikum sein könnte.
+cut00_008|Ein silberner Revolver mit langem Lauf und Holzgriff, aus dem ein roter Laservisierstrahl leuchtet.
+cut00_00f|Schwarzweißbild: Leibwächter in schwarzen Anzügen und Sonnenbrillen packen einen sich wehrenden Mann mitten in einer Menge und halten ihn fest.
+cut00_014|Von unten gesehen: ein Mann in rosa Jacke mit weißem Halstuch und einem Affenlogo auf dem Rücken schaut in einem Türrahmen über die Schulter.
+cut00_015|Der See an der Bühne: ein schlaffer roter Ballon liegt im Wasser, das Seil noch festgebunden, und eine versunkene Ballonform des Stählernen Samurai ist unter der Oberfläche.
+cut00_016|Der See an der Bühne: ein großer roter Ballon schwimmt auf dem Wasser, mit einem Seil festgebunden, mit einer versunkenen Form darunter.
+cut00_019|Eine Gestalt in roter Kapuzenjacke steht im strömenden Regen, das Gesicht im Schatten verborgen.
+cut00_01a|Schwarzweißbild: zwei Leibwächter in einer Kabine richten Waffen aufeinander; einer trägt eine Halskrause, der andere Hut und Schnurrbart. Hinten an der Wand sind Monitore.
+cut00_01c|Schwarzweißbild: ein Mann mit Halskrause steht mit auf dem Rücken gefesselten Händen da und hält eine Waffe, während Edgeworth auf ihn zeigt und ein anderer Mann zusieht.
+cut00_01e|Ausgebreitete Zeitungen: Mercurial News, Schlagzeile Der Yatagarasu ist zurück! Firmengeschäfte aufgedeckt! Darunter Speedy Times, eine Schlagzeile über einen großen Dieb und eine Zeile: Drei Personen festgenommen.
+cut00_01f|Hohes Bild eines klaren blauen Himmels mit ein paar weißen Wolken über einem See, mit einer Reihe Blütenbäume am anderen Ufer.
+cut00_020|Eine dunkelviolette Flagge mit einem roten Phönix und gold-braunen Streifen weht an einem Mast vor blauem Himmel.
+cut00_021|Im dunklen Flugzeug: eine Tür mit einem kleinen runden Fenster, an deren Rand gerade Licht zu scheinen beginnt.
+cut00_022|Im dunklen Flugzeug: die Tür öffnet sich, helles Licht strömt von draußen herein.
+cut00_023|Eine weiße Karte mit einem rosa Krähensymbol auf schwarzem Hintergrund.
+cut00_024|Im Flugzeug: die Tür ist weit offen, und der Türrahmen ist von blendend weißem Licht erfüllt.
+cut00_025|Weites Bild der Bühne von hinten: der bärtige Präsident in Violett am Pult blickt auf eine riesige Menge, mit einem Leibwächter auf jeder Seite und Phönixflaggen an beiden Enden, unter Blütenbäumen.
+cut00_027|Der bärtige Präsident in Violett ruft mit hoch erhobenem Arm vor blauem Himmel.
+cut00_029|Ein großer roter Ballon, der platzt, zerrissene Stücke fliegen in einem Blitz davon.
+cut00_02a|Ein Plan der Bühne von oben, mit Kreuzen markiert: eines auf dem Pult und zwei auf der rechten Seite der Bühne. Eine gelbe gestrichelte Linie führt vom Zuschauerbereich unten links zur rechten Seite der Bühne.
+cut00_02b|Ein Plan der Bühne von oben. Drei grüne Kreise auf der Bühne sind mit R, P und K beschriftet. Eine gelbe gestrichelte Linie führt von K zu zwei orangen Kreuzen auf der rechten Seite der Bühne.
+cut00_02d|Ein Plan der Bühne von oben. Ein rotes Kreuz markiert die Mitte der Bühne hinter dem Pult. Zwei orange Kreuze markieren die rechte Seite der Bühne, neben der geschwungenen Linie der rechten Flagge. Die Linie der linken Flagge ist links.
+cut00_02e|Ein großer roter Blutspritzer auf weißem Hintergrund.
+cut00_02f|Nahansicht eines Leibwächters mit blauer Krawatte und Ohrhörer, der einen Metallkoffer umklammert, mit dem Präsidenten in Violett hinter ihm.
+cut00_030|Nahansicht eines Leibwächters mit karierter Krawatte, der einen Metallkoffer am Griff hält.
+cut00_031|Menschen rennen in Panik über den Rasen, von unten gesehen; ein Mann in orangem Mantel rennt in der Mitte, und ein Regenschirm liegt am Boden.
+cut00_032|Edgeworth von hinten, sein roter Mantel flattert, als er den Arm ausschwingt.
+cut01_001|Schwarzweißbild eines prächtigen Gerichtssaals: eine Statue der Justitia mit Waage steht hinter dem Richtertisch, umgeben von Reihen sitzender Gestalten.
+cut01_002|Nahansicht des Gesichts eines großen Hundes, das Maul rot verschmiert, mit einem kleinen goldenen Glöckchen in der Nähe.
+cut01_003|Schwarzweißbild: ein großer Hund steht über einem Mann, der am Boden liegt; der Mann hat einen Verband um den Hals.
+cut01_005|Schwarzweißbild: ein glatzköpfiger alter Mann im Kimono mit einem Messer schreitet neben einem großen Hund voran.
+cut01_006|Ein hölzernes Schachbrett mit laufender Partie: dunkle Figuren, darunter ein pferdeförmiger Springer links, weiße Figuren rechts.
+cut01_009|Schwarzweißbild: eine Zirkusvorstellung in einem Gefängnishof; ein Elefant balanciert auf einem Ball, ein Tiger springt durch einen Reifen, und Gefangene in gestreiften Uniformen jubeln.
+cut01_00a|Schwarzweißbild: ein Mann mit langen Haaren grinst, während er einen gestreiften Vorhang an einem Rollgestell zieht, neben Spinden.
+cut01_00d|Ein Zellenboden aus Holzbrettern, in der Mitte aufgebrochen und gesplittert, unter einem Etagenbett, an dem Kleidung hängt.
+cut01_00e|Ein Seitenansichtsplan: das Untersuchungsgefängnis links und das Hauptgefängnis rechts, oberirdisch durch einen Verbindungsgang verbunden. Unterirdisch verläuft ein brauner Tunnel von unter dem Untersuchungsgefängnis bis unter das Hauptgefängnis.
+cut01_00f|Ein Foto eines in die Erde gegrabenen Tunnels, mit einem Metallbecher, Löffeln und Tellern darin und Pfotenabdrücken auf dem Boden.
+cut01_010|Schwarzweißbild: ein Offizier in Mantel mit Pelzkragen und Mütze beugt sich über einen Tisch zu einem lächelnden glatzköpfigen Gefangenen in Streifen und Handschellen, mit Papieren zwischen ihnen.
+cut01_011|Schwarzweißbild: ein Clown springt aus einer Tür, an einem Elefantenrüssel und einem brüllenden Löwenkopf vorbei.
+cut01_012|Auf rotem Hintergrund: ein Meißel mit leuchtend blauer Klinge, mit einer Schnur an ein rotes Glöckchen gebunden.
+cut01_013|Ein körniges Schwarzweißbild einer Überwachungskamera vom 26.03. 22:14:16 Uhr: ein Mann steht an Zellengittern neben einem hohen, mit gestreiftem Tuch bedeckten Gegenstand.
+cut01_014|Schwarzweißbild: ein muskulöser Gefangener in gestreifter Uniform steht in einer Zelle, hinter ihm ein Tisch, eine Toilette und ein Bett.
+cut01_015|Ein Seitenansichtsplan: das Untersuchungsgefängnis links und das Hauptgefängnis rechts, oberirdisch mit dem Hof dazwischen. Unterirdisch verläuft ein brauner Tunnel von unter dem Untersuchungsgefängnis und steigt in den Hof hinauf.
+cut01_018|Ein Seitenansichtsdiagramm: links eine Leiter oder ein Gerüst mit einer Rolle oben, in der Mitte eine Rolle am Boden und rechts das Brunnengestell mit einer Rolle über dem Brunnenschacht.
+cut01_01c|Ein Regal in einer Zellenwand mit einem kleinen Spiegel und einem Becher mit einer Zahnbürste.
+cut01_01d|Schwarzweißbild: eine verängstigte Frau in Pelzmantel und Offiziersmütze drückt einen kleinen flauschigen Hund an sich, während hinter ihr ein glatzköpfiger Mann mit leuchtenden Augen aufragt.
+cut01_01e|Schwarzweißbild: ein Offizier in Mantel mit Pelzkragen beugt sich über einen Tisch zu einem Mann mit Handschellen und Halskrause, mit Papieren und einem Messer zwischen ihnen.
+cut01_020|Ein langer, dunkler Gefängnisgang, auf beiden Seiten von Zellen gesäumt.
+cut01_021|Ein grünes Glöckchen, das auf dunklem Hintergrund leuchtet, mit einer schwachen blauen Kopie dahinter.
+cut01_022|Ein dunkles, leeres Stück Gefängnisboden mit einer Kette ganz rechts.
+cut01_023|Ein langer Gefängnisgang, von Zellen gesäumt, am hinteren Ende von orangem Licht beleuchtet.
+cut01_024|Schwarzweißbild: ein verängstigter Mann drückt sich gegen eine Zellentür und schaut schockiert durch ihr Fenster.
+cut01_026|Nahansicht des Schachbretts: ein dunkler Springer, als dreiköpfiger Hund geschnitzt, steht zwischen den Figuren, dahinter ein weißer Turm.
+cut01_029|Eine kleine rote Blutlache auf schwarzem Hintergrund.
+cut01_02a|Eine sich ausbreitende rote Blutlache auf schwarzem Hintergrund.
+cut01_02b|Eine große rote Blutlache, die den größten Teil des Bildes bedeckt.
+cut01_02c|Ein blonder Mann in petrolfarbener Jacke und karierter Krawatte lehnt an einer Steinmauer, seine Halskrause blutgetränkt.
+cut01_02f|In Orangetönen: ein junger Mann im Anzug mit roter Fliege und Abzeichen stützt sich auf einen Tisch, zeigt mit dem Finger und ruft.
+cut01_032|Ein langer Gefängnisgang im Dunkeln, Zellen auf beiden Seiten.
+cut01_033|Der Gefängnisgang, vom hinteren Ende beleuchtet, mit der dunklen Silhouette eines Hundes in der Mitte.
+cut01_037|Ein Grundriss: Arrestzellen und Untersuchungsgefängnis links, Bürobereich, Hof und Gefängnis und Zellen rechts, durch einen Verbindungsgang verbunden.
+cut01_039|Das Seitenansichtsdiagramm mit einem eingezeichneten orangen Seil: von einem grünen Punkt mit S links, hinauf über die Rolle am Gerüst, hinunter unter die Rolle am Boden und hinauf über die Rolle über dem Brunnen, hinab zu einem orangen Gewicht, das im Brunnenschacht hängt.
+cut01_03a|Ein Steinbrunnen mit einem abgeschlossenen Gitter unter einem Holzgestell mit einer Rolle. Vorne: eine gestreifte Decke mit zwei Klammern, ein aufgerolltes Seil mit einem Metallstab und ein rotes 30-lb-Gewicht.
+cut01_03c|Nahansicht der Leiche: eine Hand in petrolfarbenem Ärmel liegt auf einer blutbefleckten gestreiften Decke, ein Seil darüber, und hält einen kleinen Gegenstand.
+cut01_03d|Ein Mann in Jacke mit Pelzkragen und verschlagenem Lächeln steht in einem goldenen Türrahmen, flankiert von vier Wachen mit Mützen und Sonnenbrillen.
+cut01_03e|Ein Videoplayer der Überwachungskamera auf grünem Bildschirm. Ein körniges Schwarzweißbild von oben zeigt Zellengitter und einen Gang, Zeitstempel 6:42:16 Uhr. Ein Fadenkreuz ist auf dem Bild, oben steht Untersuchen, dazu Knöpfe für Pause, Zurückspulen, Vorspulen und Zoom.
+cut01_03f|Der Videoplayer der Überwachungskamera, vergrößert und pausiert: eine nähere Ansicht der Zellengitter von oben. Knöpfe für vorheriges Bild, nächstes Bild und Verkleinern.
+cut01_040|Der Videoplayer der Überwachungskamera, pausiert, zeigt die Zellengitter und den Gang von oben, Zeitstempel 6:42:16 Uhr. Knöpfe für Abspielen, vorheriges Bild, nächstes Bild und Vergrößern.
+cut02_001|Ein dramatisches Bühnenbild: ein Mann im Kellnersmoking mit großem Afro serviert schwungvoll eine Torte, während vor ihm ein Mädchen im grünen Kleid nach hinten fällt.
+cut02_003|Ein fächerförmiger Grundriss: die Brunnenhalle in der Mitte, darüber der Aufzug. Ringsum: Tangaroas Zimmer, Gustos Zimmer, Scones Zimmer und Frosts Zimmer. Unten: der Sicherheitsraum, der Eingang, der Empfang und darunter der Garten.
+cut02_004|Derselbe fächerförmige Grundriss mit Flügelnamen: Frühlingsflügel, Sommerflügel, Winterflügel und Herbstflügel um die Brunnenhalle, oben der Aufzug und unten Sicherheitsraum, Eingang, Empfang und Garten.
+cut02_007|Ein Servierwagen mit einer Glasvitrine, in der eine blaue Statue liegt.
+cut02_009|Ein Foto der zerbrochenen Schatztruhe der Schiffsskulptur, mit einem langen braunen Stab quer darüber und einer weißen, darin zerdrückten Figur.
+cut02_00f|Ein Mann in Trenchcoat und Hut und ein Mann in blauer Uniform stehen in einem blau beleuchteten Raum mit leuchtenden Glasvitrinen, von hinten gesehen.
+cut02_010|Zodiac Hall: Gebäudeplan. Öffnungszeiten: 10 bis 17 Uhr. Ein fächerförmiger Plan mit der Brunnenhalle in der Mitte und dem Aufzug, EL, oben. Die vier Flügel ringsum: Frühlingsflügel links, Sommerflügel oben links, Winterflügel oben rechts und Herbstflügel rechts. Unten: Sicherheitsraum, Eingang, Empfang und Garten.
+cut02_011|Eine Tabelle der Tierkreisräume, mit dem Hinweis, dass jeder Raum auf einer bestimmten Temperatur gehalten wird, passend zu seiner Jahreszeit. Sommer, 78 °F: Schütze, Skorpion, Waage. Herbst, 64 °F: Steinbock, Wassermann, Fische, Widder. Frühling, 53 °F: Jungfrau, Löwe, Krebs. Winter, 27 °F: Stier, Zwillinge.
+cut02_012|Am Brunnen: ein junger Mann im rosa Affenpullover sitzt auf dem Boden und umklammert ein Bilderbuch, neben einem weißhaarigen Mann, der auf dem roten Teppich liegt.
+cut02_013|Die Meerjungfrauenstatue in ihrer Glasvitrine, der Deckel verschoben. Dahinter steht eine leuchtende Lampe auf dem Tisch.
+cut02_014|Eine grüne Nachtsicht-Ansicht der Meerjungfrauenstatue in ihrer Glasvitrine, rote Linien zeigen Risse über Glas und Statue. Davor steht eine Trittleiter.
+cut02_015|Eine grüne Nachtsicht-Ansicht der Meerjungfrauenstatue in ihrer Glasvitrine, mit einer Trittleiter davor und dem gelb umrandeten Deckel der Vitrine.
+cut02_016|Eine grüne Nachtsicht-Ansicht der Ausstellung: ein gelber Umriss markiert eine große Form, die die Glasvitrine und den Bereich daneben bedeckt.
+cut02_019|Blick hinunter auf den Brunnen: eine Person in Weiß liegt mit dem Gesicht nach unten im Wasser. Ein Mädchen mit Pferdeschwanz, Edgeworth und ein Mann mit Hut beugen sich über den Rand, um zu schauen.
+cut02_01a|Der Sternenraum mit zwei leeren Glasvitrinen. Rechts fließt Wasser aus einem Krug an der Wand, und Pfützen breiten sich auf dem Boden aus.
+cut02_01b|Der Sternenraum mit den zwei leeren Glasvitrinen und Pfützen auf dem Boden. Detective Gumshoe steht vorne und telefoniert.
+cut02_01c|Ein Foto der zwei Glasvitrinen: eine mit einer Statue einer Frau und eines Jungen mit Leier, die andere mit einer Ziegenstatue. Werkzeuge liegen auf dem Tisch dahinter, und ein Stromkabel verläuft zwischen den Vitrinen.
+cut02_01d|Ein Foto der zwei leeren Glasvitrinen, ein Gewirr von Stromkabeln dazwischen, Werkzeuge auf dem Tisch dahinter.
+cut02_01e|Ein Foto dreier Eisskulpturen auf einem Tisch: ein weißes Einhorn mit der Aufschrift Frost, eine Torte mit Schmetterlingen mit der Aufschrift Scone und ein oranger Phönix mit der Aufschrift Gusto, umgeben von roten Rosen.
+cut02_01f|Schwarzweißbild: ein Mann in Anzug und Brille sitzt zusammengesunken auf dem Boden an einer Wand neben einer Tür.
+cut02_025|Ein sanftes Aquarellbild: eine Frau mit langen Haaren im grünen Kleid und eine Frau im weißen Kleid lächeln neben einer großen Torte, mit einem kleinen Mädchen mit Kochmütze in einem Kinderbett.
+cut02_028|Ein Servierwagen, bedeckt mit einer langen weißen Tischdecke, die bis zum Boden reicht.
+cut02_02a|Schwarzweißbild: ein strenger Koch mit hoher Mütze hält eine Kamera, und vorne steht ein Mann mit langen Haaren in weißer Kochjacke mit verschränkten Armen.
+cut02_02b|Edgeworth steht steif da, während ein grinsender Mann mit Hut das Peace-Zeichen macht und ein Selfie von beiden schießt.
+cut02_02c|Zwei gerahmte Fotos: ein altes Schwarzweißfoto eines Mannes mit Brille und einer Frau mit Hut und ein Farbfoto von Edgeworth mit dem grinsenden Mann mit Hut, der das Peace-Zeichen macht.
+cut02_02d|Ein Foto vor einer Schule mit einem Schild Willkommen, neue Schüler unter Blütenbäumen: ein großer Mann im Anzug, ein muskulöser Mann mit rotem Fes und zwei lächelnde Jungen in Uniform.
+cut02_02e|Schwarzweißbild: Edgeworth und ein älterer Mann mit zurückgekämmtem Haar in dunklem Rüschenmantel stehen sich gegenüber.
+cut02_02f|In einem dunklen Büro blickt ein Mann in grauem Hemd und Krawatte traurig auf den Hut in seinen Händen.
+cut02_030|Ein Foto einer orange leuchtenden Steinlampe auf einem Ständer, rot bespritzt.
+cut02_031|Eine dunkle Bühne mit einer riesigen Torte unter einem Schild mit Your 3 DM Cakestravaganza, zwischen roten Vorhängen.
+cut02_032|Eine hell erleuchtete Bühne mit einer riesigen Torte unter einem Schild mit Your 3 DM Cakestravaganza, zwischen roten Vorhängen.
+cut02_033|Ein verschwommenes Leuchten aus orangem und gelbem Licht mit Blasen.
+cut02_034|Ein verschwommenes Leuchten aus blauem und weißem Licht mit Blasen.
+cut02_035|Ein verschwommenes Leuchten aus rosa und weißem Licht mit Blasen.
+cut02_036|Schwarzweißbild: ein älterer Mann mit zurückgekämmtem Haar und Rüschenhalstuch steht mit verschränkten Armen am Platz der Anklage.
+cut02_037|Ein Fernsehbildschirm mit dem Logo einer Kochshow: Samson and Judy's Bake'n'Bop! Your 3 DM Cakestravaganza.
+cut02_038|Schwarzweißbild: ein Staatsanwalt mit Brille zeigt am Pult mit dem Finger und ruft.
+cut02_03a|Ein dramatisches Bild der zerbrochenen Schatztruhe der Schiffsskulptur, ein langer brauner Stab quer darüber und eine darin zerdrückte Figur.
+cut02_03c|Ein Fernseher mit leerem, dunklem Bildschirm.
+cut02_03d_001|Ein kleiner leuchtend rosa Punkt auf schwarzem Hintergrund.
+cut02_03d_002|Ein kurzer leuchtend rosa Strich, der sich auf schwarzem Hintergrund nach unten biegt.
+cut02_03d_003|Ein leuchtend rosa Strich, der sich auf schwarzem Hintergrund zu einem Haken biegt.
+cut02_03d_004|Eine leuchtend rosa Kurve wie ein Lächeln auf schwarzem Hintergrund.
+cut02_03d_005|Eine längere leuchtend rosa Kurve auf schwarzem Hintergrund.
+cut02_03d_006|Eine lange leuchtend rosa Kurve, die auf schwarzem Hintergrund von oben links nach unten und dann nach rechts oben schwingt.
+cut02_03e|Ein Foto der zwei Glasvitrinen mit Statuen. Ein gelber Kreis markiert die Leier, die der Junge in der Statue der Frau und des Jungen hält.
+cut03_000|Blick hinauf zu einem hohen gläsernen Wolkenkratzer mit einer großen Uhr nahe der Spitze, vor blauem Himmel.
+cut03_001|Eine Eintrittskarte: Bigg Building, Aussichtsplattform, Eintrittskarte. 04.04., 19:28 Uhr. Schüler, 6 Dollar. Nur am Kauftag gültig. Keine Erstattung.
+cut03_004|Ein Plan des Dachs von oben: das Gewächshaus oben, ein Weg durch die Mitte zu einem runden Bereich unten, ein Baum links und ein Stand rechts.
+cut03_005|Schwarzweißbild des Zuckerwattestands im Regen, mit einem Schild Thunder Cloud. Dahinter steht eine Gestalt in Rot.
+cut03_006|Ein Querschnitt des Gebäudes: die Aussichtsplattform auf dem Dach mit dem Gewächshaus, ein Baum links und ein Stand rechts.
+cut03_00a|Eine Tabelle mit dem Titel Schlüsselkarten-Protokoll, 4. April. Spalten: Benutzer-ID, Nutzungszeit, Benutzername. Zeile eins: 32461983, 22:15 Uhr, kein Name. Zeile zwei: 53792291, 0:52 Uhr, Ringer, Rosie.
+cut03_014|Schwarzweißbild: vier maskierte Juroren sitzen an einem langen Tisch und halten runde Tafeln hoch, mit Kerzen vor sich.
+cut03_015|Schwarzweißbild im Regen: eine Gestalt in Uniform mit roter Schärpe steht über einer roten Form, die unter einem Baum am Boden liegt, Blütenblätter fallen.
+cut03_017|Edgeworth hält in seinem Büro ein Notizbuch hin. Auf dem Umschlag steht Notizbuch, Versprechen, Kay.
+cut03_018|In warmem goldenem Licht lächelt ein junges Mädchen, während es jemandem, der die Hand ausstreckt, ein Notizbuch reicht.
+cut03_021|Schwarzweißbild bei Nacht: ein Mädchen mit langem Pferdeschwanz steht an einem Baum und blickt unter dem Vollmond zum Samurai-Dogs-Stand am See.
+cut03_022|Schwarzweißbild mit fallenden Blütenblättern: eine Gestalt in rotem Kapuzenanzug liegt ausgestreckt am Boden, eine Hand ausgestreckt, ein gehörntes Spielzeug in der Nähe.
+cut03_024|Ein Plan eines Raums von oben: die Rote Statue von Alif oben in der Mitte, der Aufzug oben rechts, ein runder Bereich rechts und Kisten und Kästen entlang der Wände.
+cut03_026|Eine Tabelle mit dem Titel Schlüsselkarten-Protokoll, 4. April. Spalten: Benutzer-ID, Nutzungszeit, Benutzername. Zeile eins: 32461983, 22:15 Uhr, Gavelle, Verity. Zeile zwei: 53792291, 0:52 Uhr, Ringer, Rosie.
+cut03_027|Ein Querschnitt des Gebäudes: die Aussichtsplattform auf dem Dach mit Gewächshaus, Baum und Stand; direkt darunter das 50. Stockwerk, Ausschusssaal.
+cut03_028|Ein Querschnitt des Gebäudes: die Aussichtsplattform auf dem Dach; darunter ein Lagerraum; und darunter das 50. Stockwerk, Ausschusssaal.
+cut03_02b|Ein prächtiger Gerichtssaal in blauem Licht: eine Statue der Justitia mit Waage hinter dem Richtertisch, ringsum Reihen sitzender Gestalten.
+cut03_02c|Ein einsamer Mann im violetten Mantel steht im Scheinwerferlicht an einem Pult, auf einer runden Plattform mit einem Waagen-Emblem.
+cut03_02d|Hohes Bild: der Wolkenkratzer mit Uhrturm bei Nacht unter dem Vollmond, ein leuchtender Streifen nahe dem Dach und ein leuchtendes Zifferblatt.
+cut03_02e|Nachts unter dem Vollmond mit fallenden Blütenblättern: ein Mädchen mit Pferdeschwanz und Schlüssel-Haarschmuck schaut erschrocken auf eine Kapuzengestalt im roten Mantel, von hinten gesehen.
+cut03_035|Eine rot getönte Ansicht einer angeketteten Holzkiste mit verschobenem Deckel.
+cut03_036|Eine rot getönte Ansicht der Maskenwand mit einer Leiter, einer Schaufensterpuppe und einer Kiste mit Gegenständen zum Preis von 2.200.
+cut03_037|Eine rot getönte Ansicht des Aufzugkäfigs mit einem Koffer daneben.
+cut03_038|Eine angekettete Holzkiste, der Deckel verschoben, vor einer blauen Wand.
+cut03_039|Die Maskenwand: Masken an einem Gitter, links eine Leiter, eine Schaufensterpuppe und eine Kiste mit Gegenständen zum Preis von 2.200.
+cut03_03a|Der Aufzugkäfig, sein Boden am Rand beleuchtet, ein gelb-grüner Koffer daneben.
+cut04_000|Ein Mann in Jacke mit Pelzkragen steht über einem bärtigen Mann im violetten Mantel, der in einem rissigen Loch liegt, mit einer Wunde an der Brust.
+cut04_003|Eine riesige gehörnte Monstersilhouette erhebt sich vor einem roten, bewölkten Himmel.
+cut04_004|Ein Filmplakat: Eine epische Rivalität ist geboren! Der legendäre Taurusaurus gegen Gourdy. Eine Produktion der Global Studios. Ein rotes gehörntes Monster brüllt neben einem schlangenartigen Monster in Flammen.
+cut04_005|Eine Zeitungsseite: Hot News! Riesiges Lebewesen im Gourd Lake aufgetaucht! Ein Foto zeigt zwei Personen an einem Seegeländer mit einem langhalsigen Wesen im Wasser hinter ihnen.
+cut04_006|Schwarzweißbild: ein riesiger bärtiger Mann und ein weißhaariger Mann in Uniform geben sich vor einem Pult mit Phönixflagge die Hand.
+cut04_008|Schwarzweißbild durch Jalousien gesehen: eine große runde Augenform, darunter ein gehörntes Spielzeug und ein Roboterspielzeug.
+cut04_009|Ein Schwarzweißbild einer Überwachungskamera, 04.04. 23:05 Uhr: ein großer bärtiger Mann und eine Frau gehen durch einen Eingang an Hecken vorbei.
+cut04_00c|Schwarzweißbild: ein Junge mit Kopfhörern und Rucksack steht allein in einer dunklen Gasse an einer Mauer, der Schatten eines Monsters ragt auf.
+cut04_00f|Ein dunkles Filmset bei Nacht mit einem von einem Scheinwerfer beleuchteten Loch im Boden und hinten einem Wagen mit Schild.
+cut04_011|Ein grünes Metalltor mit Vorhängeschloss und einem Schild Müllabfuhr täglich 11 Uhr. Eine blaue Kiste, Kartons, eine kleine Schachtel und eine weiße Pfütze sind davor auf dem Boden.
+cut04_013|Ein junger Mann in roter Jacke und blauer Hose liegt auf einem Holzboden, mit Seil gefesselt und geknebelt, Werkzeuge und Taschen um ihn herum.
+cut04_014|Das Regal mit Waren: ein violettes Tuch für 240, eine Figur für 8.400, eine Puppenstatue für 6.700, rechts eine Schaufensterpuppe. Unten steht ein Tresor offen mit einem Schachbrett darin, eine goldene Laterne, eine kleine Flasche und eine rosa Vase für 400.
+cut04_017|Eine Zeitschriftenseite: Der heißeste Newcomer der Stadt, Shaun Fenn. Sie zeigt einen Jungen in roter Jacke mit Rucksack und ein kleines Filmplakat von Taurusaurus gegen Gourdy.
+cut04_018|Ein leerer Richtertisch mit einem hohen roten geschnitzten Stuhl und einer goldenen Säule.
+cut04_019|Eine leere Zuschauergalerie im Gericht: Säulen und ein Geländer, rechts ein roter Vorhang.
+cut04_01a|In einem Lager mit Regalen mit der Aufschrift A-1 halten ein fröhliches Mädchen mit Pferdeschwanz und ein lächelnder Mann mit Pflaster im Gesicht Handys hoch, und ein Mädchen in roter Jacke steht zwischen ihnen.
+cut04_01b|Ein junger Mann in roter Jacke und weißen Handschuhen wühlt unter blauem Himmel in einem großen Müllhaufen, überall fliegen Sachen herum.
+cut04_01d|Ein schmutziger, zerknüllter Handschuh mit Buchstaben auf den Fingern.
+cut04_01e|Ein sonniges Fest vor einem großen Stadion: Essensstände, Menschenmengen, Ballons und Banner und rechts ein Kuppelgebäude.
+cut04_020|Die Rückseite des großen roten Stiermonster-Kostüms, der Reißverschluss in der Mitte offen, mit einem dunklen Futter mit Glitzerteilchen innen.
+cut04_022|Schwarzweißbild: ein Mann liegt in einem rissigen Loch im Boden eines dunklen Filmsets, der riesige Kopf des Stiermonsters neben ihm.
+cut04_024|Ein Strauß gelber Blumen in weiß-grünem Papier, mit einer grünen Schleife gebunden.
+cut04_025|Ein verschneiter Hof vor einem Backsteingebäude mit einer Uhr und einem Glockenturm. Kinder spielen mit einem Hund im Schnee und bauen einen Schneemann, nahe Schaukeln und einer Elefantenrutsche. Vorne stehen Laternen und Geländer.
+cut04_029|Ein Foto bei Nacht: ein bärtiger Mann im violetten Mantel steht mit ausgestrecktem Arm an einem Backstein-Torpfeiler neben einem Schneemann, während ein Mann in langem Mantel und Hut von rechts eine Waffe auf ihn richtet.
+cut04_02b|Ein Plan von oben: das Waisenhausgebäude oben, ein Weg hinunter zum Tor unten und rautenförmige Markierungen auf dem Boden ringsum.
+cut04_02d|Eine Wachsmalzeichnung eines Kindes: ein glatzköpfiger Mann im Kimono, ein Mann mit Stachelhaar im violetten Anzug mit gelben Blumen, ein schwarzer Hund, ein gehörntes Spielzeug, ein blaues spinnenartiges Wesen und ein rosa Hase, neben einer Uhr und einer Tür.
+cut04_02e|Schwarzweißbild: ein riesiger bärtiger Mann steht hinter einer Frau in Pelzmantel und Mütze und einem Mann mit vernarbtem Gesicht, der sich eine Zigarette anzündet.
+cut04_02f|Schwarzweißbild: eine Frau in Pelzmantel und Offiziersmütze mit einem kleinen Hund und ein Mann mit vernarbtem Gesicht, der sich eine Zigarette anzündet.
+cut04_030|Schwarzweißbild im Schnee: zwei Kinder sitzen hinten in einem Auto, eines gefesselt, während ein großer Hund durchs Fenster hineinschaut.
+cut04_031|Schwarzweißbild bei Nacht: ein riesiger bärtiger Mann mit Blumen und einem gehörnten Spielzeug steht mit einem Blindenhund und einem glatzköpfigen Mann an einer steinernen Drachenstatue auf den Stufen.
+cut04_032|Ein Zirkusplakat: Der einzig wahre! Der Berry Big Circus ist zurück! Es zeigt einen Löwen, einen Zirkusdirektor in Violett, einen Elefanten und einen Tiger, der durch einen Feuerring springt.
+cut04_034|Ein riesiger Heißluftballon in Form eines Löwenkopfs schwebt nachts über der Stadt.
+cut04_035|Ein Blatt Papier mit einem handgezeichneten Schachbrett: Türme, Bauern, ein König und ein Läufer, ein Bauer auf g6 rot eingekreist. Notizen: Hier ist mein nächster Zug: Bauer nach g6! Riecht noch jemand Schachmatt? Ich freue mich schon auf dein Gesicht, wenn du verlierst! Du hättest mich sowieso nie geschlagen! Nicht im Schach!
+cut04_036|Schwarzweißbild: ein bärtiger Mann, von hinten gesehen, richtet unter dem Vollmond eine Waffe auf den Löwenkopf-Ballon.
+cut04_037|Ein verschwommenes Schwarzweißbild von etwas, das schnell an einem Gebäude vorbeifällt.
+cut04_038|In einer Zirkusmanege: ein Mann in rosa Jacke kämpft mit einem glatzköpfigen Gefangenen in Streifen mit der Aufschrift BOSS um eine lange Stange, während ein trauriger Clown zusieht.
+cut04_039|Edgeworth und ein Mann mit Hut und Trenchcoat stehen Rücken an Rücken vor einem goldenen Staatsanwaltsabzeichen und einem Verteidigerabzeichen.
+cut04_03a|Bigg Building: Querschnitt. Die Aussichtsplattform auf dem Dach; darunter der Lagerraum; darunter das 50. Stockwerk, Ausschusssaal.
+cut04_03b|Ein Plan eines Raums von oben: oben eine Galerie mit Treppe, runde Tische, eine Stierkopfform und Möbel entlang der Wände.
+cut04_03d|Ein Foto eines Mannes im blauen Pullover, der mit dem Gesicht nach unten zwischen Blumenbeeten im Schnee liegt, Blut unter dem Kopf. Eine Kamera liegt an seiner Hand, ein Handy und eine kleine Schachtel in der Nähe, und überall Fußspuren.
+cut04_03f|Ein rissiges Loch in einem Betonboden, mit einem hornförmigen Gegenstand am Rand und oben links einer Treppe.
+cut04_040|Durch Jalousien in rotem Licht gesehen: eine riesige Augenform, darunter ein gehörntes Spielzeug und ein Roboterspielzeug.
+cut04_041|Ein Junge in rotem Kapuzenpulli mit Hörnern steht in blauem Licht am Fuß einer Treppe vor einem Eingang mit zwei Greifenstatuen.
+cut04_042|Derselbe Junge vor den Greifenstatuen, jetzt von rotem Schein beleuchtet.
+cut04_043|Auf dunkelblauem Hintergrund: ein Mann mit Halskrause links und ein glatzköpfiger Mann in Sträflingsstreifen rechts.
+cut04_044|Auf dunkelblauem Hintergrund: ein Mann mit Halskrause, der einen Kalender hält, ein Pfeil zu einer violetten schattenhaften Gestalt mit Laptop und ein Pfeil zu einem glatzköpfigen Gefangenen in Streifen, der ein Blatt Papier hält.
+cut04_045|Ein Plan von oben: die Eingangstreppe oben, drei rautenförmige Markierungen im Hof und unten das Tor.
+cut04_046|Bigg Building: Querschnitt. Die Aussichtsplattform auf dem Dach, darunter der Lagerraum.
+cut04_04c|Ein leerer Richtertisch mit einem hohen roten geschnitzten Stuhl und einer goldenen Säule.
+cut04_04d|Eine leere Zuschauergalerie im Gericht: Säulen und ein Geländer, links ein roter Vorhang.
+cut04_050|Ein dunkles Bild: ein großer muskulöser Mann, von hinten gesehen, geht eine Treppe hinauf.
+cut04_051|Schwarzweißbild: eine Kapuzengestalt steht neben einer kopflosen Schaufensterpuppe an einem Fenster mit Jalousien.
