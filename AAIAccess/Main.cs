@@ -64,6 +64,7 @@ namespace AAIAccess
                 }
             }
             catch (System.Exception e) { Log.Warning("Off switch: " + e.Message); }
+            UnityErrors.Install();
             DetailPatches.Apply(HarmonyInstance);
             Gk2Ahead.Apply(HarmonyInstance);
             Pad.SelectScreen = SelectScreen;
@@ -190,11 +191,14 @@ namespace AAIAccess
                 if ((GetAsyncKeyState(0x10) & 0x8000) != 0) Rooms.RenameFromClipboard(); else Rooms.Speak();
             }
             if (PadChord(Pad.B.North)) Rooms.Speak();
+            try { VbtRepair.Poll(); } catch { }
+            try { UnityErrors.Poll(); } catch { }
             if (Pressed(0xDB) | PadChord(Pad.B.L2) | PadChord(Pad.B.Left) | PadSolo(Pad.B.L1)) { if (Gk2Video.Active) Gk2Video.Step(-1); else if (Gk2Luminol.Active) Gk2Luminol.Step(-1); else if (Gk2Finger.Active) Gk2Finger.Step(-1); else if (ExamineScreen.Active) ExamineScreen.Step(-1); else if (Gk2Examine.Active) Gk2Examine.Step(-1); else if (Gk2Examine3D.Active) Gk2Examine3D.Step(-1); else if (Examine3D.Active) Examine3D.Step(-1); else if (Gk2Nav.Active) Gk2Nav.Step(-1); else Navigator.Step(-1); }   // [ previous
             if (Pressed(0xDD) | PadChord(Pad.B.R2) | PadChord(Pad.B.Right) | PadSolo(Pad.B.R1)) { if (Gk2Video.Active) Gk2Video.Step(+1); else if (Gk2Luminol.Active) Gk2Luminol.Step(+1); else if (Gk2Finger.Active) Gk2Finger.Step(+1); else if (ExamineScreen.Active) ExamineScreen.Step(+1); else if (Gk2Examine.Active) Gk2Examine.Step(+1); else if (Gk2Examine3D.Active) Gk2Examine3D.Step(+1); else if (Examine3D.Active) Examine3D.Step(+1); else if (Gk2Nav.Active) Gk2Nav.Step(+1); else Navigator.Step(+1); }   // ] next
             if ((Pressed(0xDC) | PadChord(Pad.B.R1) | PadChord(Pad.B.Down)) && !ExamineScreen.Active && !Gk2Examine.Active && !Gk2Examine3D.Active && !Gk2Video.Active && !Gk2Luminol.Active && !Gk2Finger.Active) { if (Gk2Nav.Active) Gk2Nav.Walk(); else Navigator.WalkToSelected(); }
             if ((Pressed(0xDE) | PadChord(Pad.B.L1) | PadChord(Pad.B.Up)) && !ExamineScreen.Active && !Gk2Examine.Active && !Gk2Examine3D.Active && !Gk2Video.Active && !Gk2Luminol.Active && !Gk2Finger.Active) { if (Gk2Nav.Active) Gk2Nav.Ping(); else Navigator.Ping(); }   // ' sound from where it is   // \ walk to it
 #if DEVTOOLS
+            if (Pressed(0x77)) Gk1State.Dump();      // F8: what the first game's scripts and animations are doing, to the log (for development)
             if (Pressed(0x78)) PageExport.Start();   // F9: export evidence page pictures (for development)
             if (Pressed(0x79)) // F10: write map positions to the log (for development)
                 { if (!Gk2Map.Dump()) Investigation.DumpMap(); }
