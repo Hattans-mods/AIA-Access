@@ -57,6 +57,16 @@ namespace AAIAccess
                     if (i + 1 >= s.Count) break;
                     int c = s[i + 1];
                     if (c == 3 || c == 4) { end = i; return sb.ToString(); }
+                    // 0x29 n: a button icon. Say its name, as the window shows it (see TextCleaner.ScriptIcon).
+                    if (c == 0x29 && i + 2 < s.Count)
+                    {
+                        int icon = s[i + 2];
+                        string name = TextCleaner.ScriptIcon(icon);
+#if DEVTOOLS
+                        Main.Log.Msg($"GK1 read-ahead: button icon {icon} read as {name}");
+#endif
+                        sb.Append(' ').Append(name).Append(' ');
+                    }
                     i += 1 + Len(c);
                     continue;
                 }

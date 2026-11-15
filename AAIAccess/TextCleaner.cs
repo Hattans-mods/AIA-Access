@@ -31,11 +31,18 @@ namespace AAIAccess
             "the right stick up or down", "the right stick left or right",
         };
 
+        // The face buttons by place. GamePadIconSpriteID names them with Nintendo letters (A right, B bottom, X top,
+        // Y left): the window shows the game's confirm (A, Space) as icon 1 and its X (T) as icon 2 (log 2026-11-13).
+        private static readonly Pad.B[] SpriteFace = { Pad.B.East, Pad.B.South, Pad.B.North, Pad.B.West };
+        // The first game's script (command 0x29) names them with Xbox letters (A bottom, B right, X left, Y top):
+        // examine (confirm) is 0 and Connect (the game's X, T) is 3.
+        private static readonly Pad.B[] ScriptFace = { Pad.B.South, Pad.B.East, Pad.B.West, Pad.B.North };
+
         private static string PadIcon(int n)
         {
             try
             {
-                if (n >= 0 && n <= 3) return Pad.Name((Il2CppGK_System.Controller.ButtonType)n);   // A, B, X, Y
+                if (n >= 0 && n <= 3) return Pad.Name(SpriteFace[n]);
                 switch (n)
                 {
                     case 4: return Pad.Name(Pad.B.L1);
@@ -49,6 +56,34 @@ namespace AAIAccess
             }
             catch { }
             return "controller button " + n;
+        }
+
+        /// <summary>The name of a button icon written in the first game's script (command 0x29). Face buttons 0-3 are
+        /// numbered as in ScriptFace; 4 and up as GamePadIconSpriteID (4 = L). The game draws it as the key for that
+        /// button while the keyboard is in use, and as the controller button otherwise, so name it the same way the
+        /// message window will show it.</summary>
+        public static string ScriptIcon(int n)
+        {
+            try
+            {
+                Il2CppGK_System.Controller.ButtonType? bt = null;
+                if (n >= 0 && n <= 3)
+                {
+                    if (KeyMap.UsingController) return Pad.Name(ScriptFace[n]);
+                    bt = Pad.ButtonAt(ScriptFace[n]);
+                }
+                else if (KeyMap.UsingController) return PadIcon(n);
+                else if (n == 4) bt = Il2CppGK_System.Controller.ButtonType.L1;
+                else if (n == 5) bt = Il2CppGK_System.Controller.ButtonType.R1;
+                else if (n == 18) bt = Il2CppGK_System.Controller.ButtonType.L3;
+                else if (n == 19) bt = Il2CppGK_System.Controller.ButtonType.R3;
+                else if (n == 20) bt = Il2CppGK_System.Controller.ButtonType.Start;
+                else if (n == 21) bt = Il2CppGK_System.Controller.ButtonType.Select;
+                if (bt != null) { string k = KeyMap.Name(bt.Value); if (k.Length > 0) return k; }
+                if (n >= 0 && n <= 3) return Pad.Name(ScriptFace[n]);
+            }
+            catch { }
+            return PadIcon(n);
         }
 
         /// <summary>Removes rich-text tags and joins the window's lines into one readable string.</summary>

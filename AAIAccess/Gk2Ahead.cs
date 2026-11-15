@@ -21,6 +21,7 @@ namespace AAIAccess
         // E102 and E104 were also seen in play. None takes arguments.
         private static readonly HashSet<int> _pageEnd = new HashSet<int> { 0xE102, 0xE103, 0xE104, 0xE105, 0xE106, 0xE1B1 };
         private static Dictionary<int, int> _args;
+        private const int IconCode = 0xE2B0;
 
         // The last script split into pages: (start, end, cleaned text, letters only).
         private static string _key = "";
@@ -86,6 +87,16 @@ namespace AAIAccess
                 if (c >= 0xE000 && c <= 0xEFFF)
                 {
                     if (_pageEnd.Contains(c) || c == 0xE100 || c == 0xE101) Close(i);
+                    // E2B0 n: a button icon (log 2026-11-13: "press [E2B0 0]..." showed as A on Xbox and Space on the
+                    // keyboard). Taken to number buttons as the first game's script does (TextCleaner.ScriptIcon).
+                    if (c == IconCode && i + 1 < s.Length)
+                    {
+                        string name = TextCleaner.ScriptIcon(s[i + 1]);
+#if DEVTOOLS
+                        Main.Log.Msg($"GK2 read-ahead: button icon {s[i + 1]} read as {name}");
+#endif
+                        sb.Append(' ').Append(name).Append(' ');
+                    }
                     i += 1 + Args(c);
                     continue;
                 }
@@ -98,6 +109,34 @@ namespace AAIAccess
 
         /// <summary>The whole page the window is showing (cleaned), when the game is still typing it; "" when the
         /// window already shows all of it; null if it can't be told for sure.</summary>
+#if DEVTOOLS
+        private static ushort[] _raw; private static string _dumpedKey = ""; private static int _dumps;
+        /// <summary>Once per script: the raw codes of a page that didn't match what the window shows (to find codes the
+        /// early read doesn't understand yet, like the button icons). Commands are shown as [XXXX a b] with their arguments.</summary>
+        private static void Dump(int start, int end)
+        {
+            if (_raw == null || _dumpedKey == _key || _dumps++ >= 20) return;
+            _dumpedKey = _key;
+            var sb = new StringBuilder("GK2 read-ahead: page codes ");
+            for (int i = Math.Max(0, start); i < _raw.Length && i <= end + 1 && sb.Length < 1500;)
+            {
+                int c = _raw[i];
+                if (c >= 0xE000 && c <= 0xEFFF)
+                {
+                    int n = Args(c);
+                    sb.Append('[').Append(c.ToString("X4"));
+                    for (int j = 1; j <= n && i + j < _raw.Length; j++) sb.Append(' ').Append(_raw[i + j]);
+                    sb.Append(']');
+                    i += 1 + n;
+                    continue;
+                }
+                if (c >= 0x20 && c < 0x7F) sb.Append((char)c); else sb.Append('<').Append(c.ToString("X4")).Append('>');
+                i++;
+            }
+            Main.Log.Msg(sb.ToString());
+        }
+#endif
+
         public static string Page(string typed)
         {
             try
@@ -122,12 +161,21 @@ namespace AAIAccess
                         for (int i = 0; i < s.Length; i++) s[i] = str[i];
                         Split(s);
                         _key = key;
+#if DEVTOOLS
+                        _raw = s;
+#endif
                     }
                     // The page the game is reading now, if it starts with what has been typed.
                     foreach (var pg in _pages)
                     {
                         if (pos < pg.start || pos > pg.end + 1) continue;
-                        if (!pg.norm.StartsWith(t, StringComparison.Ordinal)) break;
+                        if (!pg.norm.StartsWith(t, StringComparison.Ordinal))
+                        {
+#if DEVTOOLS
+                            Dump(pg.start, pg.end);
+#endif
+                            break;
+                        }
                         return pg.norm.Length > t.Length ? pg.text : "";
                     }
                 }

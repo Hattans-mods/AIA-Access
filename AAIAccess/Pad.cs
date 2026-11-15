@@ -473,6 +473,13 @@ namespace AAIAccess
             return b.ToString();
         }
 
+        /// <summary>The game button (A, B, X or Y) that the face button at this place does; null for other places.</summary>
+        public static ButtonType? ButtonAt(B face)
+        {
+            for (int i = 0; i < 4; i++) if (_faceOf[i] == face) return (ButtonType)i;
+            return null;
+        }
+
         /// <summary>The name of the controller button that does the game's button bt (A = confirm, B = cancel ...).</summary>
         public static string Name(ButtonType bt)
         {

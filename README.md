@@ -1,6 +1,6 @@
 # AAI Access
 
-An accessibility mod for blind and low-vision players of Ace Attorney Investigations Collection on PC (Steam). Version 1.1.0
+An accessibility mod for blind and low-vision players of Ace Attorney Investigations Collection on PC (Steam). Version 1.1.1
 
 AAI Access reads the game aloud through your screen reader and helps you play every part of both games without seeing the screen: dialogue, menus, the Organizer, Logic, investigations, examinations, deductions, 3D evidence, Logic Chess, the security video, luminol and fingerprint tests. It also works with the free demo. You can play with the keyboard or a controller, in all the game's languages.
 
@@ -24,7 +24,7 @@ The same installer updates the mod (press Update) and removes it (press Uninstal
 ## Installing by hand
 
 1. Find the game's folder. In Steam, open your Library, select the game, open its Properties, choose Installed Files, then Browse. The usual place is: `C:\Program Files (x86)\Steam\steamapps\common\Ace Attorney Investigations Collection` (the demo's folder ends in "DEMO").
-2. Download the latest release zip (AAIAccess-1.1.0.zip) and copy everything in it into that folder: the MelonLoader, Mods and Plugins folders and the files version.dll, nvdaControllerClient64.dll and prism.dll. If Windows asks about replacing files, choose to replace them.
+2. Download the latest release zip (AAIAccess-1.1.1.zip) and copy everything in it into that folder: the MelonLoader, Mods and Plugins folders and the files version.dll, nvdaControllerClient64.dll and prism.dll. If Windows asks about replacing files, choose to replace them.
 3. Start the game from Steam.
 
 To update by hand, do the same with the new zip; your UserData folder is not in the zip, so it is kept.

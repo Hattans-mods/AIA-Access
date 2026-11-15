@@ -15,7 +15,7 @@ namespace AAIAccess
     public class Main : MelonMod
     {
         /// <summary>The mod's version. Raise it for every release; GitHub release tags are "V" + this.</summary>
-        public const string Version = "1.1.0";
+        public const string Version = "1.1.1";
 
         internal static MelonLogger.Instance Log;
 
