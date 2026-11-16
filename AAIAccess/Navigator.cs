@@ -106,7 +106,7 @@ namespace AAIAccess
         private static void LearnFromConversation(Target t)
         {
             // A big scene where lots of people talk (more than four besides Edgeworth): no telling who this one is.
-            int others = _convSpeakers.Keys.Count(k => k != "Edgeworth" && k != _partnerName && !k.Contains("?"));
+            int others = _convSpeakers.Keys.Count(k => !ObjNames.IsEdgeworth(k) && k != _partnerName && !ObjNames.IsUnknownSpeaker(k));
             if (others > 4)
             {
                 Main.Log.Msg($"Conversation with {t.Num} {ObjNames.Raw(t.Num)}: {others} people spoke ({string.Join(", ", _convSpeakers.Keys)}); too many to tell who it is");
@@ -121,14 +121,14 @@ namespace AAIAccess
                 Main.Log.Msg($"Conversation with {t.Num} {ObjNames.Raw(t.Num)}: {had} spoke; keeping that name");
                 return;
             }
-            int unknownAt = _convOrder.FindIndex(n => n.Contains("?"));
+            int unknownAt = _convOrder.FindIndex(n => ObjNames.IsUnknownSpeaker(n));
             if (unknownAt >= 0)
             {
                 string revealed = null;
                 for (int i = unknownAt + 1; i < _convOrder.Count && revealed == null; i++)
                 {
                     string sp = _convOrder[i];
-                    if (sp == "Edgeworth" || sp == _partnerName || sp.StartsWith("Gumshoe") || sp.Contains("?") || ObjNames.IsMainCharacterName(sp) || Companion(sp) || NameElsewhere(t, sp)) continue;
+                    if (ObjNames.IsEdgeworth(sp) || sp == _partnerName || ObjNames.IsGumshoe(sp) || ObjNames.IsUnknownSpeaker(sp) || ObjNames.IsMainCharacterName(sp) || Companion(sp) || NameElsewhere(t, sp)) continue;
                     revealed = sp;
                 }
                 Main.Log.Msg($"Conversation with {t.Num} {ObjNames.Raw(t.Num)}: speakers {string.Join(", ", _convOrder)}; unnamed speaker, then {revealed ?? "nobody new"}");
@@ -141,7 +141,7 @@ namespace AAIAccess
             foreach (var kv in _convSpeakers)
             {
                 string sp = kv.Key;
-                if (sp == "Edgeworth" || sp == _partnerName || sp.StartsWith("Gumshoe") || sp.Contains("?")) continue;
+                if (ObjNames.IsEdgeworth(sp) || sp == _partnerName || ObjNames.IsGumshoe(sp) || ObjNames.IsUnknownSpeaker(sp)) continue;
                 if (ObjNames.IsMainCharacterName(sp)) continue;   // e.g. Franziska joining in someone else's conversation
                 if (NameElsewhere(t, sp)) continue;               // e.g. the dog barking in someone else's conversation
                 if (Companion(sp)) { companions.Add(sp); continue; }
@@ -157,7 +157,7 @@ namespace AAIAccess
                 foreach (var kv in _convSpeakers)
                 {
                     string sp = kv.Key;
-                    if (sp == "Edgeworth" || sp == _partnerName || sp.StartsWith("Gumshoe") || sp.Contains("?") || !ObjNames.IsMainCharacterName(sp)) continue;
+                    if (ObjNames.IsEdgeworth(sp) || sp == _partnerName || ObjNames.IsGumshoe(sp) || ObjNames.IsUnknownSpeaker(sp) || !ObjNames.IsMainCharacterName(sp)) continue;
                     bool elsewhere = _targets.Exists(o => !Same(o, t) && o.Person && string.Equals(o.Name, sp, StringComparison.OrdinalIgnoreCase));
                     if (!elsewhere) mains.Add(sp);
                 }
@@ -167,7 +167,14 @@ namespace AAIAccess
             // Already named, and that person spoke here: keep the name (others may have talked more).
             string have = ObjNames.LearnedName(t.Num);
             if (have != null && _convSpeakers.ContainsKey(have)) best = null;
-            if (best != null && ObjNames.KnownName(t.Num)) { Main.Log.Msg("Already known by name; not learning"); best = null; }
+            if (best != null && ObjNames.KnownName(t.Num))
+            {
+                // The one who did the talking is this main character, under the name the game's text gives them.
+                // Only for a main character (not "police officer"), and only when nobody else spoke.
+                int others2 = _convSpeakers.Keys.Count(k => !ObjNames.IsEdgeworth(k) && k != _partnerName && !ObjNames.IsGumshoe(k) && !ObjNames.IsUnknownSpeaker(k));
+                if (others2 == 1 && ObjNames.IsMainCharacter(t.Num) && !string.Equals(best, t.Name, StringComparison.OrdinalIgnoreCase)) ObjNames.AddAlias(best);
+                Main.Log.Msg("Already known by name; not learning"); best = null;
+            }
             if (best != null) ObjNames.Learn(t.Num, best);
         }
 
@@ -179,7 +186,7 @@ namespace AAIAccess
             if (Time.unscaledTime - _talkAt > 30f) { _talkNum = -1; return; }
             string sp = Dialogue.LastSpeaker;
             if (string.IsNullOrEmpty(sp) || sp == _talkSpeakerBefore || Dialogue.LastSpeakerAt < _talkAt) return;
-            if (sp == "Edgeworth" || sp == _partnerName || sp.StartsWith("Gumshoe") || sp.Contains("?")) { _talkSpeakerBefore = sp; return; }
+            if (ObjNames.IsEdgeworth(sp) || sp == _partnerName || ObjNames.IsGumshoe(sp) || ObjNames.IsUnknownSpeaker(sp)) { _talkSpeakerBefore = sp; return; }
             ObjNames.Learn(_talkNum, sp);
             _talkNum = -1;
 #pragma warning restore CS0162
@@ -1263,7 +1270,11 @@ namespace AAIAccess
                 // Examining / talking: the game only updates its check mark the next time the prompt opens,
                 // so when a conversation started from the prompt is over, count that thing as checked.
                 bool canWalk = Investigation.PlayerCanWalk;
-                if (_couldWalk && !canWalk && _promptTarget != null && !string.IsNullOrEmpty(prompt))
+                // Pressing the partner button (T) in front of someone talks to the partner, not to them: that conversation
+                // doesn't name them and doesn't check them.
+                bool partnerTalk = _couldWalk && !canWalk && Dialogue.PartnerPressedWithin(1f);
+                if (partnerTalk && _promptTarget != null) Main.Log.Msg($"Partner button pressed in front of {_promptTarget.Num} {ObjNames.Raw(_promptTarget.Num)}: not a conversation with them");
+                if (_couldWalk && !canWalk && !partnerTalk && _promptTarget != null && !string.IsNullOrEmpty(prompt))
                 { _usingTarget = _promptTarget; _usingKey = _promptKey; _usingSince = Time.unscaledTime; _convSpeakers.Clear(); _convOrder.Clear(); Dialogue.LastSpeaker = ""; }
                 if (!_couldWalk && canWalk && _usingTarget != null)
                 {
@@ -1576,22 +1587,50 @@ namespace AAIAccess
             { "GUARD1", "guard" }, { "GUARD2", "guard" }, { "SUZUKI", "Maggey" }, { "S0_INIT", "Maggey" }, { "JYOICHIRO", "Ernest" }, { "HARABAI", "Meekins" }, { "TAIHOKUN_H", "Blue Badger" }, { "TAIHOCHAN_H", "Pink Badger" },
         };
 
-        private static readonly Dictionary<string, string> Words = new Dictionary<string, string>
-        {
-            { "L", "left" }, { "R", "right" }, { "UL", "upper left" }, { "UC", "upper middle" }, { "UR", "upper right" },
-            { "DL", "lower left" }, { "DC", "lower middle" }, { "DR", "lower right" }, { "N", "" }, { "F", "front" },
-            { "UP", "" }, { "DW", "fallen" }, { "MOB1", "person" }, { "MOB2", "person" }, { "MOB3", "person" }, { "MOB4", "person" }, { "MOB5", "person" },
-            { "LIHGT01", "light 1" }, { "LIHGT02", "light 2" }, { "LIHGT03", "light 3" }, { "LIHGT04", "light 4" },
-            { "TEASET", "tea set" }, { "CORPSE", "body" }, { "CORPSE2", "body" }, { "KEEPOUT", "keep out tape" }, { "ARIA01", "area 1" }, { "ARIA02", "area 2" },
-            { "TONOSAMAN", "Steel Samurai figure" }, { "FILE1", "files" }, { "FILE2", "files" }, { "FILE3", "files" }, { "WALL", "wall" },
-        };
+        // Parts of code names that say nothing to the player (CHAIR_UP, DOOR_ANIME, LISTEN_L_ANM).
+        private static readonly HashSet<string> Silent = new HashSet<string> { "N", "UP", "ANIME", "ANM", "FALSE", "NODATA", "RD", "CL", "AUTO", "KEEP" };
 
-        // Specific objects whose generic name would be confusing.
-        private static readonly Dictionary<string, string> Specific = new Dictionary<string, string>
+        // gk1names.txt (and lang/<code>/gk1names.txt): whole code names (OF_CORPSE2) and words of code names (BARREL),
+        // in the game's language.
+        private static Dictionary<string, string> _names;
+        private static int _namesVer = -1;
+
+        private static Dictionary<string, string> Names()
         {
-            { "OF_CORPSE", "body" }, { "OF_CORPSE2", "body, upper part" }, { "OF_WALL_L", "left wall, by the jacket" }, { "OF_FILE1", "scattered files" }, { "OF_FILE2", "scattered files, right" },
-            { "CRD00_DOOR_MITSURUGI", "door to your office" }, { "CRD00_DOOR_YUUKI", "office door" }, { "CRD00_MOBPOLICE", "police officer" },
-        };
+            if (_names != null && _namesVer == Loc.Version) return _names;
+            _names = new Dictionary<string, string>(StringComparer.Ordinal); _namesVer = Loc.Version;
+            try
+            {
+                using var st = Loc.Resource("gk1names.txt");
+                using var rd = new System.IO.StreamReader(st, System.Text.Encoding.UTF8);
+                string line;
+                while ((line = rd.ReadLine()) != null)
+                {
+                    line = line.Trim(); if (line.Length == 0 || line[0] == '#') continue;
+                    int e = line.IndexOf('='); if (e > 0) _names[line.Substring(0, e).Trim()] = line.Substring(e + 1).Trim();
+                }
+            }
+            catch (Exception e) { Main.Log.Warning("gk1names: " + e.Message); }
+            return _names;
+        }
+
+        private static bool CjkText(string s) => s.Length > 0 && s.Any(ch => ch >= 0x3000);
+
+        /// <summary>Joins words of a name: no spaces between Chinese or Japanese words, spaces otherwise.</summary>
+        private static string JoinWords(List<string> words)
+        {
+            var sb = new System.Text.StringBuilder();
+            foreach (var w in words)
+            {
+                if (sb.Length > 0)
+                {
+                    bool cjk = (Loc.Code == "ja" || Loc.Code == "zhs" || Loc.Code == "zht") && CjkText(w) && sb[sb.Length - 1] >= 0x3000;
+                    if (!cjk) sb.Append(' ');
+                }
+                sb.Append(w);
+            }
+            return sb.ToString();
+        }
 
         public static string Raw(int num)
         {
@@ -1599,6 +1638,10 @@ namespace AAIAccess
         }
 
         public static bool IsPerson(int num) => Raw(num).StartsWith("CHAR_");
+
+        private static readonly HashSet<string> MainCast = new HashSet<string> { "MITSURUGI", "MITSURUGI2", "ITONOKO", "MIKUMO", "KARUMAMEI", "ROW", "SHENA", "BADHO", "SUZUKI", "JYOICHIRO", "HARABAI" };
+        /// <summary>Someone the mod knows by their own name (Franziska), not by a job (police officer).</summary>
+        public static bool IsMainCharacter(int num) { string raw = Raw(num); return raw.StartsWith("CHAR_") && MainCast.Contains(raw.Substring(5)); }
 
         /// <summary>A main character whose name the mod already knows (e.g. Franziska): never learned from conversations.</summary>
         public static bool KnownName(int num)
@@ -1645,9 +1688,27 @@ namespace AAIAccess
 
         public static bool IsMainCharacterName(string name)
         {
-            foreach (var v in People.Values) if (string.Equals(v, name, StringComparison.OrdinalIgnoreCase)) return true;
-            return false;
+            if (string.IsNullOrEmpty(name)) return false;
+            foreach (var v in People.Values)
+                if (string.Equals(v, name, StringComparison.OrdinalIgnoreCase) || string.Equals(Loc.T(v), name, StringComparison.OrdinalIgnoreCase)) return true;
+            return _aliases.Contains(name);
         }
+
+        // What the game calls main characters when that isn't the mod's name for them (Franziska speaks as 狩魔 in
+        // Chinese): learned while talking to someone the mod already knows by name.
+        private static readonly HashSet<string> _aliases = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
+        public static void AddAlias(string name)
+        {
+            if (!string.IsNullOrEmpty(name) && _aliases.Add(name)) Main.Log.Msg("Main character also speaks as: " + name);
+        }
+
+        /// <summary>Edgeworth, as the game names him in its text (English or the game's language).</summary>
+        public static bool IsEdgeworth(string sp) => sp == "Edgeworth" || sp == Loc.T("Edgeworth");
+
+        public static bool IsGumshoe(string sp) => sp != null && (sp.StartsWith("Gumshoe") || sp.StartsWith(Loc.T("Gumshoe")));
+
+        /// <summary>"???" (or the wide "？？？" of Chinese and Japanese text): someone not introduced yet.</summary>
+        public static bool IsUnknownSpeaker(string sp) => sp != null && (sp.Contains('?') || sp.Contains('？'));
 
         public static string LearnedName(int num) => Learned().TryGetValue(num, out var n) ? n : null;
 
@@ -1673,7 +1734,9 @@ namespace AAIAccess
             string n0 = Name0(num);
             // Outside the flashback, OLD_ just means another sprite of the same person (e.g. Badd in episode 5).
             if (!Flashback && n0.StartsWith("young ") && Raw(num).Contains("OLD_")) n0 = n0.Substring(6);
-            return n0;
+            // People's names are the mod's English words (Franziska, police officer): in the game's language, like
+            // the names learned from conversations and the ones from gk1names.txt.
+            return Loc.T(n0);
         }
 
         private static string Name0(int num)
@@ -1681,7 +1744,8 @@ namespace AAIAccess
             string raw = Raw(num);
             if (KnownName(num)) return People[raw.Substring(5)];
             if (Learned().TryGetValue(num, out var ln)) return ln;
-            if (Specific.TryGetValue(raw, out var sp)) return sp;
+            var names = Names();
+            if (names.TryGetValue(raw, out var sp)) return sp;
             if (raw.StartsWith("CHAR_"))
             {
                 string n = raw.Substring(5);
@@ -1697,10 +1761,12 @@ namespace AAIAccess
             {
                 // The game numbers its variants of one thing (FIREPLACE / FIREPLACE2): that's not part of the name.
                 string wd = w.Length > 1 && char.IsLetter(w[0]) ? w.TrimEnd('0', '1', '2', '3', '4', '5', '6', '7', '8', '9') : w;
-                if (Words.TryGetValue(wd, out var r)) { if (r.Length > 0) outp.Add(r); }
-                else outp.Add(wd.ToLowerInvariant());
+                if (Silent.Contains(w) || Silent.Contains(wd)) continue;
+                // The whole word first (LIHGT01 is "light 1"), then without its number.
+                if (names.TryGetValue(w, out var r) || names.TryGetValue(wd, out r)) { if (r.Length > 0) outp.Add(r); }
+                else outp.Add(wd.Length == 1 ? wd : wd.ToLowerInvariant());   // single letters (A, B) stay capitals
             }
-            return outp.Count == 0 ? "spot " + num : string.Join(" ", outp);
+            return outp.Count == 0 ? "spot " + num : JoinWords(outp);
         }
 
         private static string Pretty(string s)

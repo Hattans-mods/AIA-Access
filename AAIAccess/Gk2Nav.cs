@@ -73,6 +73,7 @@ namespace AAIAccess
         // ---------- learning names from conversations ----------
         private static Target _talk, _conv;
         private static float _talkLostAt = -10f;
+        private static Target _partnerLogged;
         private static readonly List<string> _convOrder = new List<string>();
         private static readonly Dictionary<string, int> _convCount = new Dictionary<string, int>();
 
@@ -83,6 +84,13 @@ namespace AAIAccess
             if (string.IsNullOrEmpty(name)) return;
             // The talk prompt usually goes away while people speak, but in some rooms it stays up the whole time.
             bool facingTalk = false; try { var cp = Investigation.CurrentPrompt; facingTalk = cp != null && cp.StartsWith("Talk"); } catch { }
+            // A conversation started with the partner button (T) is with the partner, not with the person in front.
+            if (_conv == null && _talk != null && Dialogue.PartnerPressedWithin(4f))
+            {
+                if (_partnerLogged != _talk) Main.Log.Msg($"GK2: partner button pressed in front of {_talk.Key}: not a conversation with them");
+                _partnerLogged = _talk;
+                return;
+            }
             if (_conv == null && _talk != null && (Time.unscaledTime - _talkLostAt < 4f || facingTalk))
             {
                 _conv = _talk; _convOrder.Clear(); _convCount.Clear();
@@ -104,14 +112,14 @@ namespace AAIAccess
             if (People.ContainsKey(resName)) return;   // already known by name
             string partner = "";
             try { var pa = Gk2Map.Ctrl?.taskCtrl()?.getPartner(); if (pa != null) partner = PersonName(pa.getResID().ToString(), (int)pa.getResID(), (int)pa.getNameID()); } catch { }
-            bool Skip(string sp) => sp == "Edgeworth" || sp == partner || sp.Contains("?")
+            bool Skip(string sp) => ObjNames.IsEdgeworth(sp) || sp == partner || ObjNames.IsUnknownSpeaker(sp)
                 || _targets.Exists(o => o != t && o.Person && string.Equals(Base(o.Name), sp, StringComparison.OrdinalIgnoreCase));
             int num = PersonNum(t.Res, t.NameId);
             string had = ObjNames.LearnedName(num);
             Main.Log.Msg($"GK2 conversation with {t.Key} over; speakers {string.Join(", ", _convOrder.ConvertAll(x => x + ":" + _convCount[x]))}");
             if (had != null && _convCount.ContainsKey(had)) return;
             string pick = null;
-            int unknownAt = _convOrder.FindIndex(n => n.Contains("?"));
+            int unknownAt = _convOrder.FindIndex(n => ObjNames.IsUnknownSpeaker(n));
             if (unknownAt >= 0)
             {
                 for (int i = unknownAt + 1; i < _convOrder.Count && pick == null; i++) if (!Skip(_convOrder[i])) pick = _convOrder[i];

@@ -15,7 +15,7 @@ namespace AAIAccess
     public class Main : MelonMod
     {
         /// <summary>The mod's version. Raise it for every release; GitHub release tags are "V" + this.</summary>
-        public const string Version = "1.1.1";
+        public const string Version = "1.1.2";
 
         internal static MelonLogger.Instance Log;
 
@@ -219,6 +219,7 @@ namespace AAIAccess
             T("Dialogue", Dialogue.Poll);
             T("Investigation", Investigation.Poll);
             T("Logic", LogicScreen.Poll);
+            try { if (KeyMap.Down(Il2CppGK_System.Controller.ButtonType.X) || Pad.GameDown(Il2CppGK_System.Controller.ButtonType.X)) Dialogue.PartnerPressedAt = UnityEngine.Time.unscaledTime; } catch { }
             bool gk2 = Gk2Map.InGame;
             if (!gk2)
             {
@@ -315,6 +316,10 @@ namespace AAIAccess
         private static bool CatchUpOk(float now) => !_pendingSkipped && now - _pendingLastSeen < 0.5f;
         private static float _nextScan;
         private static string _lastErr;
+        /// <summary>When the game's partner button (key T, the top face button) was last down: a conversation that starts
+        /// right after it is with the partner, not with the person in front of Edgeworth.</summary>
+        internal static float PartnerPressedAt = -10f;
+        internal static bool PartnerPressedWithin(float seconds) => UnityEngine.Time.unscaledTime - PartnerPressedAt < seconds;
         internal static float LastSpokenAt = -10f;
         /// <summary>When a line of dialogue was last on screen (for pausing sounds during conversations).</summary>
         internal static float MessageSeenAt = -10f;

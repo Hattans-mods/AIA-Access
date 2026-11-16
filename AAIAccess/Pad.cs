@@ -193,6 +193,16 @@ namespace AAIAccess
         /// <summary>The bottom button (the game's confirm) is down and not hidden from the game.</summary>
         public static bool ConfirmDown { get { try { Refresh(); } catch { } return _down[(int)B.South] && !_swallow[(int)B.South]; } }
 
+        /// <summary>The controller button that does the game's button bt (A, B, X or Y) is down and not hidden from the game.</summary>
+        public static bool GameDown(ButtonType bt)
+        {
+            try { Refresh(); } catch { }
+            int i = (int)bt;
+            if (i < 0 || i >= 4) return false;
+            int f = (int)_faceOf[i];
+            return _down[f] && !_swallow[f];
+        }
+
         /// <summary>The player is moving with the left stick or the D-pad (not counting a mod chord).</summary>
         public static bool MoveHeld
         {
